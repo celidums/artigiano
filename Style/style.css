@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background: white;
+}
+
+body {
+  background: red;
+  margin: 1em;
+  border: solid black 0.12in;
+  border-radius: 4mm;
+  box-sizing: border-box;
+  height: 88mm;
+  position: relative;
+  width: 58mm;
+}
+
+h1 {
+  font-weight: normal;
+  position: relative;
+  text-transform: uppercase;
+  font-size: 4mm;
+  line-height: 5mm;
+  text-align: center;
+  height: 1cm;
+  background: yellow;
+  top: 8mm;
+  vertical-align: middle;
+  display: table-cell;
+}
+
+#type {
+  line-height: 5mm;
+  font-size: 4mm;
+  position: absolute;
+  bottom: 2mm;
+  left: 5mm;
+  transform-origin: bottom left;
+  transform: rotate(-90deg);
+}
+
+#material {
+  position: absolute;
+  top: 0;
+  left: 2mm;
+  line-height: 8mm;
+  font-size: 4mm;
+}
+
+main {
+  background: blue;
+  box-sizing: margin-box;
+  padding: 2mm;
+  position: absolute;
+  top: 20mm;
+  left: 5mm;
+  right: 2mm;
+  bottom: 2mm;
+}

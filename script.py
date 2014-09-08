@@ -26,7 +26,7 @@ for filename in os.listdir('.'):
             for i, line in enumerate(reader):
                 card = Card(*line)
                 variables = dict(
-                    (key, value.decode('utf-8'))
+                    (key, value.decode('utf-8') if value != 'x' else '')
                     for key, value in card._asdict().items())
                 with open('./Cartes/%s%02i - %s.html' % (
                         name[0], i, card.title), 'w') as fd:
