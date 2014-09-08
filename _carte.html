@@ -1,5 +1,26 @@
-<html>
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    <meta charset="utf-8">
+  </head>
+
   <body>
-    <h1>{{ titre }}</h1>
+    <h1>{{ title }}</h1>
+    <main>{{ text }}</main>
+    <aside id="type">{{ type }}</aside>
+    {% if material %}
+      <aside id="material">{{ material }} +{{ value }}</aside>
+    {% endif %}
+    {% if ma_points %}
+      <aside id="ma-points">{{ ma_points }}</aside>
+    {% endif %}
+    {% if sp_points %}
+      <aside id="sp-points">{{ sp_points }}</aside>
+    {% endif %}
+    {% if mi_points %}
+      <aside id="mi-points">{{ mi_points }}</aside>
+    {% endif %}
   </body>
+
 </html>
