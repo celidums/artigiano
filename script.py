@@ -7,7 +7,8 @@ from collections import namedtuple
 from jinja2 import Template
 
 
-shutil.rmtree('./Cartes')
+if os.path.exists('./Cartes'):
+    shutil.rmtree('./Cartes')
 os.mkdir('./Cartes')
 
 with open('_carte.html') as fd:
