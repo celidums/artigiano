@@ -5,58 +5,69 @@
 
 html {
   background: white;
+  font-family: Tallys;
 }
 
 body {
   background: red;
-  margin: 1em;
   border: solid black 0.12in;
   border-radius: 4mm;
   box-sizing: border-box;
   height: 88mm;
+  margin: 1em;
   position: relative;
   width: 58mm;
 }
 
-h1 {
-  font-weight: normal;
-  position: relative;
-  text-transform: uppercase;
-  font-size: 4mm;
-  line-height: 5mm;
-  text-align: center;
-  height: 1cm;
+header {
   background: yellow;
+  height: 9.5mm;
+  line-height: 10mm;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
   top: 8mm;
   vertical-align: middle;
-  display: table-cell;
+  width: 100%;
+}
+
+h1 {
+  display: inline-block;
+  line-height: 5mm;
+  font-size: 4mm;
+  font-weight: normal;
 }
 
 #type {
-  line-height: 5mm;
-  font-size: 4mm;
-  position: absolute;
   bottom: 2mm;
+  font-size: 4mm;
   left: 5mm;
-  transform-origin: bottom left;
+  line-height: 5mm;
+  position: absolute;
   transform: rotate(-90deg);
+  transform-origin: bottom left;
 }
 
 #material {
-  position: absolute;
-  top: 0;
+  font-size: 4mm;
   left: 2mm;
   line-height: 8mm;
-  font-size: 4mm;
+  position: absolute;
+  top: 0;
 }
 
 main {
   background: blue;
-  box-sizing: margin-box;
+  bottom: 2mm;
+  left: 5mm;
   padding: 2mm;
   position: absolute;
-  top: 20mm;
-  left: 5mm;
   right: 2mm;
-  bottom: 2mm;
+  top: 20mm;
+}
+
+.type-ma main {
+  text-align: center;
+  font-size: 30mm;
+  line-height: 55mm;
 }

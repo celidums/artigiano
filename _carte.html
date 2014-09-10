@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="../Style/style.css" />
   </head>
 
-  <body>
+  <body class="type-{{ type[:2] | lower }}">
     <h1>{{ title }}</h1>
     <main>{{ text }}</main>
     <aside id="type">{{ type }}</aside>
