@@ -16,10 +16,10 @@
       <aside id="material">{{ material.split('/') | join(' | ', 0) }} + {{ value }}</aside>
     {% endif %}
     {% if ma_points %}
-      <aside id="ma-points">{{ ma_points }}</aside>
+      <aside id="ma-points">{{ '%+i' % ma_points | int }}</aside>
     {% endif %}
     {% if sp_points %}
-      <aside id="sp-points">{{ sp_points }}</aside>
+      <aside id="sp-points">{{ '%+i' % sp_points | int }}</aside>
     {% endif %}
     {% if mi_points %}
       <aside id="mi-points">{{ mi_points }}</aside>

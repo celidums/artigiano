@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  font-size: 4cm;
   margin: 0;
   padding: 0;
 }
@@ -33,14 +34,12 @@ header {
 
 h1 {
   display: inline-block;
-  font-size: 4cm;
   font-weight: normal;
   line-height: 5cm;
 }
 
 #type {
   bottom: 2cm;
-  font-size: 4cm;
   left: 5.5cm;
   line-height: 5cm;
   position: absolute;
@@ -49,11 +48,39 @@ h1 {
 }
 
 #material {
-  font-size: 4cm;
   left: 2cm;
   line-height: 8cm;
   position: absolute;
   top: 0;
+}
+
+#ma-points {
+  right: 2cm;
+  line-height: 8cm;
+  position: absolute;
+  top: 0;
+}
+
+#mi-points, #sp-points {
+  background: rgba(0, 0, 0, 0.1);
+  line-height: 100%;
+  left: 50%;
+  padding: 0.2em;
+  position: absolute;
+  text-align: center;
+  width: 2em;
+}
+
+#sp-points {
+  border-radius: 1.5cm 1.5cm 0 0;
+  bottom: 2cm;
+  margin-left: -0.7em;
+}
+
+#mi-points {
+  border-radius: 0 0 1.5cm 1.5cm;
+  top: 0cm;
+  margin-left: -1em;
 }
 
 img {
