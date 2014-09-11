@@ -34,9 +34,11 @@ for filename in os.listdir('.'):
                     for key, value in card._asdict().items())
                 variables['code'] = code
                 variables['symbol'] = symbol
-                output_file = os.path.join(
-                    u'Cartes', u'%s - %s' % (code, variables['title']))
-                print('Rendu de %s' % output_file)
+                output_filename = (
+                    u'%s - %s' % (code, variables['title'])
+                    if variables['title'] else code)
+                output_file = os.path.join(u'Cartes', output_filename)
+                print('Rendu de %s' % output_filename)
                 with open(output_file + '.html', 'w') as fd:
                     fd.write(html.render(**variables).encode('utf-8'))
                 weasy = weasyprint.HTML(output_file + '.html')
