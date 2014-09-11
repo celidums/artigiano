@@ -1,0 +1,46 @@
+Type,Titre,Matériau,Valeur,Points matériaux,Points spéciaux,Points missions,Texte
+Action/Matériau,,Fondation,1,,x,x,
+Action/Matériau,,Fondation,2,,x,x,
+Action/Matériau,,Fondation,3,,x,x,
+Action/Matériau,,Fondation,4,,x,x,
+Action/Matériau,,Pierre,1,,x,x,
+Action/Matériau,,Pierre,2,,x,x,
+Action/Matériau,,Pierre,3,,x,x,
+Action/Matériau,,Tuile,1,,x,x,
+Action/Matériau,,Tuile,2,,x,x,
+Action/Matériau,,Fondation/Pierre,1,,x,x,
+Action/Matériau,,Fondation/Pierre,3,,x,x,
+Action/Matériau,,Fondation/Pierre,4,,x,x,
+Action/Matériau,,Pierre/Tuile,5,,x,x,
+Action/Matériau,,Fondation/Pierre/Tuile,1,,x,x,
+Action/Matériau,,Fondation/Pierre/Tuile,2,,x,x,
+Action,La fosse commune,x,x,x,x,x,Défaussez-vous du nombre de cartes que vous voulez et repiochez.
+Action,,x,x,x,x,x,Échangez votre jeu avec celui du joueur de votre choix
+Action,,x,x,x,x,x,Chaque joueur (vous excepté) défausse une carte de son stock.
+Action,La fosse commune,x,x,x,x,x,Défaussez-vous du nombre de cartes que vous voulez et repiochez.
+Action,,x,x,x,x,x,Tous les joueurs (vous excepté) ne peuvent poser de matériau lors de leur prochain tour.
+Matériau,Fondation,Fondation,1,,x,x,+​1
+Matériau,Fondation,Fondation,2,,x,x,+​2
+Matériau,Fondation,Fondation,3,,x,x,+​3
+Matériau,Fondation,Fondation,4,,x,x,+​4
+Matériau,Fondation,Fondation,5,,x,x,+​5
+Matériau,Pierre,Pierre,1,,x,x,+​1
+Matériau,Pierre,Pierre,4,,x,x,+​4
+Matériau,Pierre,Pierre,5,,x,x,+​5
+Matériau,Tuile,Tuile,3,,x,x,+​3
+Matériau,Tuile,Tuile,4,,x,x,+​4
+Spéciale,,x,x,,-1,x,Placez cette carte sur le stock d'un adversaire. Son stock est inutilisable jusqu'à ce qu'il défausse un matériau de 4 ou 5 points. A ce moment-là il passe la carte à côté de son château.
+Spéciale,,x,x,,,x,"Posez cette carte devant vous. A chaque fois que vous finissez de jouer votre tour, vous pouvez piocher une carte dans la main de chaque joueur qui vient de poser un matériau +3, +4 ou +5."
+Spéciale,,x,x,-2,,x,Placez cette carte sur le matériau d'un adversaire. Le matériau perd alors 2 points.
+Spéciale,,x,x,-3,,x,Placez cette carte sur le château d'un adversaire.
+Spéciale,,x,x,-1,,x,Remplacez un matériau d'un château adverse par cette carte.
+Mission royale,,x,x,x,x,14,
+Mission royale,,x,x,x,x,13,
+Mission royale,,x,x,x,x,12,
+Mission royale,,x,x,x,x,11,
+Mission royale,,x,x,x,x,10,
+Mission princière,,x,x,x,x,9,
+Mission princière,,x,x,x,x,8,
+Mission princière,,x,x,x,x,7,
+Mission princière,,x,x,x,x,6,
+Mission princière,,x,x,x,x,5,
