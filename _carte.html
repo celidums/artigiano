@@ -7,11 +7,13 @@
   </head>
 
   <body class="type-{{ type[:2] | lower }}">
-    <h1>{{ title }}</h1>
+    <header>
+      <h1>{{ title }}</h1>
+    </header>
     <main>{{ text }}</main>
-    <aside id="type">{{ type }}</aside>
+    <aside id="type">{{ type.split('/') | join(' | ') }}</aside>
     {% if material %}
-      <aside id="material">{{ material }} +{{ value }}</aside>
+      <aside id="material">{{ material.split('/') | join(' | ', 0) }} + {{ value }}</aside>
     {% endif %}
     {% if ma_points %}
       <aside id="ma-points">{{ ma_points }}</aside>
