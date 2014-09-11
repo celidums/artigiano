@@ -12,6 +12,7 @@
     </header>
     <main>{{ text }}</main>
     <aside id="type">{{ type.split('/') | join(' | ') }}</aside>
+    <aside id="symbol">{{ symbol }}</aside>
     {% if material %}
       <aside id="material">{{ material.split('/') | join(' | ', 0) }} + {{ value }}</aside>
     {% endif %}

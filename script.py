@@ -21,19 +21,21 @@ Card = namedtuple('Card', [
 
 for filename in os.listdir('.'):
     if not filename.startswith('_') and filename.endswith('.csv'):
-        name = filename[:-4]
+        symbol, name = filename.decode('utf-8').split(' ', 1)
+        name = name[:-4]
         with open(filename) as fd:
             reader = csv.reader(fd)
             reader.next()
             for i, line in enumerate(reader):
-                code = '%s%02i' % (name[0], i + 1)
+                code = u'%s%02i' % (symbol, i + 1)
                 card = Card(*line)
                 variables = dict(
                     (key, value.decode('utf-8') if value != 'x' else '')
                     for key, value in card._asdict().items())
                 variables['code'] = code
+                variables['symbol'] = symbol
                 output_file = os.path.join(
-                    'Cartes', '%s - %s' % (code, card.title))
+                    u'Cartes', u'%s - %s' % (code, variables['title']))
                 print('Rendu de %s' % output_file)
                 with open(output_file + '.html', 'w') as fd:
                     fd.write(html.render(**variables).encode('utf-8'))

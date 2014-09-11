@@ -83,6 +83,17 @@ h1 {
   margin-left: -1em;
 }
 
+#symbol {
+  background: white;
+  bottom: 0;
+  border-radius: 1em 0 1em 0;
+  line-height: 1em;
+  padding: 0.5em 0.7em 0.5em 0.4em;
+  position: absolute;
+  right: 0;
+  vertical-align: bottom;
+}
+
 img {
   border: 0.4cm solid black;
   bottom: 2cm;
