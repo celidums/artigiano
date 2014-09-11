@@ -1,0 +1,50 @@
+Type,Titre,Matériau,Valeur,Points matériaux,Points spéciaux,Points missions,Texte
+Action/Matériau,La révolte,Fondation,1,,x,x,Le joueur après vous passe son tour.
+Action/Matériau,Le marché,Fondation,2,,x,x,Regardez la main d'un adversaire. Prenez une carte de votre choix et donnez-lui en une de votre main.
+Action/Matériau,L'étal,Fondation,3,,x,x,Vous pouvez poser autant de matériaux de votre main que vous voulez. Ces matériaux doivent être de même type et de même valeur que des matériaux déjà posés sur l'ensemble du jeu.
+Action/Matériau,Le verger,Fondation,4,,x,x,Posez un matériau et rejouez.
+Action/Matériau,La révolte,Pierre,1,,x,x,Le joueur après vous passe son tour.
+Action/Matériau,La charrue,Pierre,2,,x,x,Regardez la main d'un adversaire. Prenez une carte de votre choix et donnez-lui en une de votre main.
+Action/Matériau,L'étal,Pierre,3,,x,x,Vous pouvez poser autant de matériaux de votre main que vous voulez. Ces matériaux doivent être de même type et de même valeur que des matériaux déjà posés sur l'ensemble du jeu.
+Action/Matériau,La cave,Tuile,1,,x,x,Le stock du joueur de votre choix est rongé d'humidité. Retirez-lui une carte au hasard.
+Action/Matériau,Le four à pain,Tuile,2,,x,x,Placez immédiatement deux matériaux de votre choix. Les joueurs qui ont des matériaux de même type et de même valeur peuvent les poser aussi.
+Action/Matériau,Le hachoir,Fondation/Pierre,1,,x,x,Tous les joueurs se défaussent de 2 cartes.
+Action/Matériau,Le moulin,Fondation/Pierre,3,,x,x,Choisissez un autre joueur. Comparez vos mains mutuelles et négociez des échanges de cartes.
+Action/Matériau,Le tour de magie,Fondation/Pierre,4,,x,x,Echangez un matériau d'un château adverse avec un matériau de votre château.
+Action/Matériau,Le corbeille de fruits,Pierre/Tuile,5,,x,x,Volez une carte spéciale d'un adversaire et mettez-la dans votre main.
+Action/Matériau,Le hachoir,Fondation/Pierre/Tuile,1,,x,x,Tous les joueurs se défaussent de 2 cartes.
+Action/Matériau,Le moulin,Fondation/Pierre/Tuile,2,,x,x,Choisissez un autre joueur. Comparez vos mains mutuelles et négociez des échanges de cartes.
+Action,Le cellier,x,x,x,x,x,Regardez les cartes du stock d'un autre joueur.
+Action,La place du village,x,x,x,x,x,Choisissez un autre joueur qui doit dévoiler sa main à l'assemblée.
+Action,La monnaie,x,x,x,x,x,Echangez votre main avec celle du joueur de votre choix.
+Action,L'escroc,x,x,x,x,x,Piochez 2 cartes au hasard dans le jeu du joueur de votre choix et donnez-lui en 2 de votre main.
+Action,L'escroc,x,x,x,x,x,Piochez 2 cartes au hasard dans le jeu du joueur de votre choix et donnez-lui en 2 de votre main.
+Matériau,Fondation,Fondation,1,,x,x,+​1
+Matériau,Fondation,Fondation,2,,x,x,+​2
+Matériau,Fondation,Fondation,3,,x,x,+​3
+Matériau,Fondation,Fondation,4,,x,x,+​4
+Matériau,Fondation,Fondation,5,,x,x,+​5
+Matériau,Pierre,Pierre,1,,x,x,+​1
+Matériau,Pierre,Pierre,4,,x,x,+​4
+Matériau,Pierre,Pierre,5,,x,x,+​5
+Matériau,Tuile,Tuile,3,,x,x,+​3
+Matériau,Tuile,Tuile,4,,x,x,+​4
+Spéciale,Le quincaillier,x,x,,1,x,Placez cette carte devant vous. Une fois dans la partie vous pouvez dupliquer une action qui vient d'être jouée.
+Spéciale,Le relayeur,x,x,,,x,"A la fin de la partie, dupliquez une carte spéciale d'un adversaire."
+Spéciale,Le rubanier,x,x,,,x,"A la fin de la partie, choisissez le château d'un autre joueur et marquez +1pt par carte de +5pts posées sur son château."
+Spéciale,Le porte-clefs,x,x,,3,x,"Cette carte ne peut être posée devant vous que lorsqu'elle est dévoilée, vue ou prise au hasard par un autre joueur."
+Spéciale,Le rôtisseur,x,x,,2,x,Prenez une carte au hasard dans le stock d'un adversaire et placez-y celle-ci à la place.
+Mission royale,Le siège de Paris,x,x,x,x,14,Avoir 4 cartes de même type et de même valeur qu'un joueur de votre choix.
+Mission royale,Les Etats Généraux,x,x,x,x,13,Ne pas avoir plus de 2 actions dans votre main à la fin de la partie.
+Mission royale,Le Roi de Navarre,x,x,x,x,12,Avoir le stock rempli et sans carte action à la fin de la partie.
+Mission royale,La poule au pot,x,x,x,x,11,Être le joueur à avoir le moins de cases occupées sur son château à la fin de la partie.
+Mission royale,La cour des miracles,x,x,x,x,10,Être celui qui a le moins de cartes spéciales jouées sur son propre château par soi-même à la fin de la partie.
+Mission princière,La bataille d'Arques,x,x,x,x,9,Jouez 2 cartes actions « pures » lors de 2 tours successifs.
+Mission princière,Le siège de Paris,x,x,x,x,8,PROVOQUE
+Mission princière,,x,x,x,x,7,Jouez 2 cartes actions qui ciblent la même personne dans le même tour.
+Mission princière,La prise de Grenade,x,x,x,x,6,N'ayez aucune carte dans votre main.
+Mission princière,La part du pauvre,x,x,x,x,5,Défaussez une carte spéciale.
+,,,,,,,
+,Le chemin de Saint-Jacques,,,,,,
+,L'abbaye,,,,,,
+,Le massacre de la Saint-Barthélémy,,,,,,
