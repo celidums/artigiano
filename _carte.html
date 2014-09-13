@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="../Style/style.css" />
   </head>
 
-  <body class="type-{{ type[:2] | lower }}">
+  <body class="type-{% if '/' in type %}{{ type.split('/') | join('', 0) | lower }}{% elif ' ' in type %}{{ type.split(' ') | join('', 0) | lower }}{% else %}{{ type[:2] | lower }}{% endif %} deck-{{ symbol }}">
     <header>
       <h1>{{ title }}</h1>
     </header>

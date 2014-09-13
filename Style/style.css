@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  color: #222;
   font-size: 4cm;
   margin: 0;
   padding: 0;
@@ -11,7 +12,8 @@ html {
 }
 
 body {
-  background: white;
+  background-image: url(fond.png);
+  background-size: cover;
   border: solid black 3cm;
   border-radius: 4cm;
   height: 88cm;
@@ -21,13 +23,17 @@ body {
 }
 
 header {
-  background: rgba(0, 0, 0, 0.1);
-  height: 9.5cm;
-  line-height: 10cm;
+  background: rgba(255, 255, 255, 0.3);
+  border-bottom: 1cm solid transparent;
+  border-top: 1cm solid transparent;
+  box-sizing: content-box;
+  height: 7cm;
+  line-height: 8cm;
+  padding: 1cm 0;
   position: relative;
   text-align: center;
   text-transform: uppercase;
-  top: 7.5cm;
+  top: 11cm;
   vertical-align: middle;
   width: 100%;
 }
@@ -35,7 +41,7 @@ header {
 h1 {
   display: inline-block;
   font-weight: normal;
-  line-height: 5cm;
+  line-height: 4cm;
 }
 
 #type {
@@ -62,32 +68,30 @@ h1 {
 }
 
 #mi-points, #sp-points {
-  background: rgba(0, 0, 0, 0.1);
-  line-height: 100%;
+  line-height: 1.3em;
   left: 50%;
   padding: 0.2em;
   position: absolute;
   text-align: center;
-  width: 2em;
+  width: 1.8em;
 }
 
 #sp-points {
-  border-radius: 1.5cm 1.5cm 0 0;
   bottom: 2cm;
-  margin-left: -0.7em;
+  margin-left: -0.6em;
 }
 
 #mi-points {
-  border-radius: 0 0 1.5cm 1.5cm;
   top: 0cm;
-  margin-left: -1em;
+  margin-left: -0.9em;
 }
 
 #symbol {
-  color: rgba(0, 0, 0, 0.5);
   bottom: 2cm;
   border-radius: 1em 0 1em 0;
+  color: black;
   line-height: 1em;
+  opacity: 0.3;
   padding: 0.1em 0.3em;
   position: absolute;
   right: 2cm;
@@ -106,21 +110,78 @@ img {
 }
 
 main {
-  background: rgba(0, 0, 0, 0.1);
-  border-radius: 1cm;
+  background: rgba(255, 255, 255, 0.3);
+  border: 1px solid rgba(0, 0, 0, 0.15);
   bottom: 2cm;
-  height: 60cm;
+  height: 50cm;
   left: 5cm;
   padding: 2cm;
   position: absolute;
   right: 2cm;
 }
 
+.type-ma {
+  background-color: rgba(200, 170, 125, 0.5);
+}
+.type-ma header {
+  border-color: rgba(200, 170, 125, 0.5);
+}
+
+.type-am {
+  background-color: rgba(70, 135, 170, 0.2);
+}
+.type-am header {
+  border-color: rgba(70, 135, 170, 0.4);
+}
+
+.type-ac {
+  background-color: rgba(140, 0, 20, 0.2);
+}
+.type-ac header {
+  border-color: rgba(120, 0, 20, 0.25);
+}
+
+.type-sp {
+  background-color: rgba(20, 0, 20, 0.1);
+}
+.type-sp header {
+  border-color: rgba(20, 0, 20, 0.15);
+}
+
+.type-mp {
+  background-color: rgba(0, 80, 255, 0.7);
+}
+.type-mp header {
+  background-color: rgba(250, 250, 250, 0.3);
+  border-color: rgba(250, 250, 250, 0.9);
+}
+
+.type-mr {
+  background-color: rgba(0, 80, 255, 0.7);
+}
+.type-mr header {
+  background-color: rgba(250, 250, 120, 0.2);
+  border-color: rgba(230, 200, 0, 0.9);
+}
+.type-mr header h1 {
+  color: rgba(230, 200, 0, 0.9);
+  max-width: 70%;
+}
+.type-mr header:before, .type-mr header:after {
+  color: rgba(230, 200, 0, 0.9);
+  content: '⚜';
+  height: 2em;
+  display: inline-block;
+  line-height: 2em;
+  vertical-align: top;
+  width: 10%;
+}
 .type-ma main {
   font-size: 20cm;
   line-height: 50cm;
   text-align: center;
 }
+
 
 @page {
   margin: 0;
@@ -131,7 +192,7 @@ main {
   html {
     height: 37.4in;
     width: 24.88in;
-    background: black;
+    background: white;
   }
 
   body {
