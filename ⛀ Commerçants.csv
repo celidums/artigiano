@@ -16,7 +16,7 @@ Action/Matériau,Le hachoir,Fondation/Pierre/Tuile,1,,x,x,Tous les joueurs se d�
 Action/Matériau,Le moulin,Fondation/Pierre/Tuile,2,,x,x,Choisissez un joueur. Comparez vos mains mutuelles et négociez des échanges de cartes.
 Action,Le cellier,x,x,x,x,x,Regardez les cartes du stock d'un autre joueur.
 Action,La place du village,x,x,x,x,x,Choisissez un autre joueur qui doit dévoiler sa main à l'assemblée.
-Action,La monnaie,x,x,x,x,x,Échangez votre main avec celle du joueur de votre choix.
+Action,Le marchand de tapis,x,x,x,x,x,Échangez votre main avec celle du joueur de votre choix.
 Action,La contrebande,x,x,x,x,x,Piochez 2 cartes au hasard dans le jeu du joueur de votre choix et donnez-lui en 2 de votre main.
 Action,La contrebande,x,x,x,x,x,Piochez 2 cartes au hasard dans le jeu du joueur de votre choix et donnez-lui en 2 de votre main.
 Matériau,Fondation,Fondation,1,,x,x,+​1
