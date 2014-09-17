@@ -16,8 +16,8 @@ with open('_carte.html') as fd:
     html = Template(fd.read().decode('utf-8'))
 
 Card = namedtuple('Card', [
-    'type', 'title', 'material', 'value', 'ma_points', 'sp_points',
-    'mi_points', 'text'])
+    'type', 'material', 'value', 'ma_points', 'sp_points',
+    'mi_points', 'title', 'text'])
 
 for filename in os.listdir('.'):
     if not filename.startswith('_') and filename.endswith('.csv'):
