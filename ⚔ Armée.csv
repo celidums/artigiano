@@ -1,46 +1,46 @@
-Type,Titre,Matériau,Valeur,Points matériaux,Points spéciaux,Points missions,Texte
-Action/Matériau,Double attaque,Fondation,1,,x,x,Jouez cette carte avec une autre carte action. Elle double le nombre de joueurs visés ou le nombre de cartes inscrit sur cette dernière.
-Action/Matériau,La cave,Fondation,2,,x,x,Retirez une carte au hasard du stock du joueur de votre choix.
-Action/Matériau,La catapulte,Fondation,3,,x,x,Désignez un joueur qui défausse 2 matériaux superficiels de +1 et / ou +2 de votre choix.
-Action/Matériau,Glissement de terrain,Fondation,4,,x,x,Désignez un joueur qui perd une fondation de son choix. Les matériaux au-dessus de cette fondation sont également détruits.
-Action/Matériau,Double attaque,Pierre,1,,x,x,Jouez cette carte avec une autre carte action. Elle double le nombre de joueurs visés ou le nombre de cartes inscrit sur cette dernière.
-Action/Matériau,La charrue,Pierre,2,,x,x,Regardez la main d'un adversaire. Prenez une carte de votre choix et donnez-lui en une de votre main.
-Action/Matériau,La catapulte,Pierre,3,,x,x,Choisissez un joueur qui défausse 2 matériaux superficiels de +1 et / ou +2 de votre choix.
-Action/Matériau,La cave,Tuile,1,,x,x,Retirez une carte au hasard du stock du joueur de votre choix.
-Action/Matériau,Le canon,Tuile,2,,x,x,Tous les joueurs (vous excepté) perdent un matériau superficiel de votre choix.
-Action/Matériau,Les archers,Fondation/Pierre,1,,x,x,Tous les joueurs (vous excepté) ne piochent pas lors de leur prochain tour.
-Action/Matériau,Le cheval de Troie,Fondation/Pierre,3,,x,x,Attaquez latéralement un château adverse. Le joueur visé doit se défausser de toutes les cartes extérieurs d'un côté (de son choix) de son château.
-Action/Matériau,Le pillage,Fondation/Pierre,4,,x,x,Prenez un matériau d'un autre joueur et placez-le sur votre château.
-Action/Matériau,Le pillage,Pierre/Tuile,5,,x,x,Prenez un matériau d'un autre joueur et placez-le sur votre château.
-Action/Matériau,Les archers,Fondation/Pierre/Tuile,1,,x,x,Tous les joueurs (vous excepté) ne piochent pas lors de leur prochain tour.
-Action/Matériau,L'arbalète,Fondation/Pierre/Tuile,2,,x,x,Choisissez un joueur qui défausse les tuiles de +1 à +3 de son château.
-Action,La fosse commune,x,x,x,x,x,Défaussez-vous du nombre de cartes que vous voulez et repiochez.
-Action,Le marchand de tapis,x,x,x,x,x,Échangez votre main avec celui du joueur de votre choix
-Action,Le siège,x,x,x,x,x,Chaque joueur (vous excepté) défausse une carte de son stock.
-Action,La fosse commune,x,x,x,x,x,Défaussez-vous du nombre de cartes que vous voulez et repiochez.
-Action,,x,x,x,x,x,Tous les joueurs (vous excepté) ne peuvent poser de matériau lors de leur prochain tour.
-Matériau,Fondation,Fondation,1,,x,x,+​1
-Matériau,Fondation,Fondation,2,,x,x,+​2
-Matériau,Fondation,Fondation,3,,x,x,+​3
-Matériau,Fondation,Fondation,4,,x,x,+​4
-Matériau,Fondation,Fondation,5,,x,x,+​5
-Matériau,Pierre,Pierre,1,,x,x,+​1
-Matériau,Pierre,Pierre,4,,x,x,+​4
-Matériau,Pierre,Pierre,5,,x,x,+​5
-Matériau,Tuile,Tuile,3,,x,x,+​3
-Matériau,Tuile,Tuile,4,,x,x,+​4
-Spéciale,,x,x,,-1,x,Placez cette carte sur le stock d'un adversaire. Son stock est inutilisable jusqu'à ce qu'il défausse un matériau de 4 ou 5 points. A ce moment-là il passe la carte à côté de son château.
-Spéciale,,x,x,,,x,"Posez cette carte devant vous. A chaque fois que vous finissez de jouer votre tour, vous pouvez piocher une carte dans la main de chaque joueur qui vient de poser un matériau +3, +4 ou +5."
-Spéciale,,x,x,-2,,x,Placez cette carte sur le matériau d'un adversaire. Le matériau perd alors 2 points.
-Spéciale,,x,x,-3,,x,Placez cette carte sur le château d'un adversaire.
-Spéciale,,x,x,-1,,x,Remplacez un matériau d'un château adverse par cette carte.
-Mission royale,,x,x,x,x,14,Avoir la somme des cartes spéciales la plus élevée.
-Mission royale,,x,x,x,x,13,Avoir le château avec le plus de cases remplies.
-Mission royale,,x,x,x,x,12,Avoir le plus de matériaux +5 sur votre château.
-Mission royale,,x,x,x,x,11,N'avoir au maximum qu'une carte spéciale ou action pure dans votre main et votre stock.
-Mission royale,,x,x,x,x,10,Avoir son stock vide.
-Mission princière,,x,x,x,x,9,N'ayez aucune action dans votre main.
-Mission princière,,x,x,x,x,8,Détruisez 3 matériaux posés sur des châteaux adverses dans le même tour.
-Mission princière,,x,x,x,x,7,Ayez attaqué par une action le château d'un joueur avant qu'il n'ait terminé ses fondations.
-Mission princière,,x,x,x,x,6,Jouez 3 actions lors du même tour.
-Mission princière,,x,x,x,x,5,Ayez attaqué par une action le château d'un joueur qui a déjà posé une tuile.
+Type,Matériau,Valeur,Points matériaux,Points spéciaux,Points missions,Titre,Texte
+Action/Matériau,Fondation,1,,x,x,Double attaque,Jouez cette carte avec une autre carte action. Elle double le nombre de joueurs visés ou le nombre de cartes inscrit sur cette dernière.
+Action/Matériau,Fondation,2,,x,x,La cave,Retirez une carte au hasard du stock du joueur de votre choix.
+Action/Matériau,Fondation,3,,x,x,La catapulte,Désignez un joueur qui défausse 2 matériaux superficiels de +1 et / ou +2 de votre choix.
+Action/Matériau,Fondation,4,,x,x,Glissement de terrain,Désignez un joueur qui perd une fondation de son choix. Les matériaux au-dessus de cette fondation sont également détruits.
+Action/Matériau,Pierre,1,,x,x,Double attaque,Jouez cette carte avec une autre carte action. Elle double le nombre de joueurs visés ou le nombre de cartes inscrit sur cette dernière.
+Action/Matériau,Pierre,2,,x,x,La charrue,Regardez la main d'un adversaire. Prenez une carte de votre choix et donnez-lui en une de votre main.
+Action/Matériau,Pierre,3,,x,x,La catapulte,Choisissez un joueur qui défausse 2 matériaux superficiels de +1 et / ou +2 de votre choix.
+Action/Matériau,Tuile,1,,x,x,La cave,Retirez une carte au hasard du stock du joueur de votre choix.
+Action/Matériau,Tuile,2,,x,x,Le canon,Tous les joueurs (vous excepté) perdent un matériau superficiel de votre choix.
+Action/Matériau,Fondation/Pierre,1,,x,x,Les archers,Tous les joueurs (vous excepté) ne piochent pas lors de leur prochain tour.
+Action/Matériau,Fondation/Pierre,3,,x,x,Le cheval de Troie,Attaquez latéralement un château adverse. Le joueur visé doit se défausser de toutes les cartes extérieurs d'un côté (de son choix) de son château.
+Action/Matériau,Fondation/Pierre,4,,x,x,Le pillage,Prenez un matériau d'un autre joueur et placez-le sur votre château.
+Action/Matériau,Pierre/Tuile,5,,x,x,Le pillage,Prenez un matériau d'un autre joueur et placez-le sur votre château.
+Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,Les archers,Tous les joueurs (vous excepté) ne piochent pas lors de leur prochain tour.
+Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,L'arbalète,Choisissez un joueur qui défausse les tuiles de +1 à +3 de son château.
+Action,x,x,x,x,x,La fosse commune,Défaussez-vous du nombre de cartes que vous voulez et repiochez.
+Action,x,x,x,x,x,Le marchand de tapis,Échangez votre main avec celui du joueur de votre choix
+Action,x,x,x,x,x,Le siège,Chaque joueur (vous excepté) défausse une carte de son stock.
+Action,x,x,x,x,x,La fosse commune,Défaussez-vous du nombre de cartes que vous voulez et repiochez.
+Action,x,x,x,x,x,,Tous les joueurs (vous excepté) ne peuvent poser de matériau lors de leur prochain tour.
+Matériau,Fondation,1,,x,x,Fondation,+​1
+Matériau,Fondation,2,,x,x,Fondation,+​2
+Matériau,Fondation,3,,x,x,Fondation,+​3
+Matériau,Fondation,4,,x,x,Fondation,+​4
+Matériau,Fondation,5,,x,x,Fondation,+​5
+Matériau,Pierre,1,,x,x,Pierre,+​1
+Matériau,Pierre,4,,x,x,Pierre,+​4
+Matériau,Pierre,5,,x,x,Pierre,+​5
+Matériau,Tuile,3,,x,x,Tuile,+​3
+Matériau,Tuile,4,,x,x,Tuile,+​4
+Spéciale,x,x,,-1,x,,Placez cette carte sur le stock d'un adversaire. Son stock est inutilisable jusqu'à ce qu'il défausse un matériau de 4 ou 5 points. A ce moment-là il passe la carte à côté de son château.
+Spéciale,x,x,,,x,,"Posez cette carte devant vous. A chaque fois que vous finissez de jouer votre tour, vous pouvez piocher une carte dans la main de chaque joueur qui vient de poser un matériau +3, +4 ou +5."
+Spéciale,x,x,-2,,x,,Placez cette carte sur le matériau d'un adversaire. Le matériau perd alors 2 points.
+Spéciale,x,x,-3,,x,,Placez cette carte sur le château d'un adversaire.
+Spéciale,x,x,-1,,x,,Remplacez un matériau d'un château adverse par cette carte.
+Mission royale,x,x,x,x,14,,Avoir la somme des cartes spéciales la plus élevée.
+Mission royale,x,x,x,x,13,,Avoir le château avec le plus de cases remplies.
+Mission royale,x,x,x,x,12,,Avoir le plus de matériaux +5 sur votre château.
+Mission royale,x,x,x,x,11,,N'avoir au maximum qu'une carte spéciale ou action pure dans votre main et votre stock.
+Mission royale,x,x,x,x,10,,Avoir son stock vide.
+Mission princière,x,x,x,x,9,,N'ayez aucune action dans votre main.
+Mission princière,x,x,x,x,8,,Détruisez 3 matériaux posés sur des châteaux adverses dans le même tour.
+Mission princière,x,x,x,x,7,,Ayez attaqué par une action le château d'un joueur avant qu'il n'ait terminé ses fondations.
+Mission princière,x,x,x,x,6,,Jouez 3 actions lors du même tour.
+Mission princière,x,x,x,x,5,,Ayez attaqué par une action le château d'un joueur qui a déjà posé une tuile.

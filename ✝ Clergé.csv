@@ -1,46 +1,46 @@
-Type,Titre,Matériau,Valeur,Points matériaux,Points spéciaux,Points missions,Texte
-Action/Matériau,,Fondation,1,,x,x,
-Action/Matériau,,Fondation,2,,x,x,
-Action/Matériau,,Fondation,3,,x,x,
-Action/Matériau,,Fondation,4,,x,x,
-Action/Matériau,,Pierre,1,,x,x,
-Action/Matériau,,Pierre,2,,x,x,
-Action/Matériau,,Pierre,3,,x,x,
-Action/Matériau,,Tuile,1,,x,x,
-Action/Matériau,,Tuile,2,,x,x,
-Action/Matériau,,Fondation/Pierre,1,,x,x,
-Action/Matériau,,Fondation/Pierre,3,,x,x,
-Action/Matériau,,Fondation/Pierre,4,,x,x,
-Action/Matériau,,Pierre/Tuile,5,,x,x,
-Action/Matériau,,Fondation/Pierre/Tuile,1,,x,x,
-Action/Matériau,,Fondation/Pierre/Tuile,2,,x,x,
-Action,,x,x,x,x,x,
-Action,,x,x,x,x,x,
-Action,,x,x,x,x,x,
-Action,,x,x,x,x,x,
-Action,,x,x,x,x,x,
-Matériau,Fondation,Fondation,1,,x,x,+​1
-Matériau,Fondation,Fondation,2,,x,x,+​2
-Matériau,Fondation,Fondation,3,,x,x,+​3
-Matériau,Fondation,Fondation,4,,x,x,+​4
-Matériau,Fondation,Fondation,5,,x,x,+​5
-Matériau,Pierre,Pierre,1,,x,x,+​1
-Matériau,Pierre,Pierre,4,,x,x,+​4
-Matériau,Pierre,Pierre,5,,x,x,+​5
-Matériau,Tuile,Tuile,3,,x,x,+​3
-Matériau,Tuile,Tuile,4,,x,x,+​4
-Spéciale,,x,x,,,x,
-Spéciale,,x,x,,,x,
-Spéciale,,x,x,,,x,
-Spéciale,,x,x,,,x,
-Spéciale,,x,x,,,x,
-Mission royale,,x,x,x,x,14,
-Mission royale,,x,x,x,x,13,
-Mission royale,,x,x,x,x,12,
-Mission royale,Le chemin de Saint-Jacques,x,x,x,x,11,
-Mission royale,L'abbaye,x,x,x,x,10,
-Mission princière,Le massacre de la Saint-Barthélémy,x,x,x,x,9,
-Mission princière,La bataille d'Arques,x,x,x,x,8,
-Mission princière,Le complot des Malcontents,x,x,x,x,7,
-Mission princière,,x,x,x,x,6,
-Mission princière,,x,x,x,x,5,
+Type,Matériau,Valeur,Points matériaux,Points spéciaux,Points missions,Titre,Texte
+Action/Matériau,Fondation,1,,x,x,,
+Action/Matériau,Fondation,2,,x,x,,
+Action/Matériau,Fondation,3,,x,x,,
+Action/Matériau,Fondation,4,,x,x,,
+Action/Matériau,Pierre,1,,x,x,,
+Action/Matériau,Pierre,2,,x,x,,
+Action/Matériau,Pierre,3,,x,x,,
+Action/Matériau,Tuile,1,,x,x,,
+Action/Matériau,Tuile,2,,x,x,,
+Action/Matériau,Fondation/Pierre,1,,x,x,,
+Action/Matériau,Fondation/Pierre,3,,x,x,,
+Action/Matériau,Fondation/Pierre,4,,x,x,,
+Action/Matériau,Pierre/Tuile,5,,x,x,,
+Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,,
+Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,,
+Action,x,x,x,x,x,,
+Action,x,x,x,x,x,,
+Action,x,x,x,x,x,,
+Action,x,x,x,x,x,,
+Action,x,x,x,x,x,,
+Matériau,Fondation,1,,x,x,Fondation,+​1
+Matériau,Fondation,2,,x,x,Fondation,+​2
+Matériau,Fondation,3,,x,x,Fondation,+​3
+Matériau,Fondation,4,,x,x,Fondation,+​4
+Matériau,Fondation,5,,x,x,Fondation,+​5
+Matériau,Pierre,1,,x,x,Pierre,+​1
+Matériau,Pierre,4,,x,x,Pierre,+​4
+Matériau,Pierre,5,,x,x,Pierre,+​5
+Matériau,Tuile,3,,x,x,Tuile,+​3
+Matériau,Tuile,4,,x,x,Tuile,+​4
+Spéciale,x,x,,,x,,
+Spéciale,x,x,,,x,,
+Spéciale,x,x,,,x,,
+Spéciale,x,x,,,x,,
+Spéciale,x,x,,,x,,
+Mission royale,x,x,x,x,14,,
+Mission royale,x,x,x,x,13,,
+Mission royale,x,x,x,x,12,,
+Mission royale,x,x,x,x,11,Le chemin de Saint-Jacques,
+Mission royale,x,x,x,x,10,L'abbaye,
+Mission princière,x,x,x,x,9,Le massacre de la Saint-Barthélémy,
+Mission princière,x,x,x,x,8,La bataille d'Arques,
+Mission princière,x,x,x,x,7,Le complot des Malcontents,
+Mission princière,x,x,x,x,6,,
+Mission princière,x,x,x,x,5,,
