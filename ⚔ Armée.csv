@@ -12,7 +12,7 @@ Action/Matériau,Fondation/Pierre,1,,x,x,Les archers,Tous les joueurs (vous exce
 Action/Matériau,Fondation/Pierre,3,,x,x,Le cheval de Troie,Attaquez latéralement un château adverse. Le joueur visé doit se défausser de toutes les cartes extérieurs d'un côté (de son choix) de son château.
 Action/Matériau,Fondation/Pierre,4,,x,x,Le pillage,Prenez un matériau d'un autre joueur et placez-le sur votre château.
 Action/Matériau,Pierre/Tuile,5,,x,x,Le pillage,Prenez un matériau d'un autre joueur et placez-le sur votre château.
-Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,Les archers,Tous les joueurs (vous excepté) ne piochent pas lors de leur prochain tour.
+Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,L'arquebuse,Tous les joueurs (vous excepté) ne piochent pas lors de leur prochain tour.
 Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,L'arbalète,Choisissez un joueur qui défausse les tuiles de +1 à +3 de son château.
 Action,x,x,x,x,x,La fosse commune,Défaussez-vous du nombre de cartes que vous voulez et repiochez.
 Action,x,x,x,x,x,Le marchand de tapis,Échangez votre main avec celui du joueur de votre choix
