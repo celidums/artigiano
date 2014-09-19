@@ -1,24 +1,24 @@
 Type,Matériau,Valeur,Points matériaux,Points spéciaux,Points missions,Titre,Texte
-Action/Matériau,Fondation,1,,x,x,,
-Action/Matériau,Fondation,2,,x,x,,
-Action/Matériau,Fondation,3,,x,x,,
-Action/Matériau,Fondation,4,,x,x,,
-Action/Matériau,Pierre,1,,x,x,,
-Action/Matériau,Pierre,2,,x,x,,
-Action/Matériau,Pierre,3,,x,x,,
-Action/Matériau,Tuile,1,,x,x,,
-Action/Matériau,Tuile,2,,x,x,,
-Action/Matériau,Fondation/Pierre,1,,x,x,,
-Action/Matériau,Fondation/Pierre,3,,x,x,,
-Action/Matériau,Fondation/Pierre,4,,x,x,,
-Action/Matériau,Pierre/Tuile,5,,x,x,,
-Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,,
-Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,,
-Action,x,x,x,x,x,,
-Action,x,x,x,x,x,,
-Action,x,x,x,x,x,,
-Action,x,x,x,x,x,,
-Action,x,x,x,x,x,,
+Action/Matériau,Fondation,1,,x,x,La clef de voûte,Défaussez une carte spéciale posée sur votre château.
+Action/Matériau,Fondation,2,,x,x,Le couvent,Désignez un joueur qui ne pourra poser d'action au prochain tour.
+Action/Matériau,Fondation,3,,x,x,La confrérie,Tous les joueurs défaussent une carte action.
+Action/Matériau,Fondation,4,,x,x,l'Angelus,Affichez les 3 premières cartes de la pioche. Prenez-en une de votre choix et replacez les autres dans l'ordre que vous voulez.
+Action/Matériau,Pierre,1,,x,x,Le Pater Noster,Défaussez 2 cartes et rejouez.
+Action/Matériau,Pierre,2,,x,x,Le couvent,Désignez un joueur qui ne pourra poser d'action au prochain tour.
+Action/Matériau,Pierre,3,,x,x,Le Pater Noster,Défaussez 2 cartes et rejouez.
+Action/Matériau,Tuile,1,,x,x,La prière,Retournez une action contre son attaquant. (L'action doit avoir été jouée depuis votre dernier tour de jeu).
+Action/Matériau,Tuile,2,,x,x,La confrérie,Tous les joueurs défaussent une carte action.
+Action/Matériau,Fondation/Pierre,1,,x,x,L'arquebuse,Tous les joueurs (vous excepté) ne piochent pas lors de leur prochain tour.
+Action/Matériau,Fondation/Pierre,3,,x,x,La chapelle,Votre château ne subit pas les effets des cartes action jusqu'à votre prochain tour mais vous ne pourrez poser de matériau.
+Action/Matériau,Fondation/Pierre,4,,x,x,La chapelle,Votre château ne subit pas les effets des cartes action jusqu'à votre prochain tour mais vous ne pourrez poser de matériau.
+Action/Matériau,Pierre/Tuile,5,,x,x,La gargouille,Détruisez une carte spéciale.
+Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,Le monastère,Regardez le stock d'un autre joueur. Echangez le nombre de carte que vous voulez de son stock avec des cartes de votre stock.
+Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,Le monastère,Regardez le stock d'un autre joueur. Echangez le nombre de carte que vous voulez de son stock avec des cartes de votre stock.
+Action,x,x,x,x,x,Le pêché,Échangez le nombre de cartes de votre stock que vous voulez avec des cartes de votre main.
+Action,x,x,x,x,x,Le pêché,Échangez le nombre de cartes de votre stock que vous voulez avec des cartes de votre main.
+Action,x,x,x,x,x,Le baptême,Désignez un joueur qui se défausse de toutes ses cartes action.
+Action,x,x,x,x,x,Le cloître,"Chaque joueur pose une carte de sa main face cachée au centre de la table. Regardez-les en secret, prenez en une dans votre main et redistribuez en une à chaque joueur."
+Action,x,x,x,x,x,Le confessionnal,Demandez à un joueur de vous dévoiler une de ses missions.
 Matériau,Fondation,1,,x,x,Fondation,+​1
 Matériau,Fondation,2,,x,x,Fondation,+​2
 Matériau,Fondation,3,,x,x,Fondation,+​3
@@ -29,18 +29,18 @@ Matériau,Pierre,4,,x,x,Pierre,+​4
 Matériau,Pierre,5,,x,x,Pierre,+​5
 Matériau,Tuile,3,,x,x,Tuile,+​3
 Matériau,Tuile,4,,x,x,Tuile,+​4
-Spéciale,x,x,,,x,,
-Spéciale,x,x,,,x,,
-Spéciale,x,x,,,x,,
-Spéciale,x,x,,,x,,
-Spéciale,x,x,,,x,,
-Mission royale,x,x,x,x,14,,
-Mission royale,x,x,x,x,13,,
-Mission royale,x,x,x,x,12,,
-Mission royale,x,x,x,x,11,Le chemin de Saint-Jacques,
-Mission royale,x,x,x,x,10,L'abbaye,
-Mission princière,x,x,x,x,9,Le massacre de la Saint-Barthélémy,
-Mission princière,x,x,x,x,8,La bataille d'Arques,
-Mission princière,x,x,x,x,7,Le complot des Malcontents,
-Mission princière,x,x,x,x,6,,
-Mission princière,x,x,x,x,5,,
+Spéciale,x,x,,-3,x,Le sonneur de cloches,Placez cette carte dans votre stock. Le prochain attaquant du stock pose la carte dans sa zone spéciale.
+Spéciale,x,x,,2,x,Le pape,Placez cette carte devant vous. Une fois par partie vous pouvez annuler l'effet d'un action adverse.
+Spéciale,x,x,,,x,Le curé,Placez toutes les cartes actions qui ont attaqué votre château sur celle-ci et marquez +1 par carte en fin de partie.
+Spéciale,x,x,,-1,x,L'enfant de choeur,Un adversaire doit lancer une action contre votre château pour faire tomber cette carte et pouvoir ensuite réattaquer votre château. Il récupère alors cette carte sur son château.
+Spéciale,x,x,,,x,La vierge,Remplacez un matériau par cette carte. Elle protège tous les matériau adjacents des actions adverses. (Cette carte vaut 0 point matériau).
+Mission royale,x,x,x,x,14,Le chemin de croix,N'avoir au maximum que 2 cases vides d'écart avec le château le plus rempli. 
+Mission royale,x,x,x,x,13,Le complot des Malcontents,Avoir le plus de points sur son château y compris avec les cartes spéciales sur les matériaux.
+Mission royale,x,x,x,x,12,La bataille d'Arques,Avoir marqué au moins 18 points de mission sans cette mission.
+Mission royale,x,x,x,x,11,Le chemin de Saint-Jacques,Ne pas avoir toutes les cases « pierre » remplies.
+Mission royale,x,x,x,x,10,Le massacre de la Saint-Barthélémy,N'avoir jamais posé aucune carte spéciale.
+Mission princière,x,x,x,x,9,La conjuration d'Amboise,Ayez posé ttes vos fondations avant d'avoir posé une pierre.
+Mission princière,x,x,x,x,8,L'Edit de Nantes,Attribuez-vous l'action d'une carte action (au départ destinée à attaquer un autre joueur).
+Mission princière,x,x,x,x,7,La « chambre ardente » du parlement de Paris,Ayez au moins 3 matériaux de moins que le château le moins rempli.
+Mission princière,x,x,x,x,6,L'affaire des Placards,Posez 3 matériaux stockés au même tour.
+Mission princière,x,x,x,x,5,Le massacre de Wassy,"A la fin de votre tour de jeu, révélez une mission avant d'avoir fini vos fondations."
