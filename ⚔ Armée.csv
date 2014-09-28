@@ -33,7 +33,7 @@ Spéciale,x,x,,-1,x,Le capitaine,Placez cette carte sur le stock d'un adversaire
 Spéciale,x,x,,,x,Le racol,"Posez cette carte devant vous. A chaque fois que vous finissez de jouer votre tour, vous pouvez piocher une carte dans la main de chaque joueur qui vient de poser un matériau +3, +4 ou +5."
 Spéciale,x,x,-2,,x,Le maître d'armes,Placez cette carte sur le matériau d'un adversaire. Le matériau perd alors 2 points.
 Spéciale,x,x,-3,,x,L'officier,Placez cette carte sur le château d'un adversaire.
-Spéciale,x,x,-1,,x,Prévôt de la maréchaussée,Remplacez un matériau d'un château adverse par cette carte.
+Spéciale,x,x,-1,,x,Le prévôt de la maréchaussée,Remplacez un matériau d'un château adverse par cette carte.
 Mission royale,x,x,x,x,14,,Avoir la somme des cartes spéciales la plus élevée.
 Mission royale,x,x,x,x,13,,Avoir le château avec le plus de cases remplies.
 Mission royale,x,x,x,x,12,,Avoir le plus de matériaux +5 sur votre château.
