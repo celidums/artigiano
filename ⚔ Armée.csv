@@ -1,24 +1,24 @@
 Type,Matériau,Valeur,Points matériaux,Points spéciaux,Points missions,Titre,Texte
 Action/Matériau,Fondation,1,,x,x,Double attaque,Jouez cette carte avec une autre carte action. Elle double le nombre de joueurs visés ou le nombre de cartes inscrit sur cette dernière.
 Action/Matériau,Fondation,2,,x,x,La cave,Retirez une carte au hasard du stock du joueur de votre choix.
-Action/Matériau,Fondation,3,,x,x,La catapulte,Désignez un joueur qui défausse 2 matériaux superficiels de +1 et / ou +2 de votre choix.
+Action/Matériau,Fondation,3,,x,x,La formation au carré,Désignez un joueur qui défausse 2 matériaux superficiels de +1 et / ou +2 de votre choix.
 Action/Matériau,Fondation,4,,x,x,Glissement de terrain,Désignez un joueur qui perd une fondation de son choix. Les matériaux au-dessus de cette fondation sont également détruits.
 Action/Matériau,Pierre,1,,x,x,Double attaque,Jouez cette carte avec une autre carte action. Elle double le nombre de joueurs visés ou le nombre de cartes inscrit sur cette dernière.
-Action/Matériau,Pierre,2,,x,x,La charrue,Regardez la main d'un adversaire. Prenez une carte de votre choix et donnez-lui en une de votre main.
-Action/Matériau,Pierre,3,,x,x,La catapulte,Choisissez un joueur qui défausse 2 matériaux superficiels de +1 et / ou +2 de votre choix.
+Action/Matériau,Pierre,2,,x,x,Le négoce,Regardez la main d'un adversaire. Prenez une carte de votre choix et donnez-lui en une de votre main.
+Action/Matériau,Pierre,3,,x,x,La formation au carré,Choisissez un joueur qui défausse 2 matériaux superficiels de +1 et / ou +2 de votre choix.
 Action/Matériau,Tuile,1,,x,x,La cave,Retirez une carte au hasard du stock du joueur de votre choix.
 Action/Matériau,Tuile,2,,x,x,Le canon,Tous les joueurs (vous excepté) perdent un matériau superficiel de votre choix.
-Action/Matériau,Fondation/Pierre,1,,x,x,Les archers,Tous les joueurs (vous excepté) ne piochent pas lors de leur prochain tour.
-Action/Matériau,Fondation/Pierre,3,,x,x,Le cheval de Troie,Attaquez latéralement un château adverse. Le joueur visé doit se défausser de toutes les cartes extérieurs d'un côté (de son choix) de son château.
+Action/Matériau,Fondation/Pierre,1,,x,x,Le mousquet,Tous les joueurs (vous excepté) ne piochent pas lors de leur prochain tour.
+Action/Matériau,Fondation/Pierre,3,,x,x,La ruse,Attaquez latéralement un château adverse. Le joueur visé doit se défausser de toutes les cartes extérieurs d'un côté (de son choix) de son château.
 Action/Matériau,Fondation/Pierre,4,,x,x,Le pillage,Prenez un matériau d'un autre joueur et placez-le sur votre château.
 Action/Matériau,Pierre/Tuile,5,,x,x,Le pillage,Prenez un matériau d'un autre joueur et placez-le sur votre château.
-Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,L'arquebuse,Tous les joueurs (vous excepté) ne piochent pas lors de leur prochain tour.
+Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,Le mousquet,Tous les joueurs (vous excepté) ne piochent pas lors de leur prochain tour.
 Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,L'arbalète,Choisissez un joueur qui défausse les tuiles de +1 à +3 de son château.
 Action,x,x,x,x,x,La fosse commune,Défaussez-vous du nombre de cartes que vous voulez et repiochez.
 Action,x,x,x,x,x,Le marchand de tapis,Échangez votre main avec celui du joueur de votre choix
 Action,x,x,x,x,x,Le siège,Chaque joueur (vous excepté) défausse une carte de son stock.
 Action,x,x,x,x,x,La fosse commune,Défaussez-vous du nombre de cartes que vous voulez et repiochez.
-Action,x,x,x,x,x,,Tous les joueurs (vous excepté) ne peuvent poser de matériau lors de leur prochain tour.
+Action,x,x,x,x,x,Le casernement,Tous les joueurs (vous excepté) ne peuvent poser de matériau lors de leur prochain tour.
 Matériau,Fondation,1,,x,x,Fondation,+​1
 Matériau,Fondation,2,,x,x,Fondation,+​2
 Matériau,Fondation,3,,x,x,Fondation,+​3
@@ -29,11 +29,11 @@ Matériau,Pierre,4,,x,x,Pierre,+​4
 Matériau,Pierre,5,,x,x,Pierre,+​5
 Matériau,Tuile,3,,x,x,Tuile,+​3
 Matériau,Tuile,4,,x,x,Tuile,+​4
-Spéciale,x,x,,-1,x,,Placez cette carte sur le stock d'un adversaire. Son stock est inutilisable jusqu'à ce qu'il défausse un matériau de 4 ou 5 points. A ce moment-là il passe la carte à côté de son château.
-Spéciale,x,x,,,x,,"Posez cette carte devant vous. A chaque fois que vous finissez de jouer votre tour, vous pouvez piocher une carte dans la main de chaque joueur qui vient de poser un matériau +3, +4 ou +5."
-Spéciale,x,x,-2,,x,,Placez cette carte sur le matériau d'un adversaire. Le matériau perd alors 2 points.
-Spéciale,x,x,-3,,x,,Placez cette carte sur le château d'un adversaire.
-Spéciale,x,x,-1,,x,,Remplacez un matériau d'un château adverse par cette carte.
+Spéciale,x,x,,-1,x,Le capitaine,Placez cette carte sur le stock d'un adversaire. Son stock est inutilisable jusqu'à ce qu'il défausse un matériau de 4 ou 5 points. A ce moment-là il passe la carte à côté de son château.
+Spéciale,x,x,,,x,Le racol,"Posez cette carte devant vous. A chaque fois que vous finissez de jouer votre tour, vous pouvez piocher une carte dans la main de chaque joueur qui vient de poser un matériau +3, +4 ou +5."
+Spéciale,x,x,-2,,x,Le maître d'armes,Placez cette carte sur le matériau d'un adversaire. Le matériau perd alors 2 points.
+Spéciale,x,x,-3,,x,L'officier,Placez cette carte sur le château d'un adversaire.
+Spéciale,x,x,-1,,x,Prévôt de la maréchaussée,Remplacez un matériau d'un château adverse par cette carte.
 Mission royale,x,x,x,x,14,,Avoir la somme des cartes spéciales la plus élevée.
 Mission royale,x,x,x,x,13,,Avoir le château avec le plus de cases remplies.
 Mission royale,x,x,x,x,12,,Avoir le plus de matériaux +5 sur votre château.

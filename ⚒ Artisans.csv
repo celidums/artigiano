@@ -1,23 +1,23 @@
 Type,Matériau,Valeur,Points matériaux,Points spéciaux,Points missions,Titre,Texte
 Action/Matériau,Fondation,1,,x,x,La révolte,Désignez un joueur qui passera son prochain tour.
-Action/Matériau,Fondation,2,,x,x,Le contrefort,Vous pouvez placer deux matériaux de même valeur.
+Action/Matériau,Fondation,2,,x,x,Le linteau,Vous pouvez placer deux matériaux de même valeur.
 Action/Matériau,Fondation,3,,x,x,Les renforts,Vous pouvez poser deux cartes du même matériau.
 Action/Matériau,Fondation,4,,x,x,Le glissement de terrain,Désignez un joueur qui perd une fondation de son choix. Les matériaux au-dessus de cette fondation sont également détruits.
 Action/Matériau,Pierre,1,,x,x,La poulie,Vous pouvez placer jusqu'à trois matériaux au prochain tour.
-Action/Matériau,Pierre,2,,x,x,Le contrefort,Vous pouvez placer deux matériaux de même valeur.
+Action/Matériau,Pierre,2,,x,x,Le linteau,Vous pouvez placer deux matériaux de même valeur.
 Action/Matériau,Pierre,3,,x,x,Les renforts,Vous pouvez poser deux cartes du même matériau.
 Action/Matériau,Tuile,1,,x,x,La poulie,Vous pouvez placer jusqu'à trois matériaux au prochain tour.
 Action/Matériau,Tuile,2,,x,x,Le plan de construction,Réorganisez les matériaux de votre château à votre guise.
 Action/Matériau,Fondation/Pierre,1,,x,x,Le puits,Affichez les cartes de la pioche une par une jusqu'à obtenir un matériau. Placez ce matériau dans votre main. Remettez les autres cartes dans la pioche dans l'ordre de votre choix.
-Action/Matériau,Fondation/Pierre,3,,x,x,Les oubliettes,Regardez le stock d'un autre joueur. Vous pouvez prendre un matériau de son stock pour le placer sur votre château.
-Action/Matériau,Fondation/Pierre,4,,x,x,Le tour de magie,Échangez un matériau d'un château adverse avec un matériau de votre château.
+Action/Matériau,Fondation/Pierre,3,,x,x,Le vestibule,Regardez le stock d'un autre joueur. Vous pouvez prendre un matériau de son stock pour le placer sur votre château.
+Action/Matériau,Fondation/Pierre,4,,x,x,La bonne affaire,Échangez un matériau d'un château adverse avec un matériau de votre château.
 Action/Matériau,Pierre/Tuile,5,,x,x,Le pillage,Prenez un matériau d'un autre joueur et placez-le sur votre château.
 Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,Le puits,Affichez les cartes de la pioche une par une jusqu'à obtenir un matériau. Placez ce matériau dans votre main. Remettez les autres cartes dans la pioche dans l'ordre de votre choix.
-Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,Les oubliettes,Regardez le stock d'un autre joueur. Vous pouvez prendre un matériau de son stock pour le placer sur votre château.
+Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,Le vestibule,Regardez le stock d'un autre joueur. Vous pouvez prendre un matériau de son stock pour le placer sur votre château.
 Action,x,x,x,x,x,L'espionnage,Regardez les cartes du stock d'un autre joueur.
 Action,x,x,x,x,x,Les intempéries,Vous pouvez poser un matériau. Le joueur après vous passe son tour.
 Action,x,x,x,x,x,Les intempéries,Vous pouvez poser un matériau. Le joueur après vous passe son tour.
-Action,x,x,x,x,x,La bonne aventure,Regardez la main du joueur de votre choix. Vous pouvez poser un matériau.
+Action,x,x,x,x,x,L'escalier à double révolution,Regardez la main du joueur de votre choix. Vous pouvez poser un matériau.
 Action,x,x,x,x,x,La fosse commune,Défaussez-vous du nombre de carte que vous souhaitez.
 Matériau,Fondation,1,,x,x,Fondation,+​1
 Matériau,Fondation,2,,x,x,Fondation,+​2
@@ -29,11 +29,11 @@ Matériau,Pierre,4,,x,x,Pierre,+​4
 Matériau,Pierre,5,,x,x,Pierre,+​5
 Matériau,Tuile,3,,x,x,Tuile,+​3
 Matériau,Tuile,4,,x,x,Tuile,+​4
-Spéciale,x,x,1,,x,Le négociant,Posez un matériau sur votre château et posez cette carte sur le matériau. Vous pouvez changer le type de cette carte matériau par le type de votre choix.
+Spéciale,x,x,1,,x,Le couvreur,Posez un matériau sur votre château et posez cette carte sur le matériau. Vous pouvez changer le type de cette carte matériau par le type de votre choix.
 Spéciale,x,x,,3,x,Le rénovateur,Remplacez certains matériaux déjà posés par des matériaux plus forts de votre main.
-Spéciale,x,x,,,x,Le maître d'étable,"Durant toute la partie, vous pouvez stocker deux cartes supplémentaires sur cette carte. Ces cartes ne sont pas sensibles aux actions qui concernent le stock."
+Spéciale,x,x,,,x,Le magasinier,"Durant toute la partie, vous pouvez stocker deux cartes supplémentaires sur cette carte. Ces cartes ne sont pas sensibles aux actions qui concernent le stock."
 Spéciale,x,x,2,,x,Le compagnon,Posez cette carte sur le matériau de votre choix.
-Spéciale,x,x,,,x,Le constructeur,Posez cette carte sur le matériau de votre choix. Ce matériau ne peut pas être la cible des actions et ne peut pas être détruit par une action.
+Spéciale,x,x,,,x,Le forgeron,Posez cette carte sur le matériau de votre choix. Ce matériau ne peut pas être la cible des actions et ne peut pas être détruit par une action.
 Mission royale,x,x,x,x,14,,N'avoir aucun matériau pur dans votre château.
 Mission royale,x,x,x,x,13,,Avoir 6 matériaux purs dans votre château.
 Mission royale,x,x,x,x,12,,Avoir 2 cartes spéciales posées sur les matériaux de votre château.
