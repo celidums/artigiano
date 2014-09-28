@@ -1,0 +1,39 @@
+html {
+  color: #222;
+  font-family: Tallys;
+  font-size: 18pt;
+}
+
+h1, h2, h3, h4 {
+  font-weight: normal;
+}
+
+p {
+  text-align: justify;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+sup {
+  font-size: 0.65em;
+}
+
+#sommaire {
+  border-bottom: 1px dotted;
+  border-top: 1px dotted;
+  padding: 0.3em 0.5em;
+}
+
+ul {
+  page-break-inside: avoid;
+}
+
+@media screen {
+  body {
+    max-width: 30em;
+    margin: auto;
+  }
+}
