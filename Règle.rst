@@ -2,6 +2,8 @@
  Renaissance
 =============
 
+Un jeu de Céline Dumas, avec l’étroite collaboration de Guillaume Ayoub.
+
 Architecture, art, science : l’Europe connaît du XIV\ :sup:`ème` au XVI\
 :sup:`ème` siècle un extraordinaire renouveau dans de nombreux domaines. Alors
 que les châteaux-forts sont rendus obsolètes par les progrès de l’artillerie,
@@ -9,9 +11,6 @@ monarques et princes construisent de somptueux châteaux à travers le
 continent. Saurez-vous rassembler les plus beaux matériaux et vous entourer des
 meilleurs spécialistes pour construire le vôtre avant la fin de cette faste
 époque ?
-
-.. contents:: Sommaire
-   :depth: 2
 
 
 Matériel
@@ -259,3 +258,7 @@ Le joueur avec le plus de points est déclaré vainqueur.
 
 Variantes
 =========
+
+
+Remerciements
+=============

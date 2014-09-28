@@ -1,39 +1,49 @@
-html {
+@page {
+  margin: 2cm;
+}
+
+body {
   color: #222;
+  font-size: 13pt !important;
+  max-width: 25em;
   font-family: Tallys;
   font-size: 18pt;
+  margin: auto;
 }
 
 h1, h2, h3, h4 {
   font-weight: normal;
+  margin-top: 1.4em;
+  margin-bottom: 0.6em;
+}
+
+h1 + p {
+  margin: 0;
+}
+
+h1 + p + p {
+  border-top: 0.1mm solid black;
+  border-bottom: 0.1mm solid black;
+  margin: 1.5em 0;
+  padding: 1em;
+}
+
+h3, h4 {
+  text-decoration: underline;
 }
 
 p {
   text-align: justify;
 }
 
-a {
-  color: inherit;
-  text-decoration: inherit;
+ul {
+  padding-left: 1.5em;
+}
+
+ul, p {
+  page-break-inside: avoid;
 }
 
 sup {
   font-size: 0.65em;
-}
-
-#sommaire {
-  border-bottom: 1px dotted;
-  border-top: 1px dotted;
-  padding: 0.3em 0.5em;
-}
-
-ul {
-  page-break-inside: avoid;
-}
-
-@media screen {
-  body {
-    max-width: 30em;
-    margin: auto;
-  }
 }
