@@ -6,8 +6,13 @@ Architecture, art, science : l’Europe connaît du XIV\ :sup:`ème` au XVI\
 :sup:`ème` siècle un extraordinaire renouveau dans de nombreux domaines. Alors
 que les châteaux-forts sont rendus obsolètes par les progrès de l’artillerie,
 monarques et princes construisent de somptueux châteaux à travers le
-continent. Saurez-vous rassembler les plus beaux matériaux pour construire le
-vôtre avant la fin de cette faste époque ?
+continent. Saurez-vous rassembler les plus beaux matériaux et vous entourer des
+meilleurs spécialistes pour construire le vôtre avant la fin de cette faste
+époque ?
+
+.. contents:: Sommaire
+   :depth: 2
+
 
 Matériel
 ========
@@ -40,13 +45,15 @@ Chaque carte de matériau, chaque mission et une partie des cartes spéciales
 vous apportent en fin de partie un nombre de points indiqué sur la carte. Le
 but du jeu est simplement d’avoir le plus de points à l’issue de la partie.
 
+
 Vocabulaire
 ===========
 
 Zones de jeu
 ------------
 
-Le « plateau » est la zone sur laquelle se situent les cases de château.
+Le « plateau » est la zone sur laquelle se situent les cases de château. Chaque
+joueur a son propre plateau et le pose devant lui.
 
 À droite du plateau se trouve le « stock » où sont posées face cachée les
 cartes gardées en stock. Le stock peut contenir trois cartes.
@@ -115,7 +122,7 @@ tas (missions obligatoires et missions facultatives) sont posés face cachée
 dans la zone spéciale.
 
 On mélange ensuite les cartes de la pioche. On distribue à chaque joueur 5
-cartes qu’il prend dans sa main.
+cartes qu’il prend dans sa main et qu’il cache aux autres.
 
 Déroulement du jeu
 ==================
@@ -127,8 +134,8 @@ phases.
 Phase 1 : jouer
 ---------------
 
-Lors de la première phase, le joueur a le choix d’effectuer une opération
-parmi :
+Lors de la première phase, le joueur actuel a le choix d’effectuer une
+opération parmi :
 
 - poser un matériau ;
 - poser une action ;
@@ -140,17 +147,49 @@ parmi :
 Poser un matériau
 ~~~~~~~~~~~~~~~~~
 
+Le joueur actuel pose un matériau de sa main sur une case libre de son
+plateau. Le genre du matériau doit correspondre au genre indiqué sur la case.
+
+Si le joueur actuel a dans sa main une carte spéciale dont le texte dit qu’elle
+peut être jouée en même temps qu’une carte matériau, il peut la jouer en même
+temps. Le matériau joué prend alors les propriétés indiquées sur la carte
+spéciale. Ainsi, si un joueur pose une pierre +1 avec une carte spéciale
+indiquant que le matériau gagne +2 en valeur, on considère que la carte posée
+est une pierre +3.
+
 Poser une action
 ~~~~~~~~~~~~~~~~
+
+Le joueur actuel pose une action de sa main sur la zone d’action. L’action
+indiquée sur la carte est effectuée. Suite à cette action, toutes les cartes
+qui doivent potentiellement être défaussées à la suite du tour sont posées dans
+l’ordre dans la zone d’action.
 
 Poser une carte spéciale
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+Le joueur actuel pose une carte spéciale de sa main. Par défaut, la carte
+spéciale doit être posée dans la zone spéciale du joueur actuel. Si le texte
+indique que la carte doit être posée ailleurs (par exemple sur un matériau ou
+sur la zone spéciale d’un autre joueur), il faut alors suivre ce qu’il est
+indiqué sur la carte.
+
 Jouer le stock
 ~~~~~~~~~~~~~~
 
+Le joueur actuel met de côté sa main actuelle et prend dans sa main l’ensemble
+des cartes du stock. Dans l’ordre de son choix, il peut décider de jouer tout
+ou partie de ses cartes (il doit en jouer au moins une). Selon le type de la
+carte, on suit ce qu’il est indiqué dans la section « poser un matériau »,
+« poser une action », « poser une carte spéciale » ou « défausser une
+carte ». Les cartes qui n’ont pas été jouées retournent dans le stock. Le
+joueur reprend alors les cartes de sa main originale.
+
 Défausser une carte
 ~~~~~~~~~~~~~~~~~~~
+
+Le joueur actuel pose une carte de sa main dans la zone d’action. Cette carte
+n’a aucun effet.
 
 Phase 2 : stocker
 -----------------
@@ -175,14 +214,53 @@ Les cartes sont piochées, au choix :
   défaussée lors du tour précédent, en phase 1 par le joueur dont c’était le
   tour ou par n’importe quel joueur à cause d’une action.
 
-Phase 4 : mettre les cartes dans la défausse
---------------------------------------------
+Un joueur ayant plus de 5 cartes garde ses cartes surnuméraires.
 
-La pile des cartes de la zone de jeu est mise sur la défausse.
+Phase 4 : défausser
+-------------------
+
+La pile des cartes de la zone d’action est mise sur la défausse.
+
+
+Missions
+========
+
+À tout moment de la partie, un joueur peut retourner face visible une mission
+princière de sa pile de missions obligatoires ou de missions facultatives, si
+les conditions indiquées dans le texte de cette carte sont réunies. Cette
+mission est alors considérée comme réussie.
+
+Attention : une mission princière qui n’a pas été retournée avant la fin de
+partie sera considérée comme échouée même si ses conditions ont été réunies
+à un moment de la partie.
+
+Les missions royales sont retournées après la fin de la partie. Les missions
+royales dont les conditions sont réunies sont considérées comme réussies, les
+autres sont considérées comme échouées.
 
 Fin de partie
 =============
 
+La fin de partie arrive au moment où l’une des conditions suivantes est
+remplie :
+
+- toutes les cases d’un château sont remplies ; ou
+- un joueur doit piocher une carte mais la pioche est vide.
+
+On décompte alors le nombre de points pour chaque joueur :
+
+- 10 points si le joueur a rempli toutes les cases de son château ;
+- la valeur des matériaux posés sur les cases (comprenant les points des cartes
+  spéciales posées sur ces matériaux) ;
+- les points des cartes spéciales posées dans sa zone spéciale ; et
+- le nombre de points des missions réussies.
+
+On retranche à ce nombre de points :
+
+- le nombre de points des missions obligatoires échouées.
+
+Le joueur avec le plus de points est déclaré vainqueur.
+
+
 Précisions
 ==========
-
