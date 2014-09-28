@@ -34,7 +34,7 @@ Spéciale,x,x,,2,x,Le pape,Placez cette carte devant vous. Une fois par partie v
 Spéciale,x,x,,,x,Le curé,Placez toutes les cartes actions qui ont attaqué votre château sur celle-ci et marquez +1 par carte en fin de partie.
 Spéciale,x,x,,-1,x,L'enfant de choeur,Un adversaire doit lancer une action contre votre château pour faire tomber cette carte et pouvoir ensuite réattaquer votre château. Il récupère alors cette carte sur son château.
 Spéciale,x,x,,,x,La vierge,Remplacez un matériau par cette carte. Elle protège tous les matériau adjacents des actions adverses. (Cette carte vaut 0 point matériau).
-Mission royale,x,x,x,x,14,Le chemin de croix,N'avoir au maximum que 2 cases vides d'écart avec le château le plus rempli. 
+Mission royale,x,x,x,x,14,Le chemin de croix,Avoir au minimum 2 cases vides d'écart avec le château le plus rempli. 
 Mission royale,x,x,x,x,13,Le complot des Malcontents,Avoir le plus de points sur son château y compris avec les cartes spéciales sur les matériaux.
 Mission royale,x,x,x,x,12,La bataille d'Arques,Avoir marqué au moins 18 points de mission sans cette mission.
 Mission royale,x,x,x,x,11,Le chemin de Saint-Jacques,Ne pas avoir toutes les cases « pierre » remplies.
