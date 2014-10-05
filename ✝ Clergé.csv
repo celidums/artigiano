@@ -7,18 +7,18 @@ Action/Matériau,Pierre,1,,x,x,Le Pater Noster,Défaussez 2 cartes et rejouez.
 Action/Matériau,Pierre,2,,x,x,Le couvent,Désignez un joueur qui ne pourra poser d'action au prochain tour.
 Action/Matériau,Pierre,3,,x,x,Le Pater Noster,Défaussez 2 cartes et rejouez.
 Action/Matériau,Tuile,1,,x,x,La prière,Retournez une action contre son attaquant. (L'action doit avoir été jouée depuis votre dernier tour de jeu).
-Action/Matériau,Tuile,2,,x,x,La confrérie,Tous les joueurs défaussent une carte action.
+Action/Matériau,Tuile,2,,x,x,La confrérie,Tous les joueurs (vous excepté) défaussent une carte action.
 Action/Matériau,Fondation/Pierre,1,,x,x,Le mousquet,Tous les joueurs (vous excepté) ne piochent pas lors de leur prochain tour.
 Action/Matériau,Fondation/Pierre,3,,x,x,La chapelle,Votre château ne subit pas les effets des cartes action jusqu'à votre prochain tour mais vous ne pourrez poser de matériau.
 Action/Matériau,Fondation/Pierre,4,,x,x,La chapelle,Votre château ne subit pas les effets des cartes action jusqu'à votre prochain tour mais vous ne pourrez poser de matériau.
 Action/Matériau,Pierre/Tuile,5,,x,x,La gargouille,Détruisez une carte spéciale.
-Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,La révélation,Regardez le stock d'un autre joueur. Echangez le nombre de carte que vous voulez de son stock avec des cartes de votre stock.
-Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,La révélation,Regardez le stock d'un autre joueur. Echangez le nombre de carte que vous voulez de son stock avec des cartes de votre stock.
+Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,La révélation,Regardez le stock d'un autre joueur. Echangez le nombre de carte de son stock que vous voulez avec des cartes de votre stock.
+Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,La révélation,Regardez le stock d'un autre joueur. Echangez le nombre de carte de son stock que vous voulez avec des cartes de votre stock.
 Action,x,x,x,x,x,Le pêché,Échangez le nombre de cartes de votre stock que vous voulez avec des cartes de votre main.
 Action,x,x,x,x,x,Le pêché,Échangez le nombre de cartes de votre stock que vous voulez avec des cartes de votre main.
 Action,x,x,x,x,x,Le baptême,Désignez un joueur qui se défausse de toutes ses cartes action.
 Action,x,x,x,x,x,Le cloître,"Chaque joueur pose une carte de sa main face cachée au centre de la table. Regardez-les en secret, prenez en une dans votre main et redistribuez en une à chaque joueur."
-Action,x,x,x,x,x,Le confessionnal,Demandez à un joueur de vous dévoiler une de ses missions.
+Action,x,x,x,x,x,Le confessionnal,Demandez à un joueur de vous dévoiler une de ses missions obligatoires.
 Matériau,Fondation,1,,x,x,Fondation,+​1
 Matériau,Fondation,2,,x,x,Fondation,+​2
 Matériau,Fondation,3,,x,x,Fondation,+​3

@@ -1,21 +1,21 @@
 Type,Matériau,Valeur,Points matériaux,Points spéciaux,Points missions,Titre,Texte
 Action/Matériau,Fondation,1,,x,x,La révolte,Désignez un joueur qui passera son prochain tour.
 Action/Matériau,Fondation,2,,x,x,Le marché,Regardez la main d'un adversaire. Prenez une carte de votre choix et donnez-lui en une de votre main.
-Action/Matériau,Fondation,3,,x,x,L'étal,Vous pouvez poser autant de matériaux de votre main que vous voulez. Ces matériaux doivent être de même type et de même valeur que des matériaux déjà posés sur l'ensemble du jeu.
+Action/Matériau,Fondation,3,,x,x,L'étal,Posez autant de matériaux de votre main que vous voulez. Ces matériaux doivent être de même type et de même valeur que des matériaux déjà posés sur l'ensemble du jeu.
 Action/Matériau,Fondation,4,,x,x,L'arrangement,Vous pouvez poser un matériau. Rejouez.
 Action/Matériau,Pierre,1,,x,x,La révolte,Désignez un joueur qui passera son prochain tour.
 Action/Matériau,Pierre,2,,x,x,Le négoce,Regardez la main d'un adversaire. Prenez une carte de votre choix et donnez-lui en une de votre main.
-Action/Matériau,Pierre,3,,x,x,L'étal,Vous pouvez poser autant de matériaux de votre main que vous voulez. Ces matériaux doivent être de même type et de même valeur que des matériaux déjà posés sur l'ensemble du jeu.
-Action/Matériau,Tuile,1,,x,x,La cave,Retirez une carte au hasard du stock du joueur de votre choix.
-Action/Matériau,Tuile,2,,x,x,Le four à pain,Placez 2 matériaux de votre choix. Les joueurs qui ont des matériaux de même type et de même valeur peuvent les poser aussi.
+Action/Matériau,Pierre,3,,x,x,L'étal,Posez autant de matériaux de votre main que vous voulez. Ces matériaux doivent être de même type et de même valeur que des matériaux déjà posés sur l'ensemble du jeu.
+Action/Matériau,Tuile,1,,x,x,La cave,Retirez une carte au hasard du stock du joueur de votre choix et défaussez-là.
+Action/Matériau,Tuile,2,,x,x,Le four à pain,Posez 2 matériaux de votre choix. Les joueurs qui ont des matériaux de même type et de même valeur peuvent les poser aussi.
 Action/Matériau,Fondation/Pierre,1,,x,x,Le hachoir,Tous les joueurs se défaussent de 2 cartes.
-Action/Matériau,Fondation/Pierre,3,,x,x,La place du village,Choisissez un joueur. Comparez vos mains mutuelles et négociez des échanges de cartes.
+Action/Matériau,Fondation/Pierre,3,,x,x,La place du village,Désignez un joueur. Comparez vos mains mutuelles et négociez des échanges de cartes.
 Action/Matériau,Fondation/Pierre,4,,x,x,La bonne affaire,Échangez un matériau d'un château adverse avec un matériau de votre château.
-Action/Matériau,Pierre/Tuile,5,,x,x,La tractation,Volez une carte spéciale d'un adversaire et mettez-la dans votre main.
+Action/Matériau,Pierre/Tuile,5,,x,x,La tractation,Prenez une carte spéciale placée sur le château d'un adversaire et mettez-la dans votre main.
 Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,Le hachoir,Tous les joueurs se défaussent de 2 cartes.
-Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,La place du village,Choisissez un joueur. Comparez vos mains mutuelles et négociez des échanges de cartes.
+Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,La place du village,Désignez un joueur. Comparez vos mains mutuelles et négociez des échanges de cartes.
 Action,x,x,x,x,x,Le cellier,Regardez les cartes du stock d'un autre joueur.
-Action,x,x,x,x,x,La devanture,Choisissez un autre joueur qui doit dévoiler sa main à l'assemblée.
+Action,x,x,x,x,x,La devanture,Désignez un autre joueur qui doit dévoiler sa main à l'assemblée.
 Action,x,x,x,x,x,Le marchand de tapis,Échangez votre main avec celle du joueur de votre choix.
 Action,x,x,x,x,x,La contrebande,Piochez 2 cartes au hasard dans le jeu du joueur de votre choix et donnez-lui en 2 de votre main.
 Action,x,x,x,x,x,La contrebande,Piochez 2 cartes au hasard dans le jeu du joueur de votre choix et donnez-lui en 2 de votre main.
