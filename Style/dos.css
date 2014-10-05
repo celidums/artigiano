@@ -1,0 +1,19 @@
+body:before {
+  color: #783b06;
+  content: 'Renaissance';
+  display: block;
+  font-size: 250pt;
+  text-align: center;
+  opacity: 0.9;
+  padding-top: 14.3cm;
+}
+
+.missions {
+  background-image: url(missions.png);
+  background-position: 50% 50%;
+}
+
+.autres {
+  background-image: url(autres.jpg);
+  background-position: 50% 50%;
+}

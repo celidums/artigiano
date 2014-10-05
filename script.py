@@ -19,6 +19,14 @@ Card = namedtuple('Card', [
     'type', 'material', 'value', 'ma_points', 'sp_points',
     'mi_points', 'title', 'text'])
 
+
+for back_type in ('missions', 'autres'):
+    print('Rendu du dos %s' % back_type)
+    weasy = weasyprint.HTML('_dos_%s.html' % back_type)
+    weasy.write_png(
+        os.path.join(u'Cartes', 'dos_%s' % back_type), resolution=30)
+
+
 for filename in os.listdir('.'):
     if not filename.startswith('_') and filename.endswith('.csv'):
         symbol, name = filename.decode('utf-8').split(' ', 1)
