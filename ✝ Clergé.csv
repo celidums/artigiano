@@ -12,8 +12,8 @@ Action/Matériau,Fondation/Pierre,1,,x,x,Le mousquet,Les autres joueurs ne pioch
 Action/Matériau,Fondation/Pierre,3,,x,x,La chapelle,Votre château ne subit pas les effets des cartes action jusqu'à votre prochain tour. Vous ne pouvez pas poser de matériau au prochain tour.
 Action/Matériau,Fondation/Pierre,4,,x,x,La chapelle,Votre château ne subit pas les effets des cartes action jusqu'à votre prochain tour. Vous ne pouvez pas poser de matériau au prochain tour.
 Action/Matériau,Pierre/Tuile,5,,x,x,La gargouille,Détruisez une carte spéciale.
-Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,La révélation,Regardez le stock d'un autre joueur. Echangez le nombre de carte de son stock que vous voulez avec des cartes de votre stock.
-Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,La révélation,Regardez le stock d'un autre joueur. Echangez le nombre de carte de son stock que vous voulez avec des cartes de votre stock.
+Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,La révélation,Regardez le stock d'un autre joueur. Échangez le nombre de carte de son stock que vous voulez avec des cartes de votre stock.
+Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,La révélation,Regardez le stock d'un autre joueur. Échangez le nombre de carte de son stock que vous voulez avec des cartes de votre stock.
 Action,x,x,x,x,x,Le pêché,Échangez le nombre de cartes de votre stock que vous voulez avec des cartes de votre main.
 Action,x,x,x,x,x,Le pêché,Échangez le nombre de cartes de votre stock que vous voulez avec des cartes de votre main.
 Action,x,x,x,x,x,Le baptême,Désignez un joueur qui se défausse de toutes ses cartes action.
@@ -29,10 +29,10 @@ Matériau,Pierre,4,,x,x,Pierre,+​4
 Matériau,Pierre,5,,x,x,Pierre,+​5
 Matériau,Tuile,3,,x,x,Tuile,+​3
 Matériau,Tuile,4,,x,x,Tuile,+​4
-Spéciale,x,x,,-3,x,Le carillonneur,Placez cette carte dans votre stock. Le prochain attaquant du stock pose la carte dans sa zone spéciale.
-Spéciale,x,x,,2,x,Le pape,Placez cette carte devant vous. Une fois par partie vous pouvez annuler l'effet d'un action adverse.
-Spéciale,x,x,,,x,Le curé,Placez toutes les cartes actions qui ont attaqué votre château sur celle-ci et marquez +1 par carte en fin de partie.
-Spéciale,x,x,,-1,x,L'enfant de chœur,Un adversaire doit lancer une action contre votre château pour faire tomber cette carte et pouvoir ensuite réattaquer votre château. Il récupère alors cette carte sur son château.
+Spéciale,x,x,,-3,x,Le carillonneur,"Placez cette carte dans votre stock. En cas d'attaque du stock, l'action est annulée et cette carte est placée dans la zone spéciale de l'attaquant."
+Spéciale,x,x,,2,x,Le pape,Une fois par partie vous pouvez annuler l'effet d'un action adverse.
+Spéciale,x,x,,,x,Le curé,Placez toutes les cartes actions qui ont attaqué votre château sur cette carte et marquez +1 par carte en fin de partie.
+Spéciale,x,x,,-1,x,L'enfant de chœur,"Lorsqu'un adversaire lance une action contre votre château, l'action est annulée et cet adversaire récupère cette carte dans sa zone spéciale."
 Spéciale,x,x,,,x,La vierge,Remplacez un matériau par cette carte. Elle protège tous les matériau adjacents des actions adverses.
 Mission royale,x,x,x,x,14,Le chemin de croix,Avoir au minimum 2 cases vides d'écart avec le château le plus rempli. 
 Mission royale,x,x,x,x,13,Le complot des Malcontents,Avoir le plus de points sur son château y compris avec les cartes spéciales sur les matériaux.
