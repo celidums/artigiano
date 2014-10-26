@@ -57,3 +57,8 @@ ul, p {
 sup {
   font-size: 0.65em;
 }
+
+img, object {
+  display: block;
+  margin: auto;
+}
