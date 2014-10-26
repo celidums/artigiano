@@ -126,7 +126,7 @@ Déroulement du jeu
 ==================
 
 Le premier joueur est choisi au hasard. Les joueurs jouent à tour de rôle dans
-le sens des aguilles d’une montre. Chacun des tours de jeu comprend quatre
+le sens des aiguilles d’une montre. Chacun des tours de jeu comprend quatre
 phases.
 
 Phase 1 : agir
@@ -259,6 +259,12 @@ Le joueur avec le plus de points est déclaré vainqueur.
 Variantes
 =========
 
+Partie rapide
+Pour jouer en partie rapide, vous n'avez pas besoin de plateau. Vous jouez avec seulement 6 cases que vous imaginez devant vous comme suit : (schéma)
+
+On distribue toujours 2 missions royales et 3 missions princières par joueur, mais les joueurs ne choisissent pas de mission : les missions réussies font marquer des points ; si aucune missions n'est réussie, le joueur ne perd pas de point. 
+
+Les autres règles restent inchangées. 
 
 Remerciements
 =============
