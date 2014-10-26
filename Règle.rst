@@ -260,9 +260,15 @@ Variantes
 =========
 
 Partie rapide
-Pour jouer en partie rapide, vous n'avez pas besoin de plateau. Vous jouez avec seulement 6 cases que vous imaginez devant vous comme suit : (schéma)
+-------------
 
-On distribue toujours 2 missions royales et 3 missions princières par joueur, mais les joueurs ne choisissent pas de mission : les missions réussies font marquer des points ; si aucune missions n'est réussie, le joueur ne perd pas de point. 
+Pour jouer en partie rapide, vous n'avez pas besoin de plateau. Vous jouez avec
+seulement 6 cases que vous imaginez devant vous comme suit : (schéma)
+
+On distribue toujours 2 missions royales et 3 missions princières par joueur,
+mais les joueurs ne choisissent pas de mission : les missions réussies font
+marquer des points ; si aucune missions n'est réussie, le joueur ne perd pas de
+point.
 
 Les autres règles restent inchangées. 
 
