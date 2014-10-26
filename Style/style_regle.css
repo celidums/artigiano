@@ -1,13 +1,23 @@
 @page {
   margin: 2cm;
+  background-position: -2cm -2cm;
+  background-size: 21cm 29.7cm;
+}
+
+@page:left {
+  background-image: url(fond_regled.jpg);
+
+}
+
+@page:right {
+  background-image: url(fond_regle.jpg);
 }
 
 body {
   color: #222;
-  font-size: 13pt !important;
+  font-size: 20pt;
   max-width: 25em;
   font-family: Tallys;
-  font-size: 18pt;
   margin: auto;
 }
 
