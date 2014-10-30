@@ -1,6 +1,6 @@
 Type,Matériau,Valeur,Points matériaux,Points spéciaux,Points missions,Titre,Texte
 Action/Matériau,Fondation,1,,x,x,La révolte,Désignez un joueur qui passera son prochain tour.
-Action/Matériau,Fondation,2,,x,x,Le marché,Regardez la main d'un adversaire. Prenez une carte de votre choix et donnez-lui en une de votre main.
+Action/Matériau,Fondation,2,,x,x,Le négoce,Regardez la main d'un adversaire. Prenez une carte de votre choix et donnez-lui en une de votre main.
 Action/Matériau,Fondation,3,,x,x,L'étal,Posez autant de matériaux de votre main que vous voulez. Ces matériaux doivent être de même type et de même valeur que des matériaux déjà posés sur l'ensemble du jeu.
 Action/Matériau,Fondation,4,,x,x,L'arrangement,Vous pouvez poser un matériau. Rejouez.
 Action/Matériau,Pierre,1,,x,x,La révolte,Désignez un joueur qui passera son prochain tour.
