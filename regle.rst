@@ -267,10 +267,10 @@ seulement 6 cases que vous imaginez devant vous comme suit :
 
 .. image:: schema_partierapide.svg
 
-On distribue toujours 2 missions royales et 3 missions princières par joueur,
-mais les joueurs ne choisissent pas de mission : les missions réussies font
-marquer des points ; si aucune missions n'est réussie, le joueur ne perd pas de
-point.
+On ne joue qu’avec un jeu de cartes à 2 joueurs et avec 2 jeux à 3 ou 4
+joueurs. On distribue 2 missions royales et 2 missions princières par joueur.
+Chaque joueur choisit une mission obligatoire, les autres missions sont
+écartées du jeu. Le stock est composé d’un emplacement par joueur.
 
 Les autres règles restent inchangées. 
 
