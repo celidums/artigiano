@@ -24,7 +24,7 @@ for back_type in ('missions', 'autres'):
     print('Rendu du dos %s' % back_type)
     weasy = weasyprint.HTML('_dos_%s.html' % back_type)
     weasy.write_png(
-        os.path.join(u'Cartes', 'dos_%s' % back_type), resolution=30)
+        os.path.join(u'Cartes', 'dos_%s.png' % back_type), resolution=30)
 
 
 for filename in os.listdir('.'):
