@@ -60,11 +60,10 @@ cartes gardées en stock. Le stock peut contenir trois cartes.
 En haut du plateau se trouve la « zone spéciale » où sont posées face visible
 les cartes spéciales concernant le château.
 
-Au centre de la table se trouvent trois piles de cartes :
+Au centre de la table se trouvent deux piles de cartes :
 
 - la « pioche », cartes (face cachée) destinées à être piochées ;
-- la « défausse », cartes (face visible) jouées et défaussées ;
-- la « zone d’action », cartes (face visible) posées durant le tour.
+- la « défausse », cartes (face visible) jouées et défaussées.
 
 Cartes
 ------
@@ -126,7 +125,7 @@ Déroulement du jeu
 ==================
 
 Le premier joueur est choisi au hasard. Les joueurs jouent à tour de rôle dans
-le sens des aiguilles d’une montre. Chacun des tours de jeu comprend quatre
+le sens des aiguilles d’une montre. Chacun des tours de jeu comprend trois
 phases.
 
 Phase 1 : agir
@@ -151,9 +150,8 @@ genre du matériau doit correspondre au genre indiqué sur la case.
 Poser une action
 ~~~~~~~~~~~~~~~~
 
-Le joueur pose une action de sa main sur la zone d’action. L’action indiquée
-sur la carte est effectuée. Suite à cette action, toutes les cartes qui doivent
-potentiellement être défaussées sont posées dans l’ordre dans la zone d’action.
+Le joueur pose une action de sa main sur la défausse. L’action indiquée sur la
+carte est effectuée.
 
 Poser une carte spéciale
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -182,8 +180,7 @@ joueur reprend alors les cartes de sa main originale.
 Défausser une carte
 ~~~~~~~~~~~~~~~~~~~
 
-Le joueur défausse une carte de sa main dans la zone d’action. Cette carte n’a
-aucun effet.
+Le joueur défausse une carte de sa main. Cette carte n’a aucun effet.
 
 Phase 2 : stocker
 -----------------
@@ -202,19 +199,8 @@ Chacun des joueurs pioche le nombre de cartes nécessaires pour recouvrir 5
 cartes dans sa main. On commence par le joueur dont c’est le tour, et on
 continue en tournant dans le sens des aiguilles d’une montre.
 
-Les cartes sont piochées, au choix :
-
-- en haut de la pioche ; ou
-- en haut de la défausse, uniquement si la carte supérieure de la pile a été
-  défaussée lors du tour précédent.
-
 À noter : dans certains cas exceptionnels, un joueur peut avoir plus de 5
 cartes dans sa main.
-
-Phase 4 : nettoyer
-------------------
-
-La pile des cartes de la zone d’action est mise sur la défausse.
 
 
 Missions
