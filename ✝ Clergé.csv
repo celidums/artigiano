@@ -1,5 +1,5 @@
 Type,Matériau,Valeur,Points matériaux,Points spéciaux,Points missions,Titre,Texte
-Action/Matériau,Fondation,1,,x,x,La clef de voûte,Défaussez une carte spéciale posée sur votre château.
+Action/Matériau,Fondation,1,,x,x,La clef de voûte,"Défaussez une carte spéciale posée sur votre château, dans votre stock ou dans votre zone spéciale."
 Action/Matériau,Fondation,2,,x,x,Le couvent,Désignez un joueur qui ne pourra poser d'action au prochain tour.
 Action/Matériau,Fondation,3,,x,x,La confrérie,Tous les joueurs défaussent une carte action.
 Action/Matériau,Fondation,4,,x,x,L'angelus,Affichez les 3 premières cartes de la pioche. Prenez-en une de votre choix et replacez les autres dans l'ordre que vous voulez.

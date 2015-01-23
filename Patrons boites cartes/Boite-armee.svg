@@ -28,14 +28,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="623.98977"
-     inkscape:cy="660.52616"
+     inkscape:cx="343.36911"
+     inkscape:cy="413.25251"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1261"
      inkscape:window-height="743"
-     inkscape:window-x="4"
+     inkscape:window-x="2"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
@@ -69,48 +69,48 @@
      id="layer1"
      style="display:inline">
     <rect
-       style="fill:none;stroke:#000000;stroke-width:1.0629921;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:1.09801257;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3011"
-       width="194.8819"
-       height="318.89764"
-       x="492.22717"
-       y="-503.31381"
+       width="207.95711"
+       height="318.86261"
+       x="497.67496"
+       y="-503.2963"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:1.0629921;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:1.11179161;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3015"
-       width="50.80122"
-       height="319.02957"
-       x="687.23975"
-       y="-503.31851"
+       width="55.581123"
+       height="318.98077"
+       x="705.75269"
+       y="-503.2941"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:1.01943314;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:1.08751726;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2987"
-       width="194.92546"
-       height="52.130173"
-       x="492.20505"
-       y="-184.45091"
+       width="207.96761"
+       height="55.605396"
+       x="497.66974"
+       y="-183.96017"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:1.01943314;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:1.08751726;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3013"
-       width="194.92546"
-       height="52.130173"
-       x="492.41669"
-       y="-555.36023"
+       width="207.96761"
+       height="55.605396"
+       x="233.44531"
+       y="-558.86951"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
-       y="-503.37979"
-       x="441.36743"
-       height="319.02957"
-       width="50.80122"
+       y="-503.35538"
+       x="441.6976"
+       height="318.98077"
+       width="55.581123"
        id="rect3017"
-       style="fill:none;stroke:#000000;stroke-width:1.0629921;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:1.11179161;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        transform="matrix(0,1,-1,0,0,0)" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.0629921;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 555.41339,687.22439 0,-194.88186 28.83578,14.28571 -1e-5,162.02475 z"
+       style="fill:none;stroke:#000000;stroke-width:1.0974189;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 559.4306,441.40796 0,-207.9577 28.80136,15.24422 -10e-6,172.89601 z"
        id="rect3025"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -118,40 +118,27 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3031"
-       d="m 486.79422,778.84295 16.16244,-40.53048 -318.89764,0 19.1929,39.52033 z"
+       d="m 486.79422,802.10628 16.16244,-40.53048 -318.89764,0 19.1929,39.52033 z"
        style="fill:none;stroke:#000000;stroke-width:1.0629921;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3036"
-       d="m 167.0898,722.16561 0,-18.93789 17.12694,-15.69816 0,50.79313 z"
-       style="fill:none;stroke:#000000;stroke-width:1.0629921;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       d="m 167.11352,743.6461 0,-20.72357 17.0795,-17.17836 0,55.58248 z"
+       style="fill:none;stroke:#000000;stroke-width:1.11043751;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:1.0629921;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:1.09801257;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2985"
-       width="194.8819"
-       height="318.89764"
-       x="246.52672"
-       y="184.41576"
+       width="207.95711"
+       height="318.86261"
+       x="233.43401"
+       y="184.43327"
        transform="matrix(0,1,1,0,0,0)" />
     <flowRoot
        xml:space="preserve"
-       id="flowRoot3046"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Tallys;-inkscape-font-specification:Tallys"
-       transform="matrix(0,1,-1,0,869.9613,41.531668)"><flowRegion
-         id="flowRegion3048"><rect
-           id="rect3050"
-           width="155.71428"
-           height="132.85715"
-           x="267.14285"
-           y="456.64789"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tallys;-inkscape-font-specification:Tallys" /></flowRegion><flowPara
-         id="flowPara3052"
-         style="font-size:32px">Armée</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
        id="flowRoot3054"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Tallys;-inkscape-font-specification:Tallys"
-       transform="matrix(0,1,-1,0,658.53273,-13.543263)"><flowRegion
+       transform="matrix(0,1,-1,0,658.53273,244.14257)"><flowRegion
          id="flowRegion3056"><rect
            id="rect3058"
            width="257.14285"
@@ -160,8 +147,8 @@
            y="169.50504"
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tallys;-inkscape-font-specification:Tallys" /></flowRegion><flowPara
          id="flowPara3060">Renaissance</flowPara></flowRoot>    <path
-       style="fill:none;stroke:#000000;stroke-width:1.0629921;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 503.30851,491.45667 37.62818,-10.60661 -0.25254,-33.33503 -19.20034,-2.12491 -9.12361,-3.34198 -8.79916,-0.68068 z"
+       style="fill:none;stroke:#000000;stroke-width:1.11884892;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 503.33644,761.64134 37.57232,-11.76805 -0.25216,-36.98527 -19.17184,-2.35759 -9.11007,-3.70794 -8.7861,-0.75521 z"
        id="path3034"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
@@ -169,17 +156,17 @@
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path3827"
-       d="m 502.95136,688.19423 37.62818,10.60661 -0.25254,33.33503 -19.20034,2.12491 -9.12361,3.34198 -8.79916,0.68068 z"
-       style="fill:none;stroke:#000000;stroke-width:1.0629921;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       d="m 503.31927,442.14706 37.57232,11.76805 -0.25216,36.98527 -19.17184,2.35759 -9.11007,3.70794 -8.7861,0.75521 z"
+       style="fill:none;stroke:#000000;stroke-width:1.11884892;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3829"
-       d="m 183.97688,246.77182 0,194.88186 -21.76471,-26.40754 1e-5,-143.33693 z"
-       style="fill:none;stroke:#000000;stroke-width:1.0629921;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       d="m 183.95977,233.67866 0,207.95791 -21.73049,-28.17941 1e-5,-152.95446 z"
+       style="fill:none;stroke:#000000;stroke-width:1.0972116;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.0629921;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 166.88976,475.68839 0,-18.93789 17.12694,-15.69816 0,50.79313 z"
+       style="fill:none;stroke:#000000;stroke-width:1.11043751;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 166.91348,480.1412 0,-20.72357 17.0795,-17.17836 0,55.58248 z"
        id="path3831"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -241,14 +228,15 @@
          y="344.86218" /></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Tallys;-inkscape-font-specification:Tallys"
-       x="273.43512"
-       y="350.98767"
-       id="text3047"
-       sodipodi:linespacing="125%"><tspan
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Tallys;-inkscape-font-specification:Tallys"
+       x="565.11676"
+       y="-391.91989"
+       id="text3021"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
          sodipodi:role="line"
-         id="tspan3049"
-         x="273.43512"
-         y="350.98767">a</tspan></text>
+         id="tspan3023"
+         x="565.11676"
+         y="-391.91989">Armée</tspan></text>
   </g>
 </svg>

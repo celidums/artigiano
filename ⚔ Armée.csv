@@ -10,8 +10,8 @@ Action/Matériau,Tuile,1,,x,x,La cave,Retirez une carte au hasard du stock du jo
 Action/Matériau,Tuile,2,,x,x,Le canon,Les autres joueurs perdent un matériau superficiel de votre choix.
 Action/Matériau,Fondation/Pierre,1,,x,x,Le mousquet,Les autres joueurs ne piochent pas lors de leur prochain tour.
 Action/Matériau,Fondation/Pierre,3,,x,x,La ruse,Attaquez latéralement un château adverse. Le joueur visé doit se défausser de toutes les cartes extérieures d'un côté de son choix.
-Action/Matériau,Fondation/Pierre,4,,x,x,Le pillage,Prenez un matériau d'un autre joueur et posez-le sur votre château.
-Action/Matériau,Pierre/Tuile,5,,x,x,Le pillage,Prenez un matériau d'un autre joueur et posez-le sur votre château.
+Action/Matériau,Fondation/Pierre,4,,x,x,Le pillage,Prenez un matériau superficiel posé sur le château d'un autre joueur et posez-le sur votre château.
+Action/Matériau,Pierre/Tuile,5,,x,x,Le pillage,Prenez un matériau superficiel posé sur le château d'un autre joueur et posez-le sur votre château.
 Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,Le mousquet,Les autres joueurs ne piochent pas lors de leur prochain tour.
 Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,L'arbalète,Désignez un joueur qui défausse les tuiles de +1 à +3 de son château.
 Action,x,x,x,x,x,La fosse commune,Défaussez-vous du nombre de cartes que vous voulez.
