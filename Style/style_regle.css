@@ -1,17 +1,7 @@
 @page {
   margin: 2cm;
-  background-position: -2cm -2cm;
-  background-size: 21cm 29.7cm;
 }
 
-@page:left {
-  background-image: url(fond_regled.jpg);
-
-}
-
-@page:right {
-  background-image: url(fond_regle.jpg);
-}
 
 body {
   color: #222;
@@ -27,6 +17,27 @@ h1, h2, h3, h4 {
   margin-bottom: 0.6em;
 }
 
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.41em;
+}
+
+h3 {
+  font-size: 1em;
+  text-decoration: underline;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+h4:before {
+  content: '> ';
+}
+
 h1 + p {
   margin: 0;
 }
@@ -38,8 +49,9 @@ h1 + p + p {
   padding: 1em;
 }
 
-h3, h4 {
-  text-decoration: underline;
+a {
+  color: inherit;
+  text-decoration: none;
 }
 
 p {
@@ -61,4 +73,28 @@ sup {
 img, object {
   display: block;
   margin: auto;
+}
+
+.contents .first {
+  font-size: 1.4em;
+  margin-top: 1.4em;
+  margin-bottom: 0.6em;
+}
+
+.contents ul {
+  list-style-type: none;
+  margin: 0.2em 0;
+  padding-left: 0;
+}
+
+.contents ul ul {
+  padding-left: 0.5em;
+}
+
+.contents ul ul li:before {
+  content: "- ";
+}
+
+.contents ul ul ul li:before {
+  content: "+ ";
 }

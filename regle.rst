@@ -2,7 +2,7 @@
  Renaissance
 =============
 
-Un jeu de Céline Dumas, avec l’étroite collaboration de Guillaume Ayoub.
+Un jeu de Céline Dumas, avec la collaboration de Guillaume Ayoub.
 
 Architecture, art, science : l’Europe connaît du XIV\ :sup:`ème` au XVI\
 :sup:`ème` siècle un extraordinaire renouveau dans de nombreux domaines. Alors
@@ -11,7 +11,6 @@ monarques et princes construisent de somptueux châteaux à travers le
 continent. Saurez-vous rassembler les plus beaux matériaux et vous entourer des
 meilleurs spécialistes pour construire le vôtre avant la fin de cette faste
 époque ?
-
 
 Matériel
 ========
@@ -131,15 +130,13 @@ phases.
 Phase 1 : agir
 --------------
 
-Lors de la première phase, le joueur a le choix d’effectuer une opération
-parmi :
+Lors de la première phase, le joueur doit effectuer une opération parmi :
 
 - poser un matériau ;
 - poser une action ;
 - poser une carte spéciale ;
 - jouer le stock ;
-- défausser une carte ; ou
-- ne rien faire.
+- défausser une carte.
 
 Poser un matériau
 ~~~~~~~~~~~~~~~~~
@@ -186,11 +183,7 @@ Phase 2 : stocker
 -----------------
 
 Le joueur peut poser une carte de sa main face retournée dans son stock, si son
-stock ne contient pas déjà trois cartes.
-
-Cette action est optionnelle, sauf si le joueur a décidé de ne rien faire lors
-de la première phase. Par conséquent, un joueur ne peut pas choisir de ne rien
-faire lors de la première phase si son stock est plein.
+stock ne contient pas déjà trois cartes. Cette action est optionnelle.
 
 Phase 3 : piocher
 -----------------
