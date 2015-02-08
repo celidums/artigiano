@@ -6,7 +6,7 @@ Action/Matériau,Fondation,4,,x,x,L'angelus,Affichez les 3 premières cartes de 
 Action/Matériau,Pierre,1,,x,x,Le Pater Noster,Défaussez 2 cartes et rejouez sans piocher.
 Action/Matériau,Pierre,2,,x,x,Le couvent,Désignez un joueur qui ne pourra poser d'action au prochain tour.
 Action/Matériau,Pierre,3,,x,x,Le Pater Noster,Défaussez 2 cartes et rejouez sans piocher.
-Action/Matériau,Tuile,1,,x,x,La prière,Retournez une action contre son attaquant. (L'action doit avoir été jouée depuis votre dernier tour de jeu).
+Action/Matériau,Tuile,1,,x,x,La prière,Retournez une action qui vient d'être jouée contre son attaquant.
 Action/Matériau,Tuile,2,,x,x,La confrérie,Les autres joueurs défaussent une carte action.
 Action/Matériau,Fondation/Pierre,1,,x,x,Le mousquet,Les autres joueurs ne piochent pas lors de leur prochain tour.
 Action/Matériau,Fondation/Pierre,3,,x,x,La chapelle,Votre château ne subit pas les effets des cartes action jusqu'à votre prochain tour. Vous ne pouvez pas poser de matériau au prochain tour.
