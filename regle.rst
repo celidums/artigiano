@@ -188,9 +188,8 @@ stock ne contient pas déjà trois cartes. Cette action est optionnelle.
 Phase 3 : piocher
 -----------------
 
-Chacun des joueurs pioche le nombre de cartes nécessaires pour recouvrir 5
-cartes dans sa main. On commence par le joueur dont c’est le tour, et on
-continue en tournant dans le sens des aiguilles d’une montre.
+Le joueur pioche le nombre de cartes nécessaires pour recouvrir 5 cartes dans
+sa main.
 
 À noter : dans certains cas exceptionnels, un joueur peut avoir plus de 5
 cartes dans sa main.
