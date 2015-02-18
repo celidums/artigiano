@@ -1,7 +1,7 @@
 Type,Matériau,Valeur,Points matériaux,Points spéciaux,Points missions,Titre,Texte
 Action/Matériau,Fondation,1,,x,x,La révolte,Désignez un joueur qui passera son prochain tour.
 Action/Matériau,Fondation,2,,x,x,Le linteau,Posez deux matériaux de même valeur.
-Action/Matériau,Fondation,3,,x,x,Les renforts,Poser deux cartes du même matériau.
+Action/Matériau,Fondation,3,,x,x,Les renforts,Posez deux cartes du même matériau.
 Action/Matériau,Fondation,4,,x,x,Le glissement de terrain,Désignez un joueur qui perd une fondation de son choix. Les matériaux au-dessus de cette fondation sont également détruits.
 Action/Matériau,Pierre,1,,x,x,La poulie,Posez jusqu'à trois matériaux au prochain tour.
 Action/Matériau,Pierre,2,,x,x,Le linteau,Posez deux matériaux de même valeur.

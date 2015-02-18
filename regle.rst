@@ -104,12 +104,11 @@ Préparation du jeu
 
 Chaque joueur tire au sort un plateau qu’il place devant lui.
 
-Chaque joueur choisit une famille de cartes et en extrait les cartes
-missions. Les cartes restantes sont posées dans la pioche.
+On choisit ensuite les familles de cartes en fonction du nombre de joueurs (2 familles pour 2 joueurs, 3 familles pour 3 joueurs, et ainsi de suite). Les cartes missions de chaque famille sont extraites. Les cartes restantes sont mélangées toutes ensemble constituent la pioche. 
 
 Les missions royales des familles choisies sont mélangées ; on en
 donne 2 à chaque joueur face cachée. On fait de même avec les missions
-princières, mais on en distribue 3 par joueur.
+princières, mais on en distribue 3 par joueur. Les missions qui n'ont pas été distribuées sont écartées définitivement du jeu.
 
 Chaque joueur regarde ses missions et décide d’en garder 2 (au choix : 2
 royales, 2 princières, 1 royale et 1 princière), qui correspondront aux
@@ -203,9 +202,12 @@ princière de sa pile de missions obligatoires ou de missions facultatives, si
 les conditions indiquées dans le texte de cette carte sont réunies. Cette
 mission est alors considérée comme réussie.
 
-Attention : une mission princière qui n’a pas été retournée avant la fin de
+Attention : 
+- une mission princière qui n’a pas été retournée avant la fin de
 partie ne sera pas considérée comme accomplie même si ses conditions ont été
 réunies à un moment de la partie.
+- pour les missions qui impliquent d'avoir « au moins » ou « le plus » qu'un autre joueur, l'égalité n'est pas permise.
+
 
 Les missions royales sont retournées à la fin de la partie. Les missions
 royales dont les conditions sont réunies sont considérées comme accomplies.
@@ -233,6 +235,10 @@ On retranche de ce nombre de points :
 
 Le joueur avec le plus de points est déclaré vainqueur.
 
+Précisions
+==========
+De nombreuses cartes proposent « d'attaquer » un autre joueur. Cette action est possible uniquement avec une carte action. Les cartes spéciales ne peuvent pas dans ce cas « attaquer » un chateau ou un joueur.
+
 
 Variantes
 =========
@@ -251,6 +257,15 @@ Chaque joueur choisit une mission obligatoire, les autres missions sont
 écartées du jeu. Le stock est composé d’un emplacement par joueur.
 
 Les autres règles restent inchangées. 
+
+Partie en équipe
+----------------
+Vous pouvez jouer en équipe de 4 à 8 joueurs. 
+Chaque équipe est constituée de 2 joueurs. On utilise alors autant de familles de cartes qu'il y a d'équipes et autant de plateau qu'il y a d'équipes. Par exemple, avec 3 équipes de 2 joueurs, on choisit 3 familles et 3 plateaux.
+Les joueurs des équipes s'assoient alternativement autour de la table :
+Equipe A - joueur 1 / Equipe B - joueur 1 / Equipe C - joueur 1 / Equipe A - joueur 2 / Equipe B - joueur 2 / Equipe C - joueur 2
+Les joueurs des équipes ne peuvent pas communiquer entre eux. 
+Les autres règles du jeu restent inchangées.
 
 Remerciements
 =============
