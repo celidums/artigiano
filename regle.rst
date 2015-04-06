@@ -86,7 +86,7 @@ Par exemple, si vous devez compter le nombre de Matériaux dans votre main, les
 cartes « Action / Matériau » doivent être inclues dans ce compte.
 
 Les cartes de type « Matériau » ont un « genre » (Fondation, Pierre, Tuile) et
-une « valeur » (+1, +2, +3, +4, +5). La première lettre du genre et la valeur
+une « valeur » (1, 2, 3, 4, 5). Le genre et la valeur
 sont présentes dans le coin en haut à gauche de la carte.
 
 Certaines cartes comportent deux ou trois genres de matériaux. Tout comme les
@@ -106,9 +106,10 @@ Préparation du jeu
 
 Chaque joueur tire au sort un plateau qu’il place devant lui.
 
-On choisit ensuite les familles de cartes en fonction du nombre de joueurs (2
-familles pour 2 joueurs, 3 familles pour 3 joueurs, et ainsi de suite). Les
-cartes missions de chaque famille sont extraites. Les cartes restantes sont
+On choisit ensuite les familles de cartes en fonction :
+- du nombre de joueurs (2 familles pour 2 joueurs, 3 familles pour 3 joueurs, et ainsi de suite).
+- de leur type (La famille "armée" plus offensive, la famille "clergé" est plus défensive, la famille "artisans" est plus consacrée à la qualité et à la protection des matériaux, la famille "commerçants" favorise l'interactivité entre les joueurs).
+Les cartes missions de chaque famille sont extraites. Les cartes restantes sont
 mélangées toutes ensemble et constituent la pioche.
 
 Les missions royales des familles choisies sont mélangées ; on en donne 2 à
@@ -131,7 +132,16 @@ Déroulement du jeu
 
 Le premier joueur est choisi au hasard. Les joueurs jouent à tour de rôle dans
 le sens des aiguilles d’une montre. Chacun des tours de jeu comprend trois
-phases.
+phases :
+
+- Phase 1 : Agir 
+  - poser un matériau
+  - poser une action 
+  - poser une carte spéciale
+  - jouer le stock
+  - défausser une carte
+- Phase 2 : Stocker.
+- Phase 3 : Piocher.
 
 Phase 1 : agir
 --------------
@@ -204,6 +214,9 @@ cartes dans sa main.
 Missions
 ========
 
+Missions Princières
+-------------------
+
 À tout moment de la partie, un joueur peut retourner face visible une mission
 princière de sa pile de missions obligatoires ou de missions facultatives, si
 les conditions indiquées dans le texte de cette carte sont réunies. Cette
@@ -216,6 +229,9 @@ Attention :
   un moment de la partie.
 - pour les missions qui impliquent d'avoir « au moins » ou « le plus » qu'un
   autre joueur, l'égalité n'est pas permise.
+
+Missions Royales
+----------------
 
 Les missions royales sont retournées à la fin de la partie. Les missions
 royales dont les conditions sont réunies sont considérées comme accomplies.
