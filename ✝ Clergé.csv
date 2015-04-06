@@ -19,19 +19,19 @@ Action,x,x,x,x,x,Le pêché,Échangez le nombre de cartes de votre stock que vou
 Action,x,x,x,x,x,Le baptême,Désignez un joueur qui se défausse de toutes ses cartes action.
 Action,x,x,x,x,x,Le cloître,"Chaque joueur pose une carte de sa main face cachée au centre de la table. Regardez-les en secret, prenez en une dans votre main et redistribuez en une à chaque joueur."
 Action,x,x,x,x,x,Le confessionnal,Demandez à un joueur de vous dévoiler une de ses missions obligatoires.
-Matériau,Fondation,1,,x,x,Fondation,+​1
-Matériau,Fondation,2,,x,x,Fondation,+​2
-Matériau,Fondation,3,,x,x,Fondation,+​3
-Matériau,Fondation,4,,x,x,Fondation,+​4
-Matériau,Fondation,5,,x,x,Fondation,+​5
-Matériau,Pierre,1,,x,x,Pierre,+​1
-Matériau,Pierre,4,,x,x,Pierre,+​4
-Matériau,Pierre,5,,x,x,Pierre,+​5
-Matériau,Tuile,3,,x,x,Tuile,+​3
-Matériau,Tuile,4,,x,x,Tuile,+​4
+Matériau,Fondation,1,,x,x,Fondation,​
+Matériau,Fondation,2,,x,x,Fondation,​
+Matériau,Fondation,3,,x,x,Fondation,​
+Matériau,Fondation,4,,x,x,Fondation,​
+Matériau,Fondation,5,,x,x,Fondation,​
+Matériau,Pierre,1,,x,x,Pierre,​
+Matériau,Pierre,4,,x,x,Pierre,​
+Matériau,Pierre,5,,x,x,Pierre,​
+Matériau,Tuile,3,,x,x,Tuile,​
+Matériau,Tuile,4,,x,x,Tuile,​
 Spéciale,x,x,,-3,x,Le carillonneur,"Placez cette carte dans votre stock. En cas d'attaque du stock, l'action est annulée et cette carte est placée dans la zone spéciale de l'attaquant."
 Spéciale,x,x,,2,x,Le pape,Une fois par partie vous pouvez annuler l'effet d'un action adverse.
-Spéciale,x,x,,,x,Le curé,Placez toutes les cartes actions qui ont attaqué votre château sur cette carte et marquez +1 par carte en fin de partie.
+Spéciale,x,x,,,x,Le curé,Placez toutes les cartes actions qui ont attaqué votre château sur cette carte et marquez 1 par carte en fin de partie.
 Spéciale,x,x,,-1,x,L'enfant de chœur,"Lorsqu'un adversaire lance une action contre votre château, l'action est annulée et cet adversaire récupère cette carte dans sa zone spéciale."
 Spéciale,x,x,,,x,La vierge,Remplacez un matériau par cette carte. Elle protège tous les matériau adjacents des actions adverses.
 Mission royale,x,x,x,x,14,Le chemin de croix,Avoir au minimum 2 cases vides de moins que le château le plus rempli. 
