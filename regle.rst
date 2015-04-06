@@ -108,7 +108,7 @@ Chaque joueur tire au sort un plateau qu’il place devant lui.
 
 On choisit ensuite les familles de cartes en fonction :
 - du nombre de joueurs (2 familles pour 2 joueurs, 3 familles pour 3 joueurs, et ainsi de suite).
-- de leur type (La famille "armée" plus offensive, la famille "clergé" est plus défensive, la famille "artisans" est plus consacrée à la qualité et à la protection des matériaux, la famille "commerçants" favorise l'interactivité entre les joueurs).
+- de leur type (La famille "armée" ⚔ plus offensive, la famille "clergé" ✝ est plus défensive, la famille "artisans" ⚒ est plus consacrée à la qualité et à la protection des matériaux, la famille "commerçants" ⛀ favorise l'interactivité entre les joueurs).
 Les cartes missions de chaque famille sont extraites. Les cartes restantes sont
 mélangées toutes ensemble et constituent la pioche.
 
@@ -134,12 +134,14 @@ Le premier joueur est choisi au hasard. Les joueurs jouent à tour de rôle dans
 le sens des aiguilles d’une montre. Chacun des tours de jeu comprend trois
 phases :
 
-- Phase 1 : Agir 
+- Phase 1 : Agir
+
   - poser un matériau
-  - poser une action 
+  - poser une action
   - poser une carte spéciale
   - jouer le stock
   - défausser une carte
+
 - Phase 2 : Stocker.
 - Phase 3 : Piocher.
 
