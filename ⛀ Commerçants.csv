@@ -11,7 +11,7 @@ Action/Matériau,Tuile,2,,x,x,Le four à pain,Posez 2 matériaux de votre choix.
 Action/Matériau,Fondation/Pierre,1,,x,x,Le hachoir,Tous les autres joueurs se défaussent de 2 cartes.
 Action/Matériau,Fondation/Pierre,3,,x,x,La place du village,Désignez un joueur. Comparez vos mains mutuelles et négociez des échanges de cartes.
 Action/Matériau,Fondation/Pierre,4,,x,x,La bonne affaire,Échangez un matériau d'un château adverse avec un matériau de votre château.
-Action/Matériau,Pierre/Tuile,5,,x,x,La tractation,Prenez une carte spéciale placée sur le château d'un adversaire et mettez-la dans votre main.
+Action/Matériau,Pierre/Tuile,5,,x,x,La tractation,Prenez une carte spéciale placée sur le château ou la zone spéciale d'un adversaire et mettez-la dans votre main.
 Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,Le hachoir,Tous les autres joueurs se défaussent de 2 cartes.
 Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,La place du village,Désignez un joueur. Comparez vos mains mutuelles et négociez des échanges de cartes.
 Action,x,x,x,x,x,Le cellier,Regardez les cartes du stock d'un autre joueur.
@@ -29,11 +29,11 @@ Matériau,Pierre,4,,x,x,Pierre,​
 Matériau,Pierre,5,,x,x,Pierre,​
 Matériau,Tuile,3,,x,x,Tuile,​
 Matériau,Tuile,4,,x,x,Tuile,​
-Spéciale,x,x,,1,x,Le quincaillier,Une fois dans la partie vous pouvez dupliquer une action qui vient d'être jouée.
-Spéciale,x,x,,,x,Le ruchier,"À la fin de la partie, dupliquez une carte spéciale d'un adversaire."
-Spéciale,x,x,,1,x,Le prêteur sur gage,"À la fin de la partie, choisissez le château d'un autre joueur et marquez 1 point par matériau 5 posé sur son château."
-Spéciale,x,x,,3,x,Le porte-clefs,"Vous ne pouvez pas jouer cette carte. Vous pouvez seulement la garder en main, la stocker, l'échanger ou la défausser. Pour qu'elle soit placée dans votre zone spéciale, elle doit être dévoilée, vue ou prise au hasard par un autre joueur.  "
-Spéciale,x,x,,,x,La pacotilleuse,"Prenez une carte au hasard dans le stock d'un adversaire, défaussez-là et placez-y celle-ci à la place."
+Spéciale,x,x,,1,x,Le quincaillier,Une fois dans la partie vous pouvez dupliquer au début de votre tour de jeu une action qui vient d'être jouée.
+Spéciale,x,x,,,x,Le ruchier,À la fin de la partie, dupliquez une carte spéciale d'un adversaire.
+Spéciale,x,x,,1,x,Le prêteur sur gage,À la fin de la partie, choisissez le château d'un autre joueur et marquez 1 point par matériau 5 posé sur son château.
+Spéciale,x,x,,3,x,Le porte-clefs,Vous ne pouvez pas jouer cette carte. Vous pouvez seulement la garder en main, la stocker, l'échanger ou la défausser. Pour qu'elle soit placée dans votre zone spéciale, elle doit être dévoilée, vue ou prise au hasard par un autre joueur.  
+Spéciale,x,x,,,x,La pacotilleuse,Prenez une carte au hasard dans le stock d'un adversaire, défaussez-là et placez-y celle-ci à la place.
 Mission royale,x,x,x,x,14,La compagnie de Moscovie,Avoir 4 cartes de même genre et de même valeur qu'un joueur de votre choix.
 Mission royale,x,x,x,x,13,La découverte du coton,Ne pas avoir plus de 2 actions dans votre main à la fin de la partie.
 Mission royale,x,x,x,x,12,Le cap Horn,Avoir le stock rempli et sans carte action à la fin de la partie.
@@ -41,6 +41,6 @@ Mission royale,x,x,x,x,11,La compagnie des Indes Orientales,Être le joueur à a
 Mission royale,x,x,x,x,10,La route des épices,Avoir le moins de cartes spéciales jouées par soi-même sur son propre château et dans sa zone spéciale à la fin de la partie.
 Mission princière,x,x,x,x,9,Le Nouveau monde,Jouez une action pure lors de 2 tours successifs.
 Mission princière,x,x,x,x,8,La route de l'Inde,Défaussez un matériau pur lors de 2 tours successifs.
-Mission princière,x,x,x,x,7,L'herbe à la reine,Jouez 2 cartes actions qui ciblent la même personne dans le même tour.
+Mission princière,x,x,x,x,7,L'herbe à la reine,Jouez 2 actions qui ciblent la même personne dans le même tour.
 Mission princière,x,x,x,x,6,L'isthme de Panama,N'ayez aucune carte dans votre main.
 Mission princière,x,x,x,x,5,La découverte de la canne à sucre,Défaussez une carte spéciale.

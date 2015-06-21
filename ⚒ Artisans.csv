@@ -17,7 +17,7 @@ Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,Le vestibule,Regardez le stock d'
 Action,x,x,x,x,x,L'espionnage,Regardez les cartes du stock d'un autre joueur.
 Action,x,x,x,x,x,Les intempéries,Vous pouvez poser un matériau. Le joueur après vous passe son tour.
 Action,x,x,x,x,x,Les intempéries,Vous pouvez poser un matériau. Le joueur après vous passe son tour.
-Action,x,x,x,x,x,L'escalier à double révolution,Regardez la main du joueur de votre choix. Vous pouvez poser un matériau.
+Action,x,x,x,x,x,L'escalier à double révolution,Regardez la main du joueur de votre choix. Vous pouvez ensuite poser un matériau de votre main.
 Action,x,x,x,x,x,La fosse commune,Défaussez-vous du nombre de cartes que vous souhaitez.
 Matériau,Fondation,1,,x,x,Fondation,​
 Matériau,Fondation,2,,x,x,Fondation,​
@@ -31,16 +31,16 @@ Matériau,Tuile,3,,x,x,Tuile,​
 Matériau,Tuile,4,,x,x,Tuile,​
 Spéciale,x,x,1,,x,Le couvreur,Posez un matériau sur votre château et posez cette carte sur le matériau. Vous pouvez changer le type de cette carte matériau par le type de votre choix.
 Spéciale,x,x,,3,x,Le rénovateur,Remplacez certains matériaux déjà posés par des matériaux plus forts de votre main.
-Spéciale,x,x,,2,x,Le magasinier,"Durant toute la partie, vous pouvez stocker deux cartes supplémentaires sur cette carte. Ces cartes ne sont pas sensibles aux actions qui concernent le stock."
+Spéciale,x,x,,2,x,Le magasinier,Durant toute la partie, vous pouvez stocker deux cartes supplémentaires sur cette carte. Ces cartes ne sont pas sensibles aux actions qui concernent le stock.
 Spéciale,x,x,2,,x,Le compagnon,Posez cette carte sur le matériau de votre choix.
 Spéciale,x,x,,,x,Le forgeron,Posez cette carte sur le matériau de votre choix. Ce matériau ne peut pas être la cible des actions et ne peut pas être détruit par une action.
 Mission royale,x,x,x,x,14,La projection de Mercator,N'avoir aucun matériau pur dans votre château.
 Mission royale,x,x,x,x,13,Le loch,Avoir au moins 6 matériaux purs dans votre château.
 Mission royale,x,x,x,x,12,Le télescope de Galilée,Avoir posé 3 cartes spéciales sur votre château ou dans votre zone spéciale.
 Mission royale,x,x,x,x,11,La Reine-Claude,Ne pas avoir de matériau 1 et 2 dans votre château.
-Mission royale,x,x,x,x,10,Le confit de Rosat,"N'avoir que des matériaux 1, 3 et 5 dans votre château."
-Mission princière,x,x,x,x,9,Les lanternes du Palais Strozzi de Nicolo Grosso,"Ayez au moins un matériau 1, un 2, un 3, un 4 et un 5 dans votre château."
-Mission princière,x,x,x,x,8,Le caquetoire,Ne posez que des fondations 1 et 2.
+Mission royale,x,x,x,x,10,Le confit de Rosat,N'avoir que des matériaux 1, 3 et 5 dans votre château.
+Mission princière,x,x,x,x,9,Les lanternes du Palais Strozzi de Nicolo Grosso,Ayez au moins un matériau 1, un 2, un 3, un 4 et un 5 dans votre château.
+Mission princière,x,x,x,x,8,Le caquetoire,Ayez rempli toutes vos cases fondations avec des fondations 1, 2 et / ou 3.
 Mission princière,x,x,x,x,7,La fenêtre à meneaux,Soyez le premier à poser une tuile.
 Mission princière,x,x,x,x,6,La mappemonde d'Abraham Ortelius,Soyez le premier à avoir posé toutes vos pierres.
 Mission princière,x,x,x,x,5,Les toitures en ardoise,Soyez le premier à avoir posé toutes vos fondations.
