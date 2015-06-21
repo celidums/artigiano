@@ -1,14 +1,15 @@
 * {
   box-sizing: border-box;
   color: #222;
-  font-size: 4cm;
+  font-size: 3.5cm;
   margin: 0;
   padding: 0;
 }
 
 html {
   background: rgba(0, 0, 0, 0.01);
-  font-family: Tallys;
+  font-family: "Adobe Jenson Pro";
+  font-weight: 300;
 }
 
 body {
@@ -27,12 +28,12 @@ header {
   border-bottom: 1cm solid transparent;
   border-top: 1cm solid transparent;
   box-sizing: content-box;
+  font-size: 4cm;
   height: 7cm;
   line-height: 8cm;
   padding: 1cm 0;
   position: relative;
   text-align: center;
-  text-transform: uppercase;
   top: 11cm;
   vertical-align: middle;
   width: 100%;
@@ -40,6 +41,7 @@ header {
 
 h1 {
   display: inline-block;
+  font-size: 4cm;
   font-weight: normal;
   line-height: 4cm;
 }
@@ -54,7 +56,7 @@ h1 {
 }
 
 #material, #ma-points, #mi-points, #sp-points {
-  font-size: 1.3em;
+  font-size: 1.2em;
   right: 2cm;
   line-height: 8cm;
   position: absolute;
@@ -63,10 +65,9 @@ h1 {
 
 #symbol {
   bottom: 2cm;
-  border-radius: 1em 0 1em 0;
   color: black;
   line-height: 1em;
-  opacity: 0.3;
+  opacity: 0.4;
   padding: 0.1em 0.3em;
   position: absolute;
   right: 2cm;
@@ -95,6 +96,21 @@ main {
   right: 2cm;
 }
 
+#ma-text {
+  text-align: center;
+}
+.mat-symb {
+  background: rgba(255, 255, 255, 0.4);
+  box-shadow: 0.05em 0.05em 0 rgba(0, 0, 0, 0.2);
+  border-radius: 1em;
+  display: inline-block;
+  font-size: 1.2em;
+  height: 0.85em;
+  line-height: 0.85em;
+  text-align: center;
+  width: 0.85em;
+}
+
 .type-ma {
   background-color: rgba(70, 135, 170, 0.2);
 }
@@ -105,9 +121,8 @@ main {
   font-size: 0;
 }
 .type-ma #ma-text {
-  font-size: 20cm;
+  font-size: 14cm;
   line-height: 50cm;
-  text-align: center;
 }
 
 .type-am {
@@ -123,13 +138,13 @@ main {
   border-color: rgba(120, 0, 20, 0.25);
 }
 .type-am #ma-text {
-  font-size: 10cm;
+  font-size: 8cm;
   line-height: 0.6em;
-  text-align: center;
 }
-.type-am span {
+.type-am #ou {
   background: rgba(250, 250, 250, 0.5);
   display: block;
+  font-style: italic;
   line-height: 1.2em;
   margin: 0.6em 0;
   opacity: 0.5;

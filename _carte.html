@@ -16,10 +16,10 @@
       {{ text }}
       {% if material %}
         {% if type != 'Matériau' %}
-          <span>ou</span>
+          <span id="ou">ou</span>
         {% endif %}
         <div id="ma-text">
-          {% for mat in material.split('/') %}{{ ms[mat] }} {% endfor %}
+          {% for mat in material.split('/') %}<span class="mat-symb">{{ ms[mat] }}</span> {% endfor %}
           {{ value }}
         </div>
       {% endif %}
@@ -28,7 +28,7 @@
     <aside id="symbol">{{ symbol }}</aside>
     {% if material %}
       <aside id="material">
-        {% for mat in material.split('/') %}{{ ms[mat] }} {% endfor %}
+        {% for mat in material.split('/') %}<span class="mat-symb">{{ ms[mat] }}</span> {% endfor %}
         {{ value }}
       </aside>
     {% endif %}
