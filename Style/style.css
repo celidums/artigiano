@@ -66,6 +66,7 @@ h1 {
 #symbol {
   bottom: 2cm;
   color: black;
+  font-family: Renaissance;
   line-height: 1em;
   opacity: 0.4;
   padding: 0.1em 0.3em;
@@ -104,6 +105,7 @@ main {
   box-shadow: 0.05em 0.05em 0 rgba(0, 0, 0, 0.2);
   border-radius: 1em;
   display: inline-block;
+  font-family: Renaissance;
   font-size: 1.2em;
   height: 0.85em;
   line-height: 0.85em;
@@ -220,6 +222,7 @@ main {
     width: 62cm;
   }
 
+/*
   body:after {
     border: 0.1in dashed red;
     border-radius: 4cm;
@@ -247,4 +250,5 @@ main {
     top: 50%;
     width: 22.5in;
   }
+*/
 }

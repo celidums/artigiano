@@ -30,7 +30,7 @@ Matériau,Pierre,5,,x,x,Pierre,
 Matériau,Tuile,3,,x,x,Tuile,​
 Matériau,Tuile,4,,x,x,Tuile,​
 Spéciale,x,x,,-1,x,Le capitaine,Placez cette carte sur le stock d'un adversaire. Son stock est inutilisable jusqu'à ce qu'il défausse un matériau de 4 ou 5 points de sa main. À ce moment-là il place la carte dans sa zone spéciale.
-Spéciale,x,x,,,x,Le racol,Posez cette carte devant vous. À chaque fois que vous finissez de jouer votre tour, vous pouvez piocher une carte dans la main de chaque joueur qui vient de poser au moins un matériau 4 ou 5 de sa main.
+Spéciale,x,x,,,x,Le racol,"Posez cette carte devant vous. À chaque fois que vous finissez de jouer votre tour, vous pouvez piocher une carte dans la main de chaque joueur qui vient de poser au moins un matériau 4 ou 5 de sa main."
 Spéciale,x,x,-2,,x,Le maître d'armes,Placez cette carte sur le matériau d'un adversaire.
 Spéciale,x,x,,-3,x,L'officier,Placez cette carte dans la zone spéciale d'un adversaire.
 Spéciale,x,x,-1,,x,Le prévôt de la maréchaussée,Remplacez un matériau d'un château adverse par cette carte. Le matériau remplacé est défaussé. Le prévôt de la maréchaussée est insensible aux attaques.
