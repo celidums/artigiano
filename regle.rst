@@ -159,8 +159,12 @@ Lors de la première phase, le joueur doit effectuer une opération parmi :
 Poser un matériau
 ~~~~~~~~~~~~~~~~~
 
-Le joueur pose un matériau de sa main sur une case libre de son plateau. Le
-genre du matériau doit correspondre au genre indiqué sur la case.
+Le joueur pose un matériau de sa main sur une case libre de son plateau.
+
+Cette action doit suivre les règles de construction suivantes :
+
+- le genre du matériau doit correspondre au genre indiqué sur la case ;
+- la ou les cases sur lesquelles repose le matériau doivent être occupées.
 
 Poser une action
 ~~~~~~~~~~~~~~~~
