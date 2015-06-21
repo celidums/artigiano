@@ -28,7 +28,7 @@ Le jeu comprend :
   - 5 cartes « Mission princière » ;
 
 - 4 plateaux de château ; et
-- une règle du jeu (que vous semblez être en train de lire).
+- une règle du jeu.
 
 
 But du jeu
