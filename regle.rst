@@ -209,7 +209,7 @@ Le joueur défausse une carte de sa main. Cette carte n’a aucun effet.
 Phase 2 : stocker
 -----------------
 
-Le joueur peut poser une carte de sa main face retournée dans son stock, si son
+Le joueur peut poser une carte de sa main face cachée dans son stock, si son
 stock ne contient pas déjà trois cartes. Cette action est optionnelle.
 
 Phase 3 : piocher
