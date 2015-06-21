@@ -28,7 +28,7 @@ Le jeu comprend :
   - 5 cartes « Mission princière » ;
 
 - 4 plateaux de château ; et
-- une règle du jeu (que vous semblez être en train de lire).
+- une règle du jeu.
 
 
 But du jeu
@@ -106,16 +106,21 @@ Préparation du jeu
 
 Chaque joueur tire au sort un plateau qu’il place devant lui.
 
-On choisit ensuite les familles de cartes en fonction :
-- du nombre de joueurs (2 familles pour 2 joueurs, 3 familles pour 3 joueurs, et ainsi de suite).
-- de leur type (La famille "armée" ⚔ plus offensive, la famille "clergé" ✝ est plus défensive, la famille "artisans" ⚒ est plus consacrée à la qualité et à la protection des matériaux, la famille "commerçants" ⛀ favorise l'interactivité entre les joueurs).
-Les cartes missions de chaque famille sont extraites. Les cartes restantes sont
-mélangées toutes ensemble et constituent la pioche.
+On choisit ensuite les familles de cartes en fonction :
 
-Les missions royales des familles choisies sont mélangées ; on en donne 2 à
-chaque joueur face cachée. On fait de même avec les missions princières, mais
-on en distribue 3 par joueur. Les missions qui n'ont pas été distribuées sont
-écartées définitivement du jeu.
+- du nombre de joueurs (2 familles pour 2 joueurs, 3 familles pour 3 joueurs,
+  et ainsi de suite) ;
+- de leur type (la famille « armée » ⚔ est plus offensive, la famille
+  « clergé » ✝ est plus défensive, la famille « artisans » ⚒ est plus consacrée 
+  à la qualité et à la protection des matériaux, la famille « commerçants » ⛀
+  favorise l'interactivité entre les joueurs).
+  
+Les familles qui n’ont pas été choisies sont écartées définitivement du jeu.
+
+Les missions royales des familles choisies sont mélangées toutes ensemble ; on
+en donne 2 à chaque joueur face cachée. On fait de même avec les missions
+princières, mais on en distribue 3 par joueur. Les missions qui n'ont pas été
+distribuées sont écartées définitivement du jeu.
 
 Chaque joueur regarde ses missions et décide d’en garder 2 (au choix : 2
 royales, 2 princières, 1 royale et 1 princière), qui correspondront aux
@@ -123,8 +128,8 @@ missions obligatoires. Les 3 autres missions sont dites facultatives. Les deux
 tas (missions obligatoires et missions facultatives) sont posés face cachée
 dans la zone spéciale.
 
-On mélange ensuite les cartes de la pioche. On distribue à chaque joueur 5
-cartes qu’il prend dans sa main.
+Les cartes restantes sont mélangées toutes ensemble et constituent la pioche.
+On distribue à chaque joueur 5 cartes qu’il prend dans sa main.
 
 
 Déroulement du jeu
@@ -204,7 +209,7 @@ Le joueur défausse une carte de sa main. Cette carte n’a aucun effet.
 Phase 2 : stocker
 -----------------
 
-Le joueur peut poser une carte de sa main face retournée dans son stock, si son
+Le joueur peut poser une carte de sa main face cachée dans son stock, si son
 stock ne contient pas déjà trois cartes. Cette action est optionnelle.
 
 Phase 3 : piocher
@@ -289,7 +294,8 @@ seulement 6 cases que vous imaginez devant vous comme suit :
 On ne joue qu’avec un jeu de cartes à 2 joueurs et avec 2 jeux à 3 ou 4
 joueurs. On distribue 2 missions royales et 2 missions princières par joueur.
 Chaque joueur choisit une mission obligatoire, les autres missions sont
-écartées du jeu. Le stock est composé d’un emplacement par joueur.
+écartées du jeu. Le stock est composé d’un emplacement par joueur. Le joueur qui
+finit son château le premier marque 5 points.
 
 Les autres règles restent inchangées. 
 
