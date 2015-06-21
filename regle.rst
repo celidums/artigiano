@@ -294,7 +294,8 @@ seulement 6 cases que vous imaginez devant vous comme suit :
 On ne joue qu’avec un jeu de cartes à 2 joueurs et avec 2 jeux à 3 ou 4
 joueurs. On distribue 2 missions royales et 2 missions princières par joueur.
 Chaque joueur choisit une mission obligatoire, les autres missions sont
-écartées du jeu. Le stock est composé d’un emplacement par joueur.
+écartées du jeu. Le stock est composé d’un emplacement par joueur. Le joueur qui
+finit son château le premier marque 5 points.
 
 Les autres règles restent inchangées. 
 
