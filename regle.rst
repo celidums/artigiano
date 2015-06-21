@@ -106,16 +106,21 @@ Préparation du jeu
 
 Chaque joueur tire au sort un plateau qu’il place devant lui.
 
-On choisit ensuite les familles de cartes en fonction :
-- du nombre de joueurs (2 familles pour 2 joueurs, 3 familles pour 3 joueurs, et ainsi de suite).
-- de leur type (La famille "armée" ⚔ plus offensive, la famille "clergé" ✝ est plus défensive, la famille "artisans" ⚒ est plus consacrée à la qualité et à la protection des matériaux, la famille "commerçants" ⛀ favorise l'interactivité entre les joueurs).
-Les cartes missions de chaque famille sont extraites. Les cartes restantes sont
-mélangées toutes ensemble et constituent la pioche.
+On choisit ensuite les familles de cartes en fonction :
 
-Les missions royales des familles choisies sont mélangées ; on en donne 2 à
-chaque joueur face cachée. On fait de même avec les missions princières, mais
-on en distribue 3 par joueur. Les missions qui n'ont pas été distribuées sont
-écartées définitivement du jeu.
+- du nombre de joueurs (2 familles pour 2 joueurs, 3 familles pour 3 joueurs,
+  et ainsi de suite) ;
+- de leur type (la famille « armée » ⚔ est plus offensive, la famille
+  « clergé » ✝ est plus défensive, la famille « artisans » ⚒ est plus consacrée 
+  à la qualité et à la protection des matériaux, la famille « commerçants » ⛀
+  favorise l'interactivité entre les joueurs).
+  
+Les familles qui n’ont pas été choisies sont écartées définitivement du jeu.
+
+Les missions royales des familles choisies sont mélangées toutes ensemble ; on
+en donne 2 à chaque joueur face cachée. On fait de même avec les missions
+princières, mais on en distribue 3 par joueur. Les missions qui n'ont pas été
+distribuées sont écartées définitivement du jeu.
 
 Chaque joueur regarde ses missions et décide d’en garder 2 (au choix : 2
 royales, 2 princières, 1 royale et 1 princière), qui correspondront aux
@@ -123,8 +128,8 @@ missions obligatoires. Les 3 autres missions sont dites facultatives. Les deux
 tas (missions obligatoires et missions facultatives) sont posés face cachée
 dans la zone spéciale.
 
-On mélange ensuite les cartes de la pioche. On distribue à chaque joueur 5
-cartes qu’il prend dans sa main.
+Les cartes restantes sont mélangées toutes ensemble et constituent la pioche.
+On distribue à chaque joueur 5 cartes qu’il prend dans sa main.
 
 
 Déroulement du jeu
