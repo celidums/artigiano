@@ -14,7 +14,7 @@ Action/Matériau,Fondation/Pierre,4,,x,x,La bonne affaire,Échangez un matériau
 Action/Matériau,Pierre/Tuile,5,,x,x,Le pillage,Prenez un matériau superficiel posé sur le château d'un autre joueur et posez-le sur votre château.
 Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,Le puits,Affichez les cartes de la pioche une par une jusqu'à obtenir un matériau. Placez ce matériau dans votre main. Remettez les autres cartes dans la pioche dans l'ordre de votre choix.
 Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,Le vestibule,Regardez le stock d'un autre joueur. Vous pouvez prendre un matériau de son stock pour le poser sur votre château.
-Action,x,x,x,x,x,L'espionnage,Regardez les cartes du stock d'un autre joueur.
+Action,x,x,x,x,x,Le cellier,Regardez les cartes du stock d'un autre joueur.
 Action,x,x,x,x,x,Les intempéries,Vous pouvez poser un matériau. Le joueur après vous passe son tour.
 Action,x,x,x,x,x,Les intempéries,Vous pouvez poser un matériau. Le joueur après vous passe son tour.
 Action,x,x,x,x,x,L'escalier à double révolution,Regardez la main du joueur de votre choix. Vous pouvez ensuite poser un matériau de votre main.
