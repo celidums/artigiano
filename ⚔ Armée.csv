@@ -15,7 +15,7 @@ Action/Matériau,Pierre/Tuile,5,,x,x,Le pillage,Prenez un matériau superficiel 
 Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,Le mousquet,Les autres joueurs ne piochent pas lors de leur prochain tour.
 Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,L'arbalète,Désignez un joueur qui défausse les tuiles de 1 à 3 de son château.
 Action,x,x,x,x,x,La fosse commune,Défaussez-vous du nombre de cartes que vous voulez.
-Action,x,x,x,x,x,Le marchand de tapis,Échangez votre main avec celle du joueur de votre choix.
+Action,x,x,x,x,x,La fraude,Échangez votre main avec celle du joueur de votre choix.
 Action,x,x,x,x,x,Le siège,Les autres joueurs choisissent une carte de leur stock et la défaussent.
 Action,x,x,x,x,x,La fosse commune,Défaussez-vous du nombre de cartes que vous voulez.
 Action,x,x,x,x,x,Le casernement,Les autres joueurs ne peuvent pas poser de matériau de leur main lors de leur prochain tour.
