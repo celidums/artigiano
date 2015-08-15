@@ -17,7 +17,7 @@ Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,La révélation,Regardez le stock
 Action,x,x,x,x,x,Le pêché,Échangez le nombre de cartes de votre stock que vous voulez avec des cartes de votre main.
 Action,x,x,x,x,x,Le pêché,Échangez le nombre de cartes de votre stock que vous voulez avec des cartes de votre main.
 Action,x,x,x,x,x,Le baptême,Désignez un joueur qui se défausse de toutes ses cartes action.
-Action,x,x,x,x,x,Le cloître,"Chaque joueur y compris vous pose deux cartes de sa main face cachée au centre de la table. Regardez-les en secret, prenez en deux dans votre main et redistribuez en deux à chaque joueur."
+Action,x,x,x,x,x,Le cloître,Piochez deux cartes au hasard dans le jeu des autres joueurs. Posez-les face cachée au centre de la table. Ajoutez-en deux au choix de votre main. Regardez toutes les cartes en secret et redistribuez-en deux à chaque joueur.  
 Action,x,x,x,x,x,Le confessionnal,Demandez à un joueur de vous dévoiler une de ses missions obligatoires.
 Matériau,Fondation,1,,x,x,Fondation,​
 Matériau,Fondation,2,,x,x,Fondation,​
