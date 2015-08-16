@@ -9,11 +9,11 @@ Action/Matériau,Pierre,3,,x,x,Les renforts,Posez deux matériaux du même genre
 Action/Matériau,Tuile,1,,x,x,La poulie,Posez jusqu'à trois matériaux au prochain tour.
 Action/Matériau,Tuile,2,,x,x,Le plan de construction,Vous pouvez déplacer les matériaux posés votre château en respectant les règles de construction.
 Action/Matériau,Fondation/Pierre,1,,x,x,Le puits,Affichez les cartes de la pioche une par une jusqu'à obtenir un matériau. Placez ce matériau dans votre main. Remettez les autres cartes dans la pioche dans l'ordre de votre choix.
-Action/Matériau,Fondation/Pierre,3,,x,x,Le vestibule,"Regardez le stock d'un autre joueur. Vous pouvez prendre un matériau de son stock pour le poser sur votre château. Si le matériau ne peut être posé, il reste dans son stock."
+Action/Matériau,Fondation/Pierre,3,,x,x,Le vestibule,"Regardez le stock d'un autre joueur. Vous pouvez y prendre un matériau pour le poser sur votre château. Si le matériau ne peut être posé, il reste dans son stock."
 Action/Matériau,Fondation/Pierre,4,,x,x,La bonne affaire,Échangez un matériau d'un château adverse avec un matériau de votre château.
 Action/Matériau,Pierre/Tuile,5,,x,x,Le pillage,Prenez un matériau superficiel posé sur le château d'un autre joueur et posez-le sur votre château.
 Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,Le puits,Affichez les cartes de la pioche une par une jusqu'à obtenir un matériau. Placez ce matériau dans votre main. Remettez les autres cartes dans la pioche dans l'ordre de votre choix.
-Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,Le vestibule,"Regardez le stock d'un autre joueur. Vous pouvez prendre un matériau de son stock pour le poser sur votre château. Si le matériau ne peut être posé, il reste dans son stock."
+Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,Le vestibule,"Regardez le stock d'un autre joueur. Vous pouvez y prendre un matériau pour le poser sur votre château. Si le matériau ne peut être posé, il reste dans son stock."
 Action,x,x,x,x,x,Le cellier,Regardez les cartes du stock d'un autre joueur.
 Action,x,x,x,x,x,Les intempéries,Vous pouvez poser un matériau. Le joueur après vous passe son tour.
 Action,x,x,x,x,x,Les intempéries,Vous pouvez poser un matériau. Le joueur après vous passe son tour.
