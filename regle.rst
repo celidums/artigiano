@@ -54,10 +54,12 @@ Zones de jeu
 Le « plateau » est la zone sur laquelle se situent les cases de château. Chaque
 joueur a son propre plateau et le pose devant lui.
 
-À droite du plateau se trouve le « stock » où sont posées face cachée les
+En dessous du plateau se trouve le « stock » où sont posées face cachée les
 cartes gardées en stock. Le stock peut contenir trois cartes.
 
-En haut du plateau se trouve la « zone spéciale » où sont posées face visible
+Au dessus, à gauche, se trouve les missions obligatoires et les missions facultatives. 
+
+Au dessus, à droite, se trouve la « zone spéciale » où sont posées face visible
 les cartes spéciales concernant le château.
 
 Au centre de la table se trouvent deux piles de cartes :
@@ -74,16 +76,16 @@ Le « titre » de la carte se situe dans le bandeau clair en haut de la carte.
 « famille » de la carte est indiquée par un symbole en bas à droite.
 
 Les cartes de type « Matériau » et « Action » sont dites « pures »,
-contrairement aux cartes « Action / Matériau » dites « composites ».
+contrairement aux cartes « Action ou Matériau » dites « composites ».
 
-Les cartes « Action / Matériau » sont à la fois de type « Action » et
+Les cartes « Action ou Matériau » sont à la fois de type « Action » et
 « Matériau » lorsqu’ils sont dans la main, dans le stock, dans la pioche ou
 dans la défausse. Cependant, lorsque ces cartes sont sur une case, elles
 deviennent uniquement des matériaux durant le temps qu’elles restent sur le
 plateau.
 
 Par exemple, si vous devez compter le nombre de Matériaux dans votre main, les
-cartes « Action / Matériau » doivent être inclues dans ce compte.
+cartes « Action ou Matériau » doivent être inclues dans ce compte.
 
 Les cartes de type « Matériau » ont un « genre » (Fondation, Pierre, Tuile) et
 une « valeur » (1, 2, 3, 4, 5). Le genre et la valeur
@@ -97,7 +99,7 @@ uniquement le genre de matériau indiqué sur la case sur laquelle ils sont.
 
 Dans la suite de la règle, on utilisera des formules raccourcies : on parlera
 par exemple de « 2 actions » pour désigner deux cartes de type « Action » ou
-« Action / Matériau ». On parlera également de « 1 pierre » pour désigner une
+« Action ou Matériau ». On parlera également de « 1 pierre » pour désigner une
 carte dont le genre est « Pierre ».
 
 
@@ -317,3 +319,4 @@ du jeu restent inchangées.
 
 Remerciements
 =============
+Arthur, Blandine, Amandine, Yann, Yoan, Chloé, Ronan, Anne, Chloé, Florent, Nikro, Marion, Elodie, Pierre-Damien, Sidonie, Marianne, Laury, Julien.
