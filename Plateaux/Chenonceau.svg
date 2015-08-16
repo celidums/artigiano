@@ -1,54 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink"
-     version="1.1" width="320mm" height="260mm" viewBox="0 0 320 260"
-     font-family="Renaissance" font-size="20">
-  <defs>
-    <rect id="rect" fill="white" opacity="0.6" width="60" height="45" />
-    <g id="F">
-      <use xlink:href="#rect" />
-      <text x="30" y="28" text-anchor="middle" fill="black" opacity="0.7">
-        ☰
-      </text>
-    </g>
-    <g id="P">
-      <use xlink:href="#rect" />
-      <text x="30" y="28" text-anchor="middle" fill="black" opacity="0.7">
-        ■
-      </text>
-    </g>
-    <g id="T">
-      <use xlink:href="#rect" />
-      <text x="30" y="28" text-anchor="middle" fill="black" opacity="0.7">
-        ▲
-      </text>
-    </g>
-  </defs>
+     version="1.1" width="260mm" height="260mm" viewBox="0 0 260 260"
+     font-family="Renaissance" font-size="24">
 
-  <image width="320" height="260" xlink:href="Chenonceau.jpg" />
+  <image width="260" height="260" xlink:href="Chenonceau.jpg" />
 
-  <g transform="translate(0, 140)">
-    <use x="6" xlink:href="#F" />
-    <use x="68" xlink:href="#F" />
-    <use x="130" xlink:href="#F" />
-    <use x="192" xlink:href="#F" />
-    <use x="254" xlink:href="#F" />
+  <g transform="translate(0, 160)">
+    <use x="7" xlink:href="Modèle.svg#F" />
+    <use x="69" xlink:href="Modèle.svg#F" />
+    <use x="131" xlink:href="Modèle.svg#F" />
+    <use x="193" xlink:href="Modèle.svg#F" />
   </g>
 
-  <g transform="translate(0, 93)">
-    <use x="37" xlink:href="#P" />
-    <use x="99" xlink:href="#P" />
-    <use x="161" xlink:href="#P" />
-    <use x="223" xlink:href="#P" />
+  <g transform="translate(0, 113)">
+    <use x="38" xlink:href="Modèle.svg#P" />
+    <use x="100" xlink:href="Modèle.svg#P" />
+    <use x="162" xlink:href="Modèle.svg#F" />
   </g>
 
-  <g transform="translate(0, 46)">
-    <use x="68" xlink:href="#T" />
-    <use x="130" xlink:href="#T" />
-    <use x="192" xlink:href="#T" />
+  <g transform="translate(0, 66)">
+    <use x="38" xlink:href="Modèle.svg#P" />
+    <use x="100" xlink:href="Modèle.svg#T" />
+    <use x="162" xlink:href="Modèle.svg#P" />
   </g>
 
-  <rect y="220" width="320" height="30" fill="white" opacity="0.7" />
-  <text x="160" y="240" text-anchor="middle" opacity="0.8" font-family="Adobe Jenson Pro">
-    Chenonceau
-  </text>
+  <g transform="translate(0, 19)">
+    <use x="38" xlink:href="Modèle.svg#T" />
+    <use x="162" xlink:href="Modèle.svg#T" />
+  </g>
+
+  <use xlink:href="Modèle.svg#footer" />
+  <text x="130" y="230" text-anchor="middle" opacity="0.8" font-family="Adobe Jenson Pro" font-size="18">Chenonceau</text>
+  <use xlink:href="Modèle.svg#cut" />
 </svg>

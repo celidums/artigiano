@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="1.1" width="260mm" height="260mm" viewBox="0 0 260 260"
+     font-family="Renaissance" font-size="24">
+
+  <image width="260" height="260" xlink:href="Blackheads.jpg" />
+
+  <g transform="translate(0, 160)">
+    <use x="7" xlink:href="Modèle.svg#F" />
+    <use x="69" xlink:href="Modèle.svg#F" />
+    <use x="131" xlink:href="Modèle.svg#F" />
+    <use x="193" xlink:href="Modèle.svg#F" />
+  </g>
+
+  <g transform="translate(0, 113)">
+    <use x="7" xlink:href="Modèle.svg#P" />
+    <use x="69" xlink:href="Modèle.svg#P" />
+    <use x="131" xlink:href="Modèle.svg#P" />
+    <use x="193" xlink:href="Modèle.svg#P" />
+  </g>
+
+  <g transform="translate(0, 66)">
+    <use x="69" xlink:href="Modèle.svg#T" />
+    <use x="131" xlink:href="Modèle.svg#T" />
+  </g>
+
+  <g transform="translate(0, 19)">
+    <use x="69" xlink:href="Modèle.svg#T" />
+    <use x="131" xlink:href="Modèle.svg#T" />
+  </g>
+
+  <use xlink:href="Modèle.svg#footer" />
+  <text x="130" y="230" text-anchor="middle" opacity="0.8" font-family="Adobe Jenson Pro" font-size="18">Melngalvju Nams</text>
+  <use xlink:href="Modèle.svg#cut" />
+</svg>

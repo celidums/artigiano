@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="1.1" width="260mm" height="260mm" viewBox="0 0 260 260"
+     font-family="Renaissance" font-size="24">
+  <defs>
+    <rect id="card" fill="none" stroke-width="1" rx="3" stroke="white" opacity="0.4" width="60" height="60" />
+    <rect id="rect" fill="white" opacity="0.6" width="60" height="45" />
+    <g id="F">
+      <use xlink:href="Modèle.svg#rect" />
+      <text x="30" y="30" text-anchor="middle" fill="black" opacity="0.7">☰</text>
+    </g>
+    <g id="P">
+      <use xlink:href="Modèle.svg#rect" />
+      <text x="30" y="30" text-anchor="middle" fill="black" opacity="0.7">■</text>
+    </g>
+    <g id="T">
+      <use xlink:href="Modèle.svg#rect" />
+      <text x="30" y="30" text-anchor="middle" fill="black" opacity="0.7">▲</text>
+    </g>
+  </defs>
+
+  <g id="footer" text-anchor="middle" font-family="Adobe Jenson Pro" font-size="4" font-weight="100">
+    <rect y="210" width="260" height="30" fill="white" opacity="0.7" />
+
+    <use x="10" y="-50" xlink:href="Modèle.svg#card" />
+    <text x="40" y="8" fill="white" opacity="0.5">Missions obligatoires</text>
+    <use x="75" y="-50" xlink:href="Modèle.svg#card" />
+    <text x="105" y="8" fill="white" opacity="0.5">Missions facultatives</text>
+    <rect x="140" y="-50" fill="none" stroke-width="1" rx="3" stroke="white" opacity="0.4" width="110" height="60" />
+    <text x="195" y="8" fill="white" opacity="0.5">Cartes spéciales</text>
+
+    <use x="38" y="250" xlink:href="Modèle.svg#card" />
+    <text x="68" y="255" fill="white" opacity="0.5">Stock</text>
+    <use x="100" y="250" xlink:href="Modèle.svg#card" />
+    <text x="130" y="255" fill="white" opacity="0.5">Stock</text>
+    <use x="162" y="250" xlink:href="Modèle.svg#card" />
+    <text x="192" y="255" fill="white" opacity="0.5">Stock</text>
+  </g>
+
+  <g id="cut">
+    <rect x="1.5" y="1.5" fill="none" stroke="red" width="257" height="257" stroke-width="0.1" />
+    <rect x="3" y="3" fill="none" stroke="red" width="254" height="254" stroke-width="0.1" />
+  </g>
+</svg>
