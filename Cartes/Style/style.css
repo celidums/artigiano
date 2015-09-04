@@ -1,0 +1,254 @@
+* {
+  box-sizing: border-box;
+  color: #222;
+  font-size: 3.5cm;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background: rgba(0, 0, 0, 0.01);
+  font-family: "Adobe Jenson Pro";
+  font-weight: 300;
+}
+
+body {
+  background-image: url(fond.png);
+  background-size: cover;
+  border: solid black 3cm;
+  border-radius: 4cm;
+  height: 88cm;
+  margin: 1em;
+  position: relative;
+  width: 56cm;
+}
+
+header {
+  background: rgba(255, 255, 255, 0.3);
+  border-bottom: 1cm solid transparent;
+  border-top: 1cm solid transparent;
+  box-sizing: content-box;
+  font-size: 4cm;
+  height: 7cm;
+  line-height: 8cm;
+  padding: 1cm 0;
+  position: relative;
+  text-align: center;
+  top: 11cm;
+  vertical-align: middle;
+  width: 100%;
+}
+
+h1 {
+  display: inline-block;
+  font-size: 4cm;
+  font-weight: normal;
+  line-height: 4cm;
+}
+
+#type {
+  bottom: 2cm;
+  left: 5.5cm;
+  line-height: 5cm;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: bottom left;
+}
+
+#material, #ma-points, #mi-points, #sp-points {
+  font-size: 1.2em;
+  right: 2cm;
+  line-height: 8cm;
+  position: absolute;
+  top: 0;
+}
+
+#symbol {
+  bottom: 2cm;
+  color: black;
+  font-family: Renaissance;
+  line-height: 1em;
+  opacity: 0.4;
+  padding: 0.1em 0.3em;
+  position: absolute;
+  right: 2cm;
+}
+
+img {
+  border: 0.4cm solid black;
+  bottom: 2cm;
+  display: block;
+  height: 25cm;
+  left: 2cm;
+  position: absolute;
+  right: 2cm;
+  top: 19cm;
+  width: 46cm;
+}
+
+main {
+  background: rgba(255, 255, 255, 0.3);
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  bottom: 2cm;
+  height: 50cm;
+  left: 5cm;
+  padding: 2cm;
+  position: absolute;
+  right: 2cm;
+}
+
+#ma-text {
+  text-align: center;
+}
+.mat-symb {
+  background: rgba(255, 255, 255, 0.4);
+  box-shadow: 0.05em 0.05em 0 rgba(0, 0, 0, 0.2);
+  border-radius: 1em;
+  display: inline-block;
+  font-family: Renaissance;
+  font-size: 1.2em;
+  height: 0.85em;
+  line-height: 0.85em;
+  text-align: center;
+  width: 0.85em;
+}
+
+.type-ma {
+  background-color: rgba(70, 135, 170, 0.2);
+}
+.type-ma header {
+  border-color: rgba(70, 135, 170, 0.2);
+}
+.type-ma main {
+  font-size: 0;
+}
+.type-ma #ma-text {
+  font-size: 14cm;
+  line-height: 50cm;
+}
+
+.type-am {
+  background: url(fond.png) top left no-repeat, linear-gradient(
+    to bottom right,
+    rgba(140, 0, 20, 0.2) 0%,
+    rgba(140, 0, 20, 0.2) 50%,
+    rgba(70, 135, 170, 0.2) 50%,
+    rgba(70, 135, 170, 0.2) 100%);
+  background-size: cover, cover;
+}
+.type-am header {
+  border-color: rgba(120, 0, 20, 0.25);
+}
+.type-am #ma-text {
+  font-size: 8cm;
+  line-height: 0.6em;
+}
+.type-am #ou {
+  background: rgba(250, 250, 250, 0.5);
+  display: block;
+  font-style: italic;
+  line-height: 1.2em;
+  margin: 0.6em 0;
+  opacity: 0.5;
+  text-align: center;
+}
+
+.type-ac {
+  background-color: rgba(140, 0, 20, 0.2);
+}
+.type-ac header {
+  border-color: rgba(120, 0, 20, 0.25);
+}
+
+.type-sp header {
+  border-color: rgba(20, 0, 20, 0.15);
+}
+
+.type-mp {
+  background-color: rgba(0, 80, 255, 0.7);
+}
+.type-mp header {
+  background-color: rgba(250, 250, 250, 0.3);
+  border-color: rgba(250, 250, 250, 0.9);
+}
+.type-mp #mi-points {
+  color: rgba(250, 250, 250, 0.9);
+}
+
+.type-mr {
+  background-color: rgba(0, 80, 255, 0.7);
+}
+.type-mr header {
+  background-color: rgba(250, 250, 120, 0.2);
+  border-color: rgba(230, 200, 0, 0.9);
+}
+.type-mr header h1 {
+  color: rgba(230, 200, 0, 0.9);
+  max-width: 70%;
+}
+.type-mr header:before, .type-mr header:after {
+  color: rgba(230, 200, 0, 0.9);
+  content: '⚜';
+  height: 2em;
+  display: inline-block;
+  line-height: 2em;
+  vertical-align: top;
+  width: 10%;
+}
+.type-mr #mi-points {
+  color: rgba(230, 200, 0, 0.9);
+}
+
+
+@page {
+  margin: 0;
+  size: 24.88in 37.4in;
+}
+
+@media print {
+  html {
+    height: 37.4in;
+    width: 24.88in;
+    background: white;
+  }
+
+  body {
+    border: solid black 6cm;
+    border-radius: 8cm;
+    height: 94cm;
+    left: 50%;
+    margin: -47cm -31cm;
+    top: 50%;
+    width: 62cm;
+  }
+
+/*
+  body:after {
+    border: 0.1in dashed red;
+    border-radius: 4cm;
+    box-sizing: padding-box;
+    content: '';
+    display: block;
+    height: 32.6in;
+    left: 50%;
+    margin: -16.4in -10.15in;
+    position: absolute;
+    top: 50%;
+    width: 20.1in;
+  }
+
+  body:before {
+    border: 0.1in dashed blue;
+    border-radius: 4cm;
+    box-sizing: padding-box;
+    content: '';
+    display: block;
+    height: 35in;
+    left: 50%;
+    margin: -17.6in -11.35in;
+    position: absolute;
+    top: 50%;
+    width: 22.5in;
+  }
+*/
+}

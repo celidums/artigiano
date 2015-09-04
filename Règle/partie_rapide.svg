@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="1.1" viewBox="30 60 200 150" font-family="Renaissance" font-size="24">
+
+  <defs>
+    <rect id="frame" stroke-width="1" stroke="black" fill="none" width="60" height="45" />
+    <g id="F">
+      <use xlink:href="../Plateaux/Modèle.svg#F" />
+      <use xlink:href="#frame" />
+    </g>
+    <g id="P">
+      <use xlink:href="../Plateaux/Modèle.svg#P" />
+      <use xlink:href="#frame" />
+    </g>
+    <g id="T">
+      <use xlink:href="../Plateaux/Modèle.svg#T" />
+      <use xlink:href="#frame" />
+    </g>
+  </defs>
+
+  <g transform="translate(0, 160)">
+    <use x="38" xlink:href="#F" />
+    <use x="100" xlink:href="#F" />
+    <use x="162" xlink:href="#F" />
+  </g>
+
+  <g transform="translate(0, 113)">
+    <use x="69" xlink:href="#P" />
+    <use x="131" xlink:href="#P" />
+  </g>
+
+  <g transform="translate(0, 66)">
+    <use x="100" xlink:href="#T" />
+  </g>
+</svg>
