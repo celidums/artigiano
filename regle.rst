@@ -1,6 +1,6 @@
-=============
- Renaissance
-=============
+===========
+ Artigiano
+===========
 
 Un jeu de Céline Dumas, avec la collaboration de Guillaume Ayoub.
 
@@ -10,7 +10,7 @@ que les châteaux-forts sont rendus obsolètes par les progrès de l’artilleri
 monarques et princes construisent de somptueux châteaux à travers le
 continent. Saurez-vous rassembler les plus beaux matériaux et vous entourer des
 meilleurs spécialistes pour construire le vôtre avant la fin de cette faste
-époque ?
+époque qu’est la Renaissance ?
 
 
 Matériel
@@ -45,79 +45,41 @@ vous apportent en fin de partie un nombre de points indiqué sur la carte. Le
 but du jeu est d’avoir le plus de points à l’issue de la partie.
 
 
-Vocabulaire
-===========
+Présentation générale
+=====================
 
-Zones de jeu
-------------
+Disposition
+-----------
 
-Le « plateau » est la zone sur laquelle se situent les cases de château. Chaque
-joueur a son propre plateau et le pose devant lui.
+Voici une disposition typique lors d’une partie :
 
-En dessous du plateau se trouve le « stock » où sont posées face cachée les
-cartes gardées en stock. Le stock peut contenir trois cartes.
-
-Au dessus, à gauche, se trouve les missions obligatoires et les missions facultatives. 
-
-Au dessus, à droite, se trouve la « zone spéciale » où sont posées face visible
-les cartes spéciales concernant le château.
-
-Au centre de la table se trouvent deux piles de cartes :
-
-- la « pioche », cartes (face cachée) destinées à être piochées ;
-- la « défausse », cartes (face visible) jouées et défaussées.
+.. schéma
 
 Cartes
 ------
 
-Le « titre » de la carte se situe dans le bandeau clair en haut de la carte. Le
-« type » de carte est écrit verticalement en bas à gauche de chaque carte. Le
-« texte » de la carte se trouve dans la boîte claire au centre de la carte. La
-« famille » de la carte est indiquée par un symbole en bas à droite.
+Les cartes sont composées de différents éléments :
 
-Les cartes de type « Matériau » et « Action » sont dites « pures »,
-contrairement aux cartes « Action ou Matériau » dites « composites ».
-
-Les cartes « Action ou Matériau » sont à la fois de type « Action » et
-« Matériau » lorsqu’ils sont dans la main, dans le stock, dans la pioche ou
-dans la défausse. Cependant, lorsque ces cartes sont sur une case, elles
-deviennent uniquement des matériaux durant le temps qu’elles restent sur le
-plateau.
-
-Par exemple, si vous devez compter le nombre de Matériaux dans votre main, les
-cartes « Action ou Matériau » doivent être inclues dans ce compte.
-
-Les cartes de type « Matériau » ont un « genre » (Fondation, Pierre, Tuile) et
-une « valeur » (1, 2, 3, 4, 5). Le genre et la valeur
-sont présentes dans le coin en haut à gauche de la carte.
-
-Certaines cartes comportent deux ou trois genres de matériaux. Tout comme les
-cartes qui ont plusieurs types, les matériaux sont des deux ou trois genres à
-la fois lorsqu’ils sont dans la main, dans le stock, dans la pioche ou dans la
-défausse. Cependant, lorsque ces matériaux sont sur une case, ils prennent
-uniquement le genre de matériau indiqué sur la case sur laquelle ils sont.
-
-Dans la suite de la règle, on utilisera des formules raccourcies : on parlera
-par exemple de « 2 actions » pour désigner deux cartes de type « Action » ou
-« Action ou Matériau ». On parlera également de « 1 pierre » pour désigner une
-carte dont le genre est « Pierre ».
+.. schéma
 
 
-Préparation du jeu
-==================
+Préparation
+===========
 
 Chaque joueur tire au sort un plateau qu’il place devant lui.
 
-On choisit ensuite les familles de cartes en fonction :
+On choisit ensuite les familles de cartes que l’on utilisera pour la partie en
+fonction du nombre de joueurs : 2 familles pour 2 joueurs, 3 familles pour 3
+joueurs, 4 familles pour 4 joueurs. Les familles qui n’ont pas été choisies
+sont écartées définitivement du jeu.
 
-- du nombre de joueurs (2 familles pour 2 joueurs, 3 familles pour 3 joueurs,
-  et ainsi de suite) ;
-- de leur type (la famille « armée » ⚔ est plus offensive, la famille
-  « clergé » ✝ est plus défensive, la famille « artisans » ⚒ est plus consacrée 
-  à la qualité et à la protection des matériaux, la famille « commerçants » ⛀
-  favorise l'interactivité entre les joueurs).
-  
-Les familles qui n’ont pas été choisies sont écartées définitivement du jeu.
+Chaque famille a ses particularités :
+
+- la famille « armée » ``⚔`` est plus offensive ;
+- la famille « clergé » ``✝`` est plus défensive ;
+- la famille « artisans » ``⚒`` est plus consacrée à la qualité et à la
+  protection des matériaux ;
+- la famille « commerçants » ``⛀`` favorise l'interactivité entre les joueurs.
 
 Les missions royales des familles choisies sont mélangées toutes ensemble ; on
 en donne 2 à chaque joueur face cachée. On fait de même avec les missions
@@ -127,40 +89,40 @@ distribuées sont écartées définitivement du jeu.
 Chaque joueur regarde ses missions et décide d’en garder 2 (au choix : 2
 royales, 2 princières, 1 royale et 1 princière), qui correspondront aux
 missions obligatoires. Les 3 autres missions sont dites facultatives. Les deux
-tas (missions obligatoires et missions facultatives) sont posés face cachée
-dans la zone spéciale.
+tas (missions obligatoires et missions facultatives) sont posés en haut du
+château, dans les zones qui leurs sont dédiées.
 
 Les cartes restantes sont mélangées toutes ensemble et constituent la pioche.
 On distribue à chaque joueur 5 cartes qu’il prend dans sa main.
 
 
-Déroulement du jeu
-==================
+Déroulement
+===========
 
 Le premier joueur est choisi au hasard. Les joueurs jouent à tour de rôle dans
 le sens des aiguilles d’une montre. Chacun des tours de jeu comprend trois
 phases :
 
-- Phase 1 : Agir
+- Phase 1 : Agir :
 
-  - poser un matériau
-  - poser une action
-  - poser une carte spéciale
-  - jouer le stock
-  - défausser une carte
+  - poser un matériau, ou
+  - poser une action, ou
+  - poser une carte spéciale, ou
+  - jouer le stock, ou
+  - défausser une carte ;
 
-- Phase 2 : Stocker.
+- Phase 2 : Stocker ;
 - Phase 3 : Piocher.
 
-Phase 1 : agir
+Phase 1 : Agir
 --------------
 
 Lors de la première phase, le joueur doit effectuer une opération parmi :
 
-- poser un matériau ;
-- poser une action ;
-- poser une carte spéciale ;
-- jouer le stock ;
+- poser un matériau ; ou
+- poser une action ; ou
+- poser une carte spéciale ; ou
+- jouer le stock ; ou
 - défausser une carte.
 
 Poser un matériau
@@ -188,8 +150,8 @@ posée ailleurs (par exemple sur un matériau ou sur la zone spéciale d’un au
 joueur), il faut alors suivre ce qui est indiqué sur la carte.
 
 Les cartes spéciales posées sur un matériau peuvent modifier son genre et sa
-valeur. Par exemple, une carte spéciale ajoutant +2 à une pierre +4 la
-transforme en une pierre +6. Dans certains cas, un matériau peut donc avoir une
+valeur. Par exemple, une carte spéciale ajoutant 2 à une pierre 4 la
+transforme en une pierre 6. Dans certains cas, un matériau peut donc avoir une
 valeur négative.
 
 Jouer le stock
@@ -208,13 +170,13 @@ Défausser une carte
 
 Le joueur défausse une carte de sa main. Cette carte n’a aucun effet.
 
-Phase 2 : stocker
+Phase 2 : Stocker
 -----------------
 
 Le joueur peut poser une carte de sa main face cachée dans son stock, si son
 stock ne contient pas déjà trois cartes. Cette action est optionnelle.
 
-Phase 3 : piocher
+Phase 3 : Piocher
 -----------------
 
 Le joueur pioche le nombre de cartes nécessaires pour recouvrir 5 cartes dans
@@ -239,7 +201,7 @@ Attention :
 
 - une mission princière qui n’a pas été retournée avant la fin de partie ne
   sera pas considérée comme accomplie même si ses conditions ont été réunies à
-  un moment de la partie.
+  un moment de la partie ;
 - pour les missions qui impliquent d'avoir « au moins » ou « le plus » qu'un
   autre joueur, l'égalité n'est pas permise.
 
@@ -267,19 +229,45 @@ On décompte alors le nombre de points pour chaque joueur :
 - les points des cartes spéciales posées dans sa zone spéciale ; et
 - le nombre de points des missions réussies.
 
-On retranche de ce nombre de points :
-
-- le nombre de points des missions obligatoires non accomplies.
+On retranche de ce nombre de points le nombre de points des missions
+obligatoires non accomplies.
 
 Le joueur avec le plus de points est déclaré vainqueur.
 
 
-Précisions
-==========
+Précisions sur les cartes
+=========================
 
 De nombreuses cartes proposent « d'attaquer » un autre joueur. Cette action est
 possible uniquement avec une carte action. Les cartes spéciales ne peuvent pas
 dans ce cas « attaquer » un château ou un joueur.
+
+Les cartes de type « Matériau » et « Action » sont dites « pures »,
+contrairement aux cartes « Action ou Matériau » dites « composites ».
+
+Les cartes « Action ou Matériau » sont à la fois de type « Action » et
+« Matériau » lorsqu’ils sont dans la main, dans le stock, dans la pioche ou
+dans la défausse. Cependant, lorsque ces cartes sont sur une case, elles
+deviennent uniquement des matériaux durant le temps qu’elles restent sur le
+plateau.
+
+Par exemple, si vous devez compter le nombre de Matériaux dans votre main, les
+cartes « Action ou Matériau » doivent être inclues dans ce compte.
+
+Les cartes de type « Matériau » ont un « genre » (Fondation, Pierre, Tuile) et
+une « valeur » (1, 2, 3, 4, 5). Le genre et la valeur sont présentes dans le
+coin en haut à droite de la carte.
+
+Certaines cartes comportent deux ou trois genres de matériaux. Tout comme les
+cartes qui ont plusieurs types, les matériaux sont des deux ou trois genres à
+la fois lorsqu’ils sont dans la main, dans le stock, dans la pioche ou dans la
+défausse. Cependant, lorsque ces matériaux sont sur une case, ils prennent
+uniquement le genre de matériau indiqué sur la case sur laquelle ils sont.
+
+Dans cette règle du jeu et sur certaines cartes, on utilise des formules
+raccourcies : on parle par exemple de « 2 actions » pour désigner deux cartes
+de type « Action » ou « Action ou Matériau ». On parle également de « 1
+pierre » pour désigner une carte dont le genre est « Pierre ».
 
 
 Variantes
@@ -292,6 +280,7 @@ Pour jouer en partie rapide, vous n'avez pas besoin de plateau. Vous jouez avec
 seulement 6 cases que vous imaginez devant vous comme suit : 
 
 .. image:: schema_partierapide.svg
+   :width: 40%
 
 On ne joue qu’avec un jeu de cartes à 2 joueurs et avec 2 jeux à 3 ou 4
 joueurs. On distribue 2 missions royales et 2 missions princières par joueur.
@@ -319,4 +308,5 @@ du jeu restent inchangées.
 
 Remerciements
 =============
-Arthur, Blandine, Amandine, Yann, Yoan, Chloé, Ronan, Anne, Chloé, Florent, Nikro, Marion, Elodie, Pierre-Damien, Sidonie, Marianne, Laury, Julien.
+Arthur, Blandine, Amandine, Yann, Yoan, Chloé, Ronan, Anne, Chloé, Florent,
+Nikro, Marion, Elodie, Pierre-Damien, Sidonie, Marianne, Laury, Julien.
