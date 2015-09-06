@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="1.1" viewBox="0 0 3100 10800" font-family="Adobe Jenson Pro" font-size="200">
+
+  <g transform="translate(620 4800)">
+    <image transform="translate(-1 -2) rotate(1)" width="747" height="1122" xlink:href="../Cartes/Rendus/dos_autres.png" />
+    <image transform="translate(3 7) rotate(-2)" width="747" height="1122" xlink:href="../Cartes/Rendus/dos_autres.png" />
+    <image transform="translate(-3 4) rotate(3)" width="747" height="1122" xlink:href="../Cartes/Rendus/dos_autres.png" />
+    <text transform="translate(-100 550) rotate(-90)" text-anchor="middle">Pioche</text>
+  </g>
+
+  <g transform="translate(1620 4800)">
+    <image transform="translate(-1 -2) rotate(2)" width="747" height="1122" xlink:href="../Cartes/Rendus/⛀20 - La contrebande.png" />
+    <image transform="translate(2 -1) rotate(1)" width="747" height="1122" xlink:href="../Cartes/Rendus/⛀20 - La contrebande.png" />
+    <image transform="translate(3 2) rotate(-2)" width="747" height="1122" xlink:href="../Cartes/Rendus/⛀20 - La contrebande.png" />
+    <text transform="translate(1000 550) rotate(-90)" text-anchor="middle">Défausse</text>
+  </g>
+
+  <g transform="translate(0 6300)">
+    <image transform="translate(120 3) rotate(1)" width="747" height="1122" xlink:href="../Cartes/Rendus/dos_missions.png" />
+    <image transform="translate(870 9) rotate(-1)" width="747" height="1122" xlink:href="../Cartes/Rendus/dos_missions.png" />
+    <image transform="translate(870 -7) rotate(0)" width="747" height="1122" xlink:href="../Cartes/Rendus/dos_missions.png" />
+    <image transform="translate(2200 -10) rotate(1)" width="747" height="1122" xlink:href="../Cartes/Rendus/⚔32 - Le racol.png" />
+    <image transform="translate(1700 8) rotate(0)" width="747" height="1122" xlink:href="../Cartes/Rendus/⚔34 - L'officier.png" />
+    <image transform="translate(475 3300) rotate(1)" width="747" height="1122" xlink:href="../Cartes/Rendus/dos_autres.png" />
+  </g>
+
+  <g transform="translate(3085 4485) rotate(180)">
+    <image transform="translate(120 5) rotate(1)" width="747" height="1122" xlink:href="../Cartes/Rendus/dos_missions.png" />
+    <image transform="translate(870 2) rotate(-1)" width="747" height="1122" xlink:href="../Cartes/Rendus/dos_missions.png" />
+    <image transform="translate(870 -7) rotate(0)" width="747" height="1122" xlink:href="../Cartes/Rendus/dos_missions.png" />
+    <image transform="translate(2200 3) rotate(1)" width="747" height="1122" xlink:href="../Cartes/Rendus/⛀31 - Le quincaillier.png" />
+    <image transform="translate(465 3300) rotate(1)" width="747" height="1122" xlink:href="../Cartes/Rendus/dos_autres.png" />
+    <image transform="translate(1200 3300) rotate(0)" width="747" height="1122" xlink:href="../Cartes/Rendus/dos_autres.png" />
+  </g>
+
+  <image transform="translate(3085 3785) rotate(180)" width="3070" height="3070" xlink:href="../Plateaux/Chenonceau.png" />
+  <image transform="translate(15 7000)" width="3070" height="3070" xlink:href="../Plateaux/Chillon.png" />
+
+  <g transform="translate(0 6300)">
+    <image transform="translate(480 1420) rotate(1)" width="747" height="1122" xlink:href="../Cartes/Rendus/⚔28 - Pierre.png" />
+    <image transform="translate(484 2000) rotate(0)" width="747" height="1122" xlink:href="../Cartes/Rendus/⛀22 - Fondation.png" />
+    <image transform="translate(121 2550) rotate(-1)" width="747" height="1122" xlink:href="../Cartes/Rendus/⛀23 - Fondation.png" />
+    <image transform="translate(868 2556) rotate(1)" width="747" height="1122" xlink:href="../Cartes/Rendus/⛀10 - Le hachoir.png" />
+  </g>
+
+  <g transform="translate(3085 4485) rotate(180)">
+    <image transform="translate(1204 2000) rotate(1)" width="747" height="1122" xlink:href="../Cartes/Rendus/⚔27 - Pierre.png" />
+    <image transform="translate(1201 2200) rotate(1)" width="747" height="1122" xlink:href="../Cartes/Rendus/⚔33 - Le maître d'armes.png" />
+    <image transform="translate(1607 2553) rotate(0)" width="747" height="1122" xlink:href="../Cartes/Rendus/⛀21 - Fondation.png" />
+    <image transform="translate(121 2550) rotate(-1)" width="747" height="1122" xlink:href="../Cartes/Rendus/⛀24 - Fondation.png" />
+    <image transform="translate(868 2556) rotate(1)" width="747" height="1122" xlink:href="../Cartes/Rendus/⚔12 - Le pillage.png" />
+  </g>
+</svg>

@@ -38,7 +38,9 @@
   </g>
 
   <g id="cut">
+  <!--
     <rect x="1.5" y="1.5" fill="none" stroke="red" width="257" height="257" stroke-width="0.1" />
     <rect x="3" y="3" fill="none" stroke="red" width="254" height="254" stroke-width="0.1" />
+  -->
   </g>
 </svg>

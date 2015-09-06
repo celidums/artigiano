@@ -1,23 +1,36 @@
 @page {
+  margin: 15mm;
   size: 105mm 250mm;
-  margin: 1.5cm;
+}
+
+@page:first {
+  background: url(une.jpg);
+  background-size: cover;
+  margin: 0;
 }
 
 @page:left {
-  margin-right: 2cm;
-  @bottom-left {
+  background: url(fond.jpg) -15mm -15mm;
+  background-size: 210mm 250mm;
+  margin-right: 20mm;
+  @bottom-left-corner {
     content: counter(page);
     font-size: 0.7em;
+    text-align: center;
   }
 }
 
 @page:right {
-  margin-left: 2cm;
-  @bottom-right {
+  background: url(fond.jpg) -125mm -15mm;
+  background-size: 210mm 250mm;
+  margin-left: 20mm;
+  @bottom-right-corner {
     content: counter(page);
     font-size: 0.7em;
+    text-align: center;
   }
 }
+
 
 body {
   color: #222;
@@ -30,6 +43,16 @@ body {
   -weasy-hyphens: auto;
 }
 
+body:after {
+  background: url(4eme.jpg);
+  background-size: cover;
+  content: '';
+  display: block;
+  height: 250mm;
+  margin: -15mm;
+  width: 105mm;
+}
+
 h1, h2, h3, h4 {
   font-weight: normal;
   margin-top: 1.4em;
@@ -38,6 +61,12 @@ h1, h2, h3, h4 {
 
 h1 {
   font-size: 2em;
+}
+
+h1:before {
+  content: '';
+  display: block;
+  height: 245mm;
 }
 
 h2 {
@@ -93,7 +122,10 @@ tt {
 
 img, object {
   display: block;
-  margin: auto;
+  margin: 1em auto 2em;
+  font-style: italic;
+  page-break-before: avoid;
+  text-align: center;
 }
 
 .icon {

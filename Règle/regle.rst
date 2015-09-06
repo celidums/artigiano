@@ -51,16 +51,57 @@ Présentation générale
 Disposition
 -----------
 
-Voici une disposition typique lors d’une partie :
+Voici une disposition typique lors d’une partie à 2 joueurs :
 
-.. schéma
+.. image:: partie.svg
+   :width: 75%
 
 Cartes
 ------
 
-Les cartes sont composées de différents éléments :
+Les cartes sont de différents types, chaque couleur de fond correspond à un
+type particulier.
 
-.. schéma
+Action
+~~~~~~
+
+.. image:: carte_action.svg
+   :width: 100%
+
+Matériau
+~~~~~~~~
+
+.. image:: carte_materiau.svg
+   :width: 100%
+
+Action ou Matériau
+~~~~~~~~~~~~~~~~~~
+
+.. image:: carte_action_ou_materiau.svg
+   :width: 100%
+
+Spéciale
+~~~~~~~~
+
+.. image:: carte_speciale.svg
+   :width: 100%
+
+Mission royale
+~~~~~~~~~~~~~~
+
+.. image:: carte_mission_royale.svg
+   :width: 100%
+
+Mission princière
+~~~~~~~~~~~~~~~~~
+
+.. image:: carte_mission_princiere.svg
+   :width: 100%
+
+Dans cette règle du jeu et sur certaines cartes, on utilise des formules
+raccourcies : on parle par exemple de « 2 actions » pour désigner deux cartes
+de type « Action » ou « Action ou Matériau ». On parle également de « 1
+pierre » pour désigner une carte dont le genre est « Pierre ».
 
 
 Préparation
@@ -238,10 +279,6 @@ Le joueur avec le plus de points est déclaré vainqueur.
 Précisions sur les cartes
 =========================
 
-De nombreuses cartes proposent « d'attaquer » un autre joueur. Cette action est
-possible uniquement avec une carte action. Les cartes spéciales ne peuvent pas
-dans ce cas « attaquer » un château ou un joueur.
-
 Les cartes de type « Matériau » et « Action » sont dites « pures »,
 contrairement aux cartes « Action ou Matériau » dites « composites ».
 
@@ -254,24 +291,19 @@ plateau.
 Par exemple, si vous devez compter le nombre de Matériaux dans votre main, les
 cartes « Action ou Matériau » doivent être inclues dans ce compte.
 
-Les cartes de type « Matériau » ont un « genre » (Fondation, Pierre, Tuile) et
-une « valeur » (1, 2, 3, 4, 5). Le genre et la valeur sont présentes dans le
-coin en haut à droite de la carte.
-
 Certaines cartes comportent deux ou trois genres de matériaux. Tout comme les
 cartes qui ont plusieurs types, les matériaux sont des deux ou trois genres à
 la fois lorsqu’ils sont dans la main, dans le stock, dans la pioche ou dans la
 défausse. Cependant, lorsque ces matériaux sont sur une case, ils prennent
 uniquement le genre de matériau indiqué sur la case sur laquelle ils sont.
 
-Dans cette règle du jeu et sur certaines cartes, on utilise des formules
-raccourcies : on parle par exemple de « 2 actions » pour désigner deux cartes
-de type « Action » ou « Action ou Matériau ». On parle également de « 1
-pierre » pour désigner une carte dont le genre est « Pierre ».
+De nombreuses cartes proposent « d'attaquer » un autre joueur. Cette action est
+possible uniquement avec une carte action. Les cartes spéciales ne peuvent pas
+dans ce cas « attaquer » un château ou un joueur.
 
 
-Variantes
-=========
+Variante
+========
 
 Partie rapide
 -------------
@@ -280,7 +312,7 @@ Pour jouer en partie rapide, vous n'avez pas besoin de plateau. Vous jouez avec
 seulement 6 cases que vous imaginez devant vous comme suit : 
 
 .. image:: partie_rapide.svg
-   :width: 80%
+   :width: 60%
 
 On ne joue qu’avec un jeu de cartes à 2 joueurs et avec 2 jeux à 3 ou 4
 joueurs. On distribue 2 missions royales et 2 missions princières par joueur.
@@ -290,23 +322,10 @@ finit son château le premier marque 5 points.
 
 Les autres règles restent inchangées. 
 
-Partie en équipes
------------------
-
-Vous pouvez jouer en équipes de 4 à 8 joueurs. Chaque équipe est constituée de
-2 joueurs. On utilise alors autant de familles de cartes qu'il y a d'équipes et
-autant de plateau qu'il y a d'équipes.
-
-Par exemple, avec 3 équipes de 2 joueurs, on choisit 3 familles et 3 plateaux.
-Les joueurs des équipes s'assoient alternativement autour de la table : Équipe
-A - joueur 1 / Équipe B - joueur 1 / Équipe C - joueur 1 / Équipe A - joueur 2
-/ Équipe B - joueur 2 / Équipe C - joueur 2.
-
-Les joueurs des équipes ne peuvent pas communiquer entre eux. Les autres règles
-du jeu restent inchangées.
-
 
 Remerciements
 =============
-Arthur, Blandine, Amandine, Yann, Yoan, Chloé, Ronan, Anne, Chloé, Florent,
-Nikro, Marion, Elodie, Pierre-Damien, Sidonie, Marianne, Laury, Julien.
+
+Un grand merci à tous ceux qui ont essuyé les plâtres des premiers châteaux :
+Arthur, Blandine, Amandine, Yann, Yohann, Chloé, Ronan, Anne, Chloé, Florent,
+Nikro, Marion, Élodie, Pierre-Damien, Sidonie, Marianne, Laury, Julien.

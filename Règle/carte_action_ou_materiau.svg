@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="1.1" viewBox="0 0 2000 1200" font-family="Adobe Jenson Pro" font-size="100">
+
+  <image x="620" y="40" width="747" height="1122" xlink:href="../Cartes/Rendus/✝15 - La révélation.png" />
+  
+  <line x1="470" x2="750" y1="320" y2="320" stroke-width="3" stroke="black" />
+  <text x="420" y="340" color="black" text-anchor="end">Titre</text>
+
+  <line x1="1260" x2="1500" y1="160" y2="160" stroke-width="3" stroke="grey" />
+  <line x1="1200" x2="1500" y1="900" y2="160" stroke-width="3" stroke="grey" />
+  <text x="1520" y="180">Points</text>
+
+  <line x1="1200" x2="1500" y1="620" y2="620" stroke-width="3" stroke="grey" />
+  <text x="1520" y="640" color="grey">Texte</text>
+
+  <line x1="1260" x2="1500" y1="1035" y2="1035" stroke-width="3" stroke="grey" />
+  <text x="1520" y="1055">Famille</text>
+
+  <line x1="470" x2="1070" y1="680" y2="150" stroke-width="3" stroke="grey" />
+  <line x1="470" x2="850" y1="680" y2="900" stroke-width="3" stroke="grey" />
+  <text x="420" y="700" text-anchor="end">Genres</text>
+
+  <line x1="470" x2="720" y1="1000" y2="1000" stroke-width="3" stroke="grey" />
+  <text x="420" y="1020" text-anchor="end">Type</text>
+</svg>

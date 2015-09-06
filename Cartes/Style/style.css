@@ -13,6 +13,7 @@ html {
 }
 
 body {
+  background-color: white;
   background-image: url(fond.png);
   background-size: cover;
   border: solid black 3cm;
@@ -114,7 +115,9 @@ main {
 }
 
 .type-ma {
-  background-color: rgba(70, 135, 170, 0.2);
+  background: url(fond.png) top left no-repeat, linear-gradient(
+    to bottom, rgba(70, 135, 170, 0.2) 0%) white;
+  background-size: cover, cover;
 }
 .type-ma header {
   border-color: rgba(70, 135, 170, 0.2);
@@ -133,7 +136,7 @@ main {
     rgba(140, 0, 20, 0.2) 0%,
     rgba(140, 0, 20, 0.2) 50%,
     rgba(70, 135, 170, 0.2) 50%,
-    rgba(70, 135, 170, 0.2) 100%);
+    rgba(70, 135, 170, 0.2) 100%) white;
   background-size: cover, cover;
 }
 .type-am header {
@@ -154,18 +157,26 @@ main {
 }
 
 .type-ac {
-  background-color: rgba(140, 0, 20, 0.2);
+  background: url(fond.png) top left no-repeat, linear-gradient(
+    to bottom, rgba(140, 0, 20, 0.2) 0%) white;
+  background-size: cover, cover;
 }
 .type-ac header {
   border-color: rgba(120, 0, 20, 0.25);
 }
 
+.type-sp {
+  background: url(fond.png) top left no-repeat white;
+  background-size: cover, cover;
+}
 .type-sp header {
   border-color: rgba(20, 0, 20, 0.15);
 }
 
 .type-mp {
-  background-color: rgba(0, 80, 255, 0.7);
+  background: url(fond.png) top left no-repeat, linear-gradient(
+    to bottom, rgba(0, 80, 255, 0.7) 0%) white;
+  background-size: cover, cover;
 }
 .type-mp header {
   background-color: rgba(250, 250, 250, 0.3);
@@ -176,7 +187,9 @@ main {
 }
 
 .type-mr {
-  background-color: rgba(0, 80, 255, 0.7);
+  background: url(fond.png) top left no-repeat, linear-gradient(
+    to bottom, rgba(0, 80, 255, 0.7) 0%) white;
+  background-size: cover, cover;
 }
 .type-mr header {
   background-color: rgba(250, 250, 120, 0.2);
@@ -209,7 +222,6 @@ main {
   html {
     height: 37.4in;
     width: 24.88in;
-    background: white;
   }
 
   body {
