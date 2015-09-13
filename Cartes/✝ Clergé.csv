@@ -11,7 +11,7 @@ Action/Matériau,Tuile,2,,x,x,La confrérie,Les autres joueurs défaussent une c
 Action/Matériau,Fondation/Pierre,1,,x,x,Le mousquet,Les autres joueurs ne piochent pas lors de leur prochain tour.
 Action/Matériau,Fondation/Pierre,3,,x,x,La chapelle,Votre château ne subit pas les effets des cartes action jusqu'à votre prochain tour. Vous ne pouvez pas poser de matériau au prochain tour.
 Action/Matériau,Fondation/Pierre,4,,x,x,La chapelle,Votre château ne subit pas les effets des cartes action jusqu'à votre prochain tour. Vous ne pouvez pas poser de matériau au prochain tour.
-Action/Matériau,Pierre/Tuile,5,,x,x,La gargouille,Détruisez une carte spéciale.
+Action/Matériau,Pierre/Tuile,5,,x,x,La gargouille,Détruisez une carte spéciale qui a été jouée.
 Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,La révélation,Regardez le stock d'un autre joueur. Échangez le nombre de cartes de son stock que vous voulez avec le même nombre de cartes de votre stock.
 Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,La révélation,Regardez le stock d'un autre joueur. Échangez le nombre de cartes de son stock que vous voulez avec le même nombre de cartes de votre stock.
 Action,x,x,x,x,x,Le pêché,Échangez le nombre de cartes de votre stock que vous voulez avec des cartes de votre main.
