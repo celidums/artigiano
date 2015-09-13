@@ -12,7 +12,7 @@
 @page:left {
   background: url(fond.jpg) -15mm -15mm;
   background-size: 210mm 250mm;
-  margin-right: 20mm;
+  margin-left: 20mm;
   @bottom-left-corner {
     content: counter(page);
     font-size: 0.7em;
@@ -23,7 +23,7 @@
 @page:right {
   background: url(fond.jpg) -125mm -15mm;
   background-size: 210mm 250mm;
-  margin-left: 20mm;
+  margin-right: 20mm;
   @bottom-right-corner {
     content: counter(page);
     font-size: 0.7em;

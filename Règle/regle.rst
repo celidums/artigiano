@@ -22,7 +22,7 @@ Le jeu comprend :
 
   - 10 cartes « Matériau »,
   - 5 cartes « Action »,
-  - 15 cartes « Action / Matériau »,
+  - 15 cartes « Action ou Matériau »,
   - 5 cartes « Spéciale »,
   - 5 cartes « Mission royale »,
   - 5 cartes « Mission princière » ;
@@ -34,15 +34,13 @@ Le jeu comprend :
 But du jeu
 ==========
 
-Tout au long de la partie, vous allez construire votre château à l’aide de
-matériaux posés sur les cases de votre plateau. Des cartes spéciales viendront
-également améliorer les matériaux ou les châteaux. Enfin, vous devrez tout au
-long de la partie tenter de réussir un certain nombre de missions qui vous
-auront été confiées.
+Le but du jeu est d’avoir le plus de points à l’issue de la partie.
 
-Chaque carte de matériau, chaque mission et une partie des cartes spéciales
-vous apportent en fin de partie un nombre de points indiqué sur la carte. Le
-but du jeu est d’avoir le plus de points à l’issue de la partie.
+Pour cela vous allez construire votre château à l’aide de matériaux posés sur
+les cases de votre plateau. Des cartes spéciales vous donneront certains
+avantages et vous permettront de ralentir la progression des autres joueurs. De
+plus les missions qui vous auront été confiées, vous permettront certes de
+gagner des points mais vous réserverons aussi quelques surprises.
 
 
 Présentation générale
@@ -51,7 +49,7 @@ Présentation générale
 Disposition
 -----------
 
-Voici une disposition typique lors d’une partie à 2 joueurs :
+Voici un exemple de disposition du jeu au cours d’une partie à 2 joueurs :
 
 .. image:: partie.svg
    :width: 75%
@@ -116,9 +114,9 @@ sont écartées définitivement du jeu.
 
 Chaque famille a ses particularités :
 
-- la famille « armée » ``⚔`` est plus offensive ;
-- la famille « clergé » ``✝`` est plus défensive ;
-- la famille « artisans » ``⚒`` est plus consacrée à la qualité et à la
+- la famille « armée » ``⚔`` est plutôt offensive ;
+- la famille « clergé » ``✝`` est plutôt défensive ;
+- la famille « artisans » ``⚒`` est plutôt consacrée à la qualité et à la
   protection des matériaux ;
 - la famille « commerçants » ``⛀`` favorise l'interactivité entre les joueurs.
 
@@ -129,9 +127,9 @@ distribuées sont écartées définitivement du jeu.
 
 Chaque joueur regarde ses missions et décide d’en garder 2 (au choix : 2
 royales, 2 princières, 1 royale et 1 princière), qui correspondront aux
-missions obligatoires. Les 3 autres missions sont dites facultatives. Les deux
-tas (missions obligatoires et missions facultatives) sont posés en haut du
-château, dans les zones qui leurs sont dédiées.
+missions dites « obligatoires ». Les 3 autres missions sont dites
+« facultatives ». Les deux tas (missions obligatoires et missions facultatives)
+sont posés en haut du château, dans les zones qui leurs sont dédiées.
 
 Les cartes restantes sont mélangées toutes ensemble et constituent la pioche.
 On distribue à chaque joueur 5 cartes qu’il prend dans sa main.
@@ -214,8 +212,8 @@ Le joueur défausse une carte de sa main. Cette carte n’a aucun effet.
 Phase 2 : Stocker
 -----------------
 
-Le joueur peut poser une carte de sa main face cachée dans son stock, si son
-stock ne contient pas déjà trois cartes. Cette action est optionnelle.
+Le joueur peut poser une carte de sa main face cachée dans son stock si son
+stock ne contient pas déjà trois cartes. Cette phase est optionnelle.
 
 Phase 3 : Piocher
 -----------------
@@ -233,10 +231,10 @@ Missions
 Missions Princières
 -------------------
 
-À tout moment de la partie, un joueur peut retourner face visible une mission
-princière de sa pile de missions obligatoires ou de missions facultatives, si
-les conditions indiquées dans le texte de cette carte sont réunies. Cette
-mission est alors considérée comme réussie.
+À tout moment de la partie et si les conditions indiquées sont réunies, un
+joueur peut retourner face visible une mission princière de sa pile de missions
+obligatoires ou de missions facultatives. Cette mission est alors considérée
+comme réussie.
 
 Attention : 
 
