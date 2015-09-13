@@ -268,7 +268,7 @@ On décompte alors le nombre de points pour chaque joueur :
 - les points des cartes spéciales posées dans sa zone spéciale ; et
 - le nombre de points des missions réussies.
 
-On retranche de ce nombre de points le nombre de points des missions
+On retranche de ce total le nombre de points des missions
 obligatoires non accomplies.
 
 Le joueur avec le plus de points est déclaré vainqueur.
@@ -291,7 +291,7 @@ cartes « Action ou Matériau » doivent être inclues dans ce compte.
 
 Certaines cartes comportent deux ou trois genres de matériaux. Tout comme les
 cartes qui ont plusieurs types, les matériaux sont des deux ou trois genres à
-la fois lorsqu’ils sont dans la main, dans le stock, dans la pioche ou dans la
+la fois lorsqu’elles sont dans la main, dans le stock, dans la pioche ou dans la
 défausse. Cependant, lorsque ces matériaux sont sur une case, ils prennent
 uniquement le genre de matériau indiqué sur la case sur laquelle ils sont.
 
