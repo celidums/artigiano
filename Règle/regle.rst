@@ -326,4 +326,4 @@ Remerciements
 
 Un grand merci à tous ceux qui ont essuyé les plâtres des premiers châteaux :
 Arthur, Blandine, Amandine, Yann, Yohann, Chloé, Ronan, Anne, Chloé, Florent,
-Nikro, Marion, Élodie, Pierre-Damien, Sidonie, Marianne, Laury, Julien.
+Nikro, Marion, Élodie, Pierre-Damien, Sidonie, Marianne, Laury, Julien, Simon, Bruno, Stéphane, Pierre.
