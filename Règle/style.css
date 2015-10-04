@@ -10,7 +10,7 @@
 }
 
 @page:left {
-  background: url(fond.jpg) -15mm -15mm;
+  background: url(fond.jpg) -20mm -15mm;
   background-size: 210mm 250mm;
   margin-left: 20mm;
   @bottom-left-corner {
@@ -21,7 +21,7 @@
 }
 
 @page:right {
-  background: url(fond.jpg) -125mm -15mm;
+  background: url(fond.jpg) -120mm -15mm;
   background-size: 210mm 250mm;
   margin-right: 20mm;
   @bottom-right-corner {

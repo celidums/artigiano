@@ -2,7 +2,7 @@ Type,Matériau,Valeur,Points matériaux,Points spéciaux,Points missions,Titre,T
 Action/Matériau,Fondation,1,,x,x,La clef de voûte,"Défaussez une carte spéciale posée sur votre château, dans votre stock ou dans votre zone spéciale."
 Action/Matériau,Fondation,2,,x,x,Le couvent,Désignez un joueur qui ne pourra poser d'action au prochain tour.
 Action/Matériau,Fondation,3,,x,x,La confrérie,Les autres joueurs défaussent une carte action.
-Action/Matériau,Fondation,4,,x,x,L'angelus,Affichez les 3 premières cartes de la pioche. Placez-en une de votre choix dans votre main et replacez les deux autres dans l'ordre que vous voulez au-dessus de la pioche.
+Action/Matériau,Fondation,4,,x,x,L'angelus,Affichez les 3 premières cartes de la pioche. Placez-en une de votre choix dans votre main et replacez les 2 autres dans l'ordre que vous voulez au-dessus de la pioche.
 Action/Matériau,Pierre,1,,x,x,Le Pater Noster,Défaussez 2 cartes et rejouez sans piocher.
 Action/Matériau,Pierre,2,,x,x,Le couvent,Désignez un joueur qui ne pourra poser d'action au prochain tour.
 Action/Matériau,Pierre,3,,x,x,Le Pater Noster,Défaussez 2 cartes et rejouez sans piocher.
@@ -17,7 +17,7 @@ Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,La révélation,Regardez le stock
 Action,x,x,x,x,x,Le pêché,Échangez le nombre de cartes de votre stock que vous voulez avec des cartes de votre main.
 Action,x,x,x,x,x,Le pêché,Échangez le nombre de cartes de votre stock que vous voulez avec des cartes de votre main.
 Action,x,x,x,x,x,Le baptême,Désignez un joueur qui se défausse de toutes ses cartes action.
-Action,x,x,x,x,x,Le cloître,Piochez deux cartes au hasard dans le jeu des autres joueurs. Posez-les face cachée au centre de la table. Ajoutez-en deux au choix de votre main. Regardez toutes les cartes en secret et redistribuez-en deux à chaque joueur.  
+Action,x,x,x,x,x,Le cloître,Piochez 2 cartes au hasard dans le jeu des autres joueurs. Posez-les face cachée au centre de la table. Ajoutez-en 2 au choix de votre main. Regardez toutes les cartes en secret et redistribuez-en 2 à chaque joueur.
 Action,x,x,x,x,x,Le confessionnal,Demandez à un joueur de vous dévoiler une de ses missions obligatoires.
 Matériau,Fondation,1,,x,x,Fondation,​
 Matériau,Fondation,2,,x,x,Fondation,​
@@ -34,13 +34,13 @@ Spéciale,x,x,,2,x,Le pape,Une fois par partie vous pouvez annuler tous les effe
 Spéciale,x,x,,,x,Le curé,"À partir de maintenant, placez toutes les cartes action qui attaquent votre château sur cette carte et marquez 1 par carte en fin de partie."
 Spéciale,x,x,,-1,x,L'enfant de chœur,"Lorsqu'un adversaire lance une action contre votre château, l'action est annulée et cet adversaire récupère cette carte dans sa zone spéciale."
 Spéciale,x,x,,,x,La vierge,Remplacez un matériau par cette carte. La vierge et tous les matériaux adjacents sont insensibles aux attaques.
-Mission royale,x,x,x,x,14,Le chemin de croix,Avoir au minimum 2 cases vides de moins que le château le plus rempli. 
+Mission royale,x,x,x,x,14,Le chemin de croix,Avoir au minimum 2 cases remplies de moins que le château le plus rempli.
 Mission royale,x,x,x,x,13,Le complot des Malcontents,Avoir le plus de points sur son château y compris avec les cartes spéciales sur les matériaux.
 Mission royale,x,x,x,x,12,La bataille d'Arques,Avoir un total d'au moins 18 points de mission sans cette mission.
 Mission royale,x,x,x,x,11,Le chemin de Saint‑Jacques,Ne pas avoir toutes les cases « pierre » remplies.
 Mission royale,x,x,x,x,10,Le massacre de la Saint‑Barthélémy,N'avoir jamais posé aucune carte spéciale.
 Mission princière,x,x,x,x,9,La conjuration d'Amboise,Ayez posé toutes vos fondations avant d'avoir posé une pierre.
 Mission princière,x,x,x,x,8,L'édit de Nantes,Ayez stocké une carte spéciale et 2 actions pures.
-Mission princière,x,x,x,x,7,La Chambre ardente,Ayez au moins 2 cases vides de moins que le château le moins rempli.
+Mission princière,x,x,x,x,7,La Chambre ardente,Ayez au minimum 2 cases remplies de moins que le château adverse le moins rempli.
 Mission princière,x,x,x,x,6,L'affaire des Placards,Posez 3 matériaux stockés au même tour.
 Mission princière,x,x,x,x,5,Le massacre de Wassy,Ayez joué une carte spéciale avant d'avoir posé une pierre.

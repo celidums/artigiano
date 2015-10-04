@@ -10,6 +10,7 @@ html {
   background: rgba(0, 0, 0, 0.01);
   font-family: "Adobe Jenson Pro";
   font-weight: 300;
+  -weasy-lang: 'fr';
 }
 
 body {
@@ -45,6 +46,8 @@ h1 {
   font-size: 4cm;
   font-weight: normal;
   line-height: 4cm;
+  text-align: center;
+  width: 100%;
 }
 
 #type {
@@ -54,14 +57,17 @@ h1 {
   position: absolute;
   transform: rotate(-90deg);
   transform-origin: bottom left;
+  width: 30em;
 }
 
 #material, #ma-points, #mi-points, #sp-points {
   font-size: 1.2em;
-  right: 2cm;
   line-height: 8cm;
   position: absolute;
+  right: 2cm;
+  text-align: right;
   top: 0;
+  width: 10em;
 }
 
 #symbol {
@@ -92,10 +98,12 @@ main {
   border: 1px solid rgba(0, 0, 0, 0.15);
   bottom: 2cm;
   height: 50cm;
+  -weasy-hyphens: auto;
   left: 5cm;
-  padding: 2cm;
+  padding: 2cm 2.5cm 2cm 2cm;
   position: absolute;
   right: 2cm;
+  text-align: justify;
 }
 
 #ma-text {

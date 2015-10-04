@@ -1,11 +1,11 @@
 Type,Matériau,Valeur,Points matériaux,Points spéciaux,Points missions,Titre,Texte
 Action/Matériau,Fondation,1,,x,x,La double attaque,Vous pouvez jouer une action. Le nombre de joueurs visés ou le nombre de cartes inscrit sur cette action est doublé.
 Action/Matériau,Fondation,2,,x,x,La cave,Retirez une carte au hasard du stock du joueur de votre choix et défaussez-la.
-Action/Matériau,Fondation,3,,x,x,La formation au carré,Défaussez deux matériaux de 1 et / ou 2 du château d'un autre joueur. Ces matériaux doivent être superficiels au moment où la carte est jouée.
+Action/Matériau,Fondation,3,,x,x,La formation au carré,Défaussez 2 matériaux de 1 et / ou 2 du château d'un autre joueur. Ces matériaux doivent être superficiels au moment où la carte est jouée.
 Action/Matériau,Fondation,4,,x,x,Le glissement de terrain,Désignez un joueur qui perd une fondation de son choix. Les matériaux au-dessus de cette fondation sont également détruits.
 Action/Matériau,Pierre,1,,x,x,La double attaque,Vous pouvez jouer une action. Le nombre de joueurs visés ou le nombre de cartes inscrit sur cette action est doublé.
 Action/Matériau,Pierre,2,,x,x,Le négoce,Regardez la main d'un adversaire. Prenez une carte de votre choix et donnez-lui en une de votre main.
-Action/Matériau,Pierre,3,,x,x,La formation au carré,Défaussez deux matériaux de 1 et / ou 2 du château d'un autre joueur. Ces matériaux doivent être superficiels au moment où la carte est jouée.
+Action/Matériau,Pierre,3,,x,x,La formation au carré,Défaussez 2 matériaux de 1 et / ou 2 du château d'un autre joueur. Ces matériaux doivent être superficiels au moment où la carte est jouée.
 Action/Matériau,Tuile,1,,x,x,La cave,Retirez une carte au hasard du stock du joueur de votre choix et défaussez-la.
 Action/Matériau,Tuile,2,,x,x,Le canon,Les autres joueurs perdent un matériau superficiel de votre choix.
 Action/Matériau,Fondation/Pierre,1,,x,x,Le mousquet,Les autres joueurs ne piochent pas lors de leur prochain tour.
@@ -29,7 +29,7 @@ Matériau,Pierre,4,,x,x,Pierre,​
 Matériau,Pierre,5,,x,x,Pierre,​
 Matériau,Tuile,3,,x,x,Tuile,​
 Matériau,Tuile,4,,x,x,Tuile,​
-Spéciale,x,x,,-1,x,Le capitaine,Placez cette carte sur le stock d'un adversaire. Son stock est inutilisable jusqu'à ce qu'il défausse un matériau de 4 ou 5 points de sa main. À ce moment-là il place la carte dans sa zone spéciale.
+Spéciale,x,x,,-1,x,Le capitaine,"Placez cette carte sur le stock d'un adversaire. Son stock est inutilisable jusqu'à ce qu'il défausse un matériau de 4 ou 5 de sa main. À ce moment-là, il place la carte dans sa zone spéciale."
 Spéciale,x,x,,,x,Le racol,"Posez cette carte devant vous. À chaque fois que vous finissez de jouer votre tour, vous pouvez piocher une carte dans la main de chaque joueur qui vient de poser au moins un matériau 4 ou 5 de sa main."
 Spéciale,x,x,-2,,x,Le maître d'armes,Placez cette carte sur le matériau d'un adversaire.
 Spéciale,x,x,,-3,x,L'officier,Placez cette carte dans la zone spéciale d'un adversaire.
@@ -38,7 +38,7 @@ Mission royale,x,x,x,x,14,La Paix des Dames,Avoir la somme des points des cartes
 Mission royale,x,x,x,x,13,Les États Généraux,Avoir le château avec le plus de cases remplies.
 Mission royale,x,x,x,x,12,Le Roi de Navarre,Avoir le plus de matériaux 5 sur votre château.
 Mission royale,x,x,x,x,11,La bataille de Pavie,N'avoir au maximum qu'une carte spéciale ou action pure dans votre main et votre stock.
-Mission royale,x,x,x,x,10,La Paix de Nice,Avoir son stock vide.
+Mission royale,x,x,x,x,10,La Paix de Nice,Avoir votre stock vide.
 Mission princière,x,x,x,x,9,Quinze cent quinze,N'ayez aucune action dans votre main.
 Mission princière,x,x,x,x,8,Le siège de Paris,Détruisez 2 matériaux posés sur des châteaux adverses dans le même tour.
 Mission princière,x,x,x,x,7,La prise de Grenade,Ayez attaqué par une action le château d'un joueur avant qu'il n'ait terminé ses fondations.

@@ -1,18 +1,18 @@
 Type,Matériau,Valeur,Points matériaux,Points spéciaux,Points missions,Titre,Texte
 Action/Matériau,Fondation,1,,x,x,La révolte,Désignez un joueur qui passera son prochain tour.
-Action/Matériau,Fondation,2,,x,x,Le linteau,Posez deux matériaux de même valeur.
-Action/Matériau,Fondation,3,,x,x,Les renforts,Posez deux matériaux du même genre.
+Action/Matériau,Fondation,2,,x,x,Le linteau,Posez 2 matériaux de même valeur.
+Action/Matériau,Fondation,3,,x,x,Les renforts,Posez 2 matériaux du même genre.
 Action/Matériau,Fondation,4,,x,x,Le glissement de terrain,Désignez un joueur qui perd une fondation de son choix. Les matériaux au-dessus de cette fondation sont également détruits.
-Action/Matériau,Pierre,1,,x,x,La poulie,Posez jusqu'à trois matériaux au prochain tour.
-Action/Matériau,Pierre,2,,x,x,Le linteau,Posez deux matériaux de même valeur.
-Action/Matériau,Pierre,3,,x,x,Les renforts,Posez deux matériaux du même genre.
-Action/Matériau,Tuile,1,,x,x,La poulie,Posez jusqu'à trois matériaux au prochain tour.
-Action/Matériau,Tuile,2,,x,x,Le plan de construction,Vous pouvez déplacer les matériaux posés votre château en respectant les règles de construction.
-Action/Matériau,Fondation/Pierre,1,,x,x,Le puits,Affichez les cartes de la pioche une par une jusqu'à obtenir un matériau. Placez ce matériau dans votre main. Remettez les autres cartes dans la pioche dans l'ordre de votre choix.
+Action/Matériau,Pierre,1,,x,x,La poulie,Posez jusqu'à 3 matériaux au prochain tour.
+Action/Matériau,Pierre,2,,x,x,Le linteau,Posez 2 matériaux de même valeur.
+Action/Matériau,Pierre,3,,x,x,Les renforts,Posez 2 matériaux du même genre.
+Action/Matériau,Tuile,1,,x,x,La poulie,Posez jusqu'à 3 matériaux au prochain tour.
+Action/Matériau,Tuile,2,,x,x,Le plan de construction,Vous pouvez déplacer les matériaux posés sur votre château en respectant les règles de construction.
+Action/Matériau,Fondation/Pierre,1,,x,x,Le puits,Affichez les cartes de la pioche une par une jusqu'à obtenir un matériau. Placez ce matériau dans votre main. Remettez les autres cartes au-dessus de la pioche dans l'ordre de votre choix.
 Action/Matériau,Fondation/Pierre,3,,x,x,Le vestibule,"Regardez le stock d'un autre joueur. Vous pouvez y prendre un matériau pour le poser sur votre château. Si le matériau ne peut être posé, il reste dans son stock."
 Action/Matériau,Fondation/Pierre,4,,x,x,La bonne affaire,Échangez un matériau d'un château adverse avec un matériau de votre château.
 Action/Matériau,Pierre/Tuile,5,,x,x,Le pillage,Prenez un matériau superficiel posé sur le château d'un autre joueur et posez-le sur votre château.
-Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,Le puits,Affichez les cartes de la pioche une par une jusqu'à obtenir un matériau. Placez ce matériau dans votre main. Remettez les autres cartes dans la pioche dans l'ordre de votre choix.
+Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,Le puits,Affichez les cartes de la pioche une par une jusqu'à obtenir un matériau. Placez ce matériau dans votre main. Remettez les autres cartes au-dessus de la pioche dans l'ordre de votre choix.
 Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,Le vestibule,"Regardez le stock d'un autre joueur. Vous pouvez y prendre un matériau pour le poser sur votre château. Si le matériau ne peut être posé, il reste dans son stock."
 Action,x,x,x,x,x,Le cellier,Regardez les cartes du stock d'un autre joueur.
 Action,x,x,x,x,x,Les intempéries,Vous pouvez poser un matériau. Le joueur après vous passe son tour.
@@ -30,7 +30,7 @@ Matériau,Pierre,5,,x,x,Pierre,​
 Matériau,Tuile,3,,x,x,Tuile,​
 Matériau,Tuile,4,,x,x,Tuile,​
 Spéciale,x,x,1,,x,Le couvreur,Posez un matériau sur votre château et posez cette carte sur le matériau. Vous pouvez changer le type de cette carte matériau par le type de votre choix.
-Spéciale,x,x,,3,x,Le rénovateur,Remplacez certains matériaux déjà posés par des matériaux plus forts de votre main.
+Spéciale,x,x,,3,x,Le rénovateur,Remplacez certains matériaux déjà posés par des matériaux de votre main.
 Spéciale,x,x,,2,x,Le magasinier,"Durant toute la partie, vous pouvez stocker une carte supplémentaire sur cette carte. Cette carte n'est pas sensible aux actions qui concernent le stock."
 Spéciale,x,x,2,,x,Le compagnon,Posez cette carte sur le matériau de votre choix.
 Spéciale,x,x,,,x,Le forgeron,Posez cette carte sur le matériau de votre choix. Ce matériau ne peut pas être la cible des actions et ne peut pas être détruit par une action.
