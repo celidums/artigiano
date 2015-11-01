@@ -19,7 +19,7 @@
     </g>
   </defs>
 
-  <g id="footer" text-anchor="middle" font-family="Adobe Jenson Pro" font-size="4" font-weight="100">
+  <g id="footer" text-anchor="middle" font-family="EB Garamond 12" font-size="4" font-weight="100">
     <rect y="210" width="260" height="30" fill="white" opacity="0.7" />
 
     <use x="10" y="-50" xlink:href="Modèle.svg#card" />

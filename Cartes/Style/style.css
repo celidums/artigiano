@@ -8,7 +8,7 @@
 
 html {
   background: rgba(0, 0, 0, 0.01);
-  font-family: "Adobe Jenson Pro";
+  font-family: "EB Garamond 12";
   font-weight: 300;
   -weasy-lang: 'fr';
 }
@@ -26,27 +26,24 @@ body {
 }
 
 header {
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.7);
   border-bottom: 1cm solid transparent;
-  border-top: 1cm solid transparent;
-  box-sizing: content-box;
-  font-size: 4cm;
-  height: 7cm;
-  line-height: 8cm;
-  padding: 1cm 0;
+  border-radius: 2cm 2cm 0 0;
+  box-sizing: padding-box;
+  height: 8.5cm;
+  line-height: 7cm;
+  padding: 1.25cm 5em 0 0.75em;
   position: relative;
   text-align: center;
-  top: 11cm;
   vertical-align: middle;
   width: 100%;
 }
 
 h1 {
   display: inline-block;
-  font-size: 4cm;
   font-weight: normal;
-  line-height: 4cm;
-  text-align: center;
+  line-height: 3cm;
+  text-align: left;
   width: 100%;
 }
 
@@ -66,7 +63,7 @@ h1 {
   position: absolute;
   right: 2cm;
   text-align: right;
-  top: 0;
+  top: 0.5cm;
   width: 10em;
 }
 
@@ -94,10 +91,10 @@ img {
 }
 
 main {
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.8);
   border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 5mm;
   bottom: 2cm;
-  height: 50cm;
   -weasy-hyphens: auto;
   left: 5cm;
   padding: 2cm 2.5cm 2cm 2cm;
@@ -110,12 +107,11 @@ main {
   text-align: center;
 }
 .mat-symb {
-  background: rgba(255, 255, 255, 0.4);
-  box-shadow: 0.05em 0.05em 0 rgba(0, 0, 0, 0.2);
-  border-radius: 1em;
+  border: 0.03em solid;
+  background: rgba(230, 230, 230, 0.9);
   display: inline-block;
   font-family: Renaissance;
-  font-size: 1.2em;
+  font-size: 1em;
   height: 0.85em;
   line-height: 0.85em;
   text-align: center;
@@ -128,7 +124,7 @@ main {
   background-size: cover, cover;
 }
 .type-ma header {
-  border-color: rgba(70, 135, 170, 0.2);
+  border-color: rgba(70, 135, 170, 0.5);
 }
 .type-ma main {
   font-size: 0;
@@ -148,18 +144,16 @@ main {
   background-size: cover, cover;
 }
 .type-am header {
-  border-color: rgba(120, 0, 20, 0.25);
+  border-color: rgba(120, 0, 20, 0.5);
 }
 .type-am #ma-text {
-  font-size: 8cm;
+  font-size: 6cm;
   line-height: 0.6em;
 }
 .type-am #ou {
-  background: rgba(250, 250, 250, 0.5);
   display: block;
   font-style: italic;
   line-height: 1.2em;
-  margin: 0.6em 0;
   opacity: 0.5;
   text-align: center;
 }
@@ -170,7 +164,7 @@ main {
   background-size: cover, cover;
 }
 .type-ac header {
-  border-color: rgba(120, 0, 20, 0.25);
+  border-color: rgba(120, 0, 20, 0.5);
 }
 
 .type-sp {
@@ -178,7 +172,7 @@ main {
   background-size: cover, cover;
 }
 .type-sp header {
-  border-color: rgba(20, 0, 20, 0.15);
+  border-color: rgba(20, 0, 20, 0.5);
 }
 
 .type-mp {

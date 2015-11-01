@@ -52,7 +52,7 @@ Disposition
 Voici un exemple de disposition du jeu au cours d’une partie à 2 joueurs :
 
 .. image:: partie.svg
-   :width: 75%
+   :width: 70%
 
 Cartes
 ------

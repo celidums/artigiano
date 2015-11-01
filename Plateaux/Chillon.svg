@@ -30,6 +30,6 @@
   </g>
 
   <use xlink:href="Modèle.svg#footer" />
-  <text x="130" y="230" text-anchor="middle" opacity="0.8" font-family="Adobe Jenson Pro" font-size="18">Chillon</text>
+  <text x="130" y="230" text-anchor="middle" opacity="0.8" font-family="EB Garamond 12" font-size="18">Chillon</text>
   <use xlink:href="Modèle.svg#cut" />
 </svg>
