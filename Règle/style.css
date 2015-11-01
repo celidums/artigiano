@@ -49,7 +49,7 @@ body:after {
   content: '';
   display: block;
   height: 250mm;
-  margin: -20mm;
+  margin: -15mm -20mm;
   width: 105mm;
 }
 
@@ -101,11 +101,12 @@ p {
 }
 
 ul {
+  list-style: square;
   padding-left: 1.5em;
 }
 
 ul ul {
-  list-style: disc;
+  list-style: square;
 }
 
 ul, p {
