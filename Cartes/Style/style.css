@@ -71,8 +71,9 @@ h1 {
   bottom: 2cm;
   color: black;
   font-family: Renaissance;
+  font-size: 0.5em;
   line-height: 1em;
-  opacity: 0.4;
+  opacity: 0.9;
   padding: 0.1em 0.3em;
   position: absolute;
   right: 2cm;
@@ -100,7 +101,6 @@ main {
   padding: 2cm 2.5cm 2cm 2cm;
   position: absolute;
   right: 2cm;
-  text-align: justify;
 }
 
 #ma-text {
@@ -154,7 +154,7 @@ main {
 .type-am #ou {
   display: block;
   font-style: italic;
-  line-height: 1.5em;
+  line-height: 2em;
   opacity: 0.5;
   text-align: center;
 }
