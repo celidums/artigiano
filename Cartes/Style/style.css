@@ -8,7 +8,7 @@
 
 html {
   background: rgba(0, 0, 0, 0.01);
-  font-family: "EB Garamond 12";
+  font-family: "EB Garamond";
   font-weight: 300;
   -weasy-lang: 'fr';
 }
@@ -42,7 +42,7 @@ header {
 h1 {
   display: inline-block;
   font-weight: normal;
-  line-height: 3cm;
+  line-height: 3.3cm;
   text-align: left;
   width: 100%;
 }
@@ -107,14 +107,15 @@ main {
   text-align: center;
 }
 .mat-symb {
-  border: 0.03em solid;
-  background: rgba(230, 230, 230, 0.9);
+  border: 0.05em solid;
+  border-radius: 0.1em;
   display: inline-block;
   font-family: Renaissance;
   font-size: 1em;
   height: 0.85em;
   line-height: 0.85em;
   text-align: center;
+  vertical-align: -15%;
   width: 0.85em;
 }
 
@@ -131,7 +132,7 @@ main {
 }
 .type-ma #ma-text {
   font-size: 14cm;
-  line-height: 50cm;
+  line-height: 20cm;
 }
 
 .type-am {
@@ -153,7 +154,7 @@ main {
 .type-am #ou {
   display: block;
   font-style: italic;
-  line-height: 1.2em;
+  line-height: 1.5em;
   opacity: 0.5;
   text-align: center;
 }
@@ -183,6 +184,10 @@ main {
 .type-mp header {
   background-color: rgba(250, 250, 250, 0.3);
   border-color: rgba(250, 250, 250, 0.9);
+  padding-right: 2em;
+}
+.type-mp header h1 {
+  color: rgba(250, 250, 250, 0.9);
 }
 .type-mp #mi-points {
   color: rgba(250, 250, 250, 0.9);
@@ -196,19 +201,20 @@ main {
 .type-mr header {
   background-color: rgba(250, 250, 120, 0.2);
   border-color: rgba(230, 200, 0, 0.9);
+  padding-right: 2em;
 }
 .type-mr header h1 {
   color: rgba(230, 200, 0, 0.9);
   max-width: 70%;
 }
-.type-mr header:before, .type-mr header:after {
+.type-mr header:before {
   color: rgba(230, 200, 0, 0.9);
   content: '⚜';
-  height: 2em;
   display: inline-block;
+  height: 2em;
   line-height: 2em;
+  margin-left: -3em;
   vertical-align: top;
-  width: 10%;
 }
 .type-mr #mi-points {
   color: rgba(230, 200, 0, 0.9);

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink"
-     version="1.1" viewBox="0 0 3100 10800" font-family="EB Garamond 12" font-size="200">
+     version="1.1" viewBox="0 0 3100 10800" font-family="EB Garamond" font-size="200">
 
   <g transform="translate(620 4800)">
     <image transform="translate(-1 -2) rotate(1)" width="747" height="1122" xlink:href="../Cartes/Rendus/dos_autres.png" />
