@@ -1,3 +1,5 @@
+@import 'backgrounds.css';
+
 * {
   box-sizing: border-box;
   color: #222;
@@ -15,8 +17,8 @@ html {
 
 body {
   background-color: white;
-  background-image: url(fond.png);
   background-size: cover;
+  background-position: 50% 50%;
   border: solid black 3cm;
   border-radius: 4cm;
   height: 88cm;
@@ -48,13 +50,14 @@ h1 {
 }
 
 #type {
-  bottom: 2cm;
-  left: 5.5cm;
-  line-height: 5cm;
-  position: absolute;
-  transform: rotate(-90deg);
-  transform-origin: bottom left;
-  width: 30em;
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 0 0 2cm 0;
+  color: rgba(0, 0, 0, 0.3);
+  display: inline-block;
+  font-size: 0.8em;
+  font-style: italic;
+  margin: 0 auto;
+  padding: 0.5em 0.8em;
 }
 
 #material, #ma-points, #mi-points, #sp-points {
@@ -68,7 +71,7 @@ h1 {
 }
 
 #symbol {
-  bottom: 2cm;
+  bottom: 1cm;
   color: black;
   font-family: Renaissance;
   font-size: 0.5em;
@@ -76,7 +79,7 @@ h1 {
   opacity: 0.9;
   padding: 0.1em 0.3em;
   position: absolute;
-  right: 2cm;
+  right: 1cm;
 }
 
 img {
@@ -92,15 +95,15 @@ img {
 }
 
 main {
-  background: rgba(255, 255, 255, 0.8);
-  border: 1px solid rgba(0, 0, 0, 0.15);
-  border-radius: 5mm;
-  bottom: 2cm;
+  background: rgba(255, 255, 255, 0.7);
+  border-top: 1cm solid transparent;
+  border-radius: 0 0 2cm 2cm;
+  bottom: 0;
   -weasy-hyphens: auto;
-  left: 5cm;
+  left: 0;
   padding: 2cm 2.5cm 2cm 2cm;
   position: absolute;
-  right: 2cm;
+  right: 0;
 }
 
 #ma-text {
@@ -108,107 +111,83 @@ main {
 }
 .mat-symb {
   border: 0.05em solid;
+  background-color: white;
   border-radius: 0.1em;
   display: inline-block;
   font-family: Renaissance;
   font-size: 1em;
-  height: 0.85em;
+  height: .85em;
   line-height: 0.85em;
   text-align: center;
   vertical-align: -15%;
-  width: 0.85em;
+  width: .85em;
 }
 
-.type-ma {
-  background: url(fond.png) top left no-repeat, linear-gradient(
-    to bottom, rgba(70, 135, 170, 0.2) 0%) white;
-  background-size: cover, cover;
-}
-.type-ma header {
-  border-color: rgba(70, 135, 170, 0.5);
+.type-ma header,
+.type-ma main {
+  border-color: rgba(110, 20, 10, 0.5);
 }
 .type-ma main {
   font-size: 0;
 }
 .type-ma #ma-text {
-  font-size: 14cm;
-  line-height: 20cm;
+  font-size: 6cm;
+  line-height: 6cm;
 }
 
-.type-am {
-  background: url(fond.png) top left no-repeat, linear-gradient(
-    to bottom right,
-    rgba(140, 0, 20, 0.2) 0%,
-    rgba(140, 0, 20, 0.2) 50%,
-    rgba(70, 135, 170, 0.2) 50%,
-    rgba(70, 135, 170, 0.2) 100%) white;
-  background-size: cover, cover;
-}
-.type-am header {
-  border-color: rgba(120, 0, 20, 0.5);
+.type-am header,
+.type-am main {
+  border-color: rgba(220, 120, 10, 0.5);
 }
 .type-am #ma-text {
   font-size: 6cm;
-  line-height: 0.6em;
 }
 .type-am #ou {
   display: block;
+  font-size: 0.8em;
   font-style: italic;
-  line-height: 2em;
+  line-height: 1.5em;
   opacity: 0.5;
   text-align: center;
 }
-
-.type-ac {
-  background: url(fond.png) top left no-repeat, linear-gradient(
-    to bottom, rgba(140, 0, 20, 0.2) 0%) white;
-  background-size: cover, cover;
-}
-.type-ac header {
-  border-color: rgba(120, 0, 20, 0.5);
+.type-am #ou:before,
+.type-am #ou:after {
+  content: ' - ';
 }
 
-.type-sp {
-  background: url(fond.png) top left no-repeat white;
-  background-size: cover, cover;
-}
-.type-sp header {
-  border-color: rgba(20, 0, 20, 0.5);
+.type-ac header,
+.type-ac main {
+  border-color: rgba(220, 120, 10, 0.5);
 }
 
-.type-mp {
-  background: url(fond.png) top left no-repeat, linear-gradient(
-    to bottom, rgba(0, 80, 255, 0.7) 0%) white;
-  background-size: cover, cover;
+.type-sp header,
+.type-sp main {
+  border-color: rgba(20, 20, 20, 0.5);
 }
-.type-mp header {
-  background-color: rgba(250, 250, 250, 0.3);
-  border-color: rgba(250, 250, 250, 0.9);
+
+.type-mp header,
+.type-mp main {
+  border-color: rgba(170, 20, 20, 0.9);
   padding-right: 2em;
 }
 .type-mp header h1 {
-  color: rgba(250, 250, 250, 0.9);
+  color: rgba(170, 20, 20, 0.9);
 }
 .type-mp #mi-points {
-  color: rgba(250, 250, 250, 0.9);
+  color: rgba(170, 20, 20, 0.9);
 }
 
-.type-mr {
-  background: url(fond.png) top left no-repeat, linear-gradient(
-    to bottom, rgba(0, 80, 255, 0.7) 0%) white;
-  background-size: cover, cover;
-}
-.type-mr header {
-  background-color: rgba(250, 250, 120, 0.2);
-  border-color: rgba(230, 200, 0, 0.9);
+.type-mr header,
+.type-mr main {
+  border-color: rgba(40, 60, 110, 0.9);
   padding-right: 2em;
 }
 .type-mr header h1 {
-  color: rgba(230, 200, 0, 0.9);
+  color: rgba(40, 60, 110, 0.9);
   max-width: 70%;
 }
 .type-mr header:before {
-  color: rgba(230, 200, 0, 0.9);
+  color: rgba(40, 60, 110, 0.9);
   content: '⚜';
   display: inline-block;
   height: 2em;
@@ -217,7 +196,7 @@ main {
   vertical-align: top;
 }
 .type-mr #mi-points {
-  color: rgba(230, 200, 0, 0.9);
+  color: rgba(40, 60, 110, 0.9);
 }
 
 

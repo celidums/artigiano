@@ -41,6 +41,7 @@ for filename in os.listdir('.'):
                 variables = dict(
                     (key, value.decode('utf-8') if value != 'x' else '')
                     for key, value in card._asdict().items())
+                variables['i'] = i + 1
                 variables['code'] = code
                 variables['symbol'] = symbol
                 output_filename = (
