@@ -19,8 +19,6 @@ body {
   background-color: white;
   background-size: cover;
   background-position: 50% 50%;
-  border: solid black 3cm;
-  border-radius: 4cm;
   height: 88cm;
   margin: 1em;
   position: relative;
@@ -32,9 +30,9 @@ header {
   border-bottom: 1cm solid transparent;
   border-radius: 2cm 2cm 0 0;
   box-sizing: padding-box;
-  height: 8.5cm;
+  height: 14cm;
   line-height: 7cm;
-  padding: 1.25cm 5em 0 0.75em;
+  padding: 6.75cm 9cm 0 6.5cm;
   position: relative;
   text-align: center;
   vertical-align: middle;
@@ -57,21 +55,21 @@ h1 {
   font-size: 0.8em;
   font-style: italic;
   margin: 0 auto;
-  padding: 0.5em 0.8em;
+  padding: 0.5em 0.8em 0.5em 6cm;
 }
 
 #material, #ma-points, #mi-points, #sp-points {
   font-size: 1.2em;
   line-height: 8cm;
   position: absolute;
-  right: 2cm;
+  right: 7cm;
   text-align: right;
-  top: 0.5cm;
+  top: 6cm;
   width: 10em;
 }
 
 #symbol {
-  bottom: 1cm;
+  bottom: 6.5cm;
   color: black;
   font-family: Renaissance;
   font-size: 0.5em;
@@ -79,7 +77,7 @@ h1 {
   opacity: 0.9;
   padding: 0.1em 0.3em;
   position: absolute;
-  right: 1cm;
+  right: 6.5cm;
 }
 
 img {
@@ -101,7 +99,7 @@ main {
   bottom: 0;
   -weasy-hyphens: auto;
   left: 0;
-  padding: 2cm 2.5cm 2cm 2cm;
+  padding: 2cm 6.5cm 7.5cm 6.5cm;
   position: absolute;
   right: 0;
 }
@@ -212,15 +210,13 @@ main {
   }
 
   body {
-    border: solid black 6cm;
-    border-radius: 8cm;
+    /*border: solid black 6cm;*/
     height: 94cm;
     left: 50%;
     margin: -47cm -31cm;
     top: 50%;
     width: 62cm;
   }
-
 /*
   body:after {
     border: 0.1in dashed red;
@@ -235,7 +231,7 @@ main {
     top: 50%;
     width: 20.1in;
   }
-
+*/
   body:before {
     border: 0.1in dashed blue;
     border-radius: 4cm;
@@ -249,5 +245,4 @@ main {
     top: 50%;
     width: 22.5in;
   }
-*/
 }
