@@ -30,7 +30,7 @@ Matériau,Pierre,5,,x,x,Pierre,​
 Matériau,Tuile,3,,x,x,Tuile,​
 Matériau,Tuile,4,,x,x,Tuile,​
 Spéciale,x,x,1,,x,Le couvreur,Posez un matériau sur votre château et posez cette carte sur le matériau. Vous pouvez changer le type de cette carte matériau par le type de votre choix.
-Spéciale,x,x,,3,x,Le rénovateur,Remplacez certains matériaux déjà posés par des matériaux de votre main.
+Spéciale,x,x,,3,x,Le rénovateur,Remplacez certains matériaux déjà posés par des matériaux de même type de votre main. Les matériaux remplacés sont défaussés.
 Spéciale,x,x,,2,x,Le magasinier,"Durant toute la partie, vous pouvez stocker une carte supplémentaire sur cette carte. Cette carte n'est pas sensible aux actions qui concernent le stock."
 Spéciale,x,x,2,,x,Le compagnon,Posez cette carte sur le matériau de votre choix.
 Spéciale,x,x,,,x,Le forgeron,Posez cette carte sur le matériau de votre choix. Ce matériau ne peut pas être la cible des actions et ne peut pas être détruit par une action.

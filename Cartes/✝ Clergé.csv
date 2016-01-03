@@ -33,7 +33,7 @@ Spéciale,x,x,,-3,x,Le carillonneur,"Placez cette carte dans votre stock. En cas
 Spéciale,x,x,,2,x,Le pape,Une fois par partie vous pouvez annuler tous les effets d'une carte action adverse.
 Spéciale,x,x,,,x,Le curé,"À partir de maintenant, placez toutes les cartes action qui attaquent votre château sur cette carte et marquez 1 par carte en fin de partie."
 Spéciale,x,x,,-1,x,L'enfant de chœur,"Lorsqu'un adversaire lance une action contre votre château, l'action est annulée et cet adversaire récupère cette carte dans sa zone spéciale."
-Spéciale,x,x,,,x,La vierge,Remplacez un matériau par cette carte. La vierge et tous les matériaux adjacents sont insensibles aux attaques.
+Spéciale,x,x,,,x,La vierge,Remplacez un matériau par cette carte. Le matériau remplacé est défaussé. La vierge et tous les matériaux adjacents sont insensibles aux attaques.
 Mission royale,x,x,x,x,14,Le chemin de croix,Avoir au minimum 2 cases remplies de moins que le château le plus rempli.
 Mission royale,x,x,x,x,13,Le complot des Malcontents,Avoir le plus de points sur son château y compris avec les cartes spéciales sur les matériaux.
 Mission royale,x,x,x,x,12,La bataille d'Arques,Avoir un total d'au moins 18 points de mission sans cette mission.
