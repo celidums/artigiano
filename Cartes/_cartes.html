@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../Style/cartes.css" />
+  </head>
+
+  <body>
+    {% for filename in filenames %}
+      <img src="{{ filename.replace('html', 'png') }}" />
+    {% endfor %}
+  </body>
+
+</html>

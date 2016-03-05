@@ -48,7 +48,7 @@ for filename in os.listdir('.'):
                 output_filename = (
                     '%s - %s' % (code, variables['title'])
                     if variables['title'] else code)
-                filenames.append(output_filename + '.html')
+                filenames.append(output_filename + '.png')
                 output_file = os.path.join('Rendus', output_filename)
                 print('Rendu de %s' % output_filename)
                 with open(output_file + '.html', 'w') as fd:
@@ -62,3 +62,5 @@ with open('_cartes.html') as fd:
     cards_html = Template(fd.read())
 with open(cards_filename, 'w') as fd:
     fd.write(cards_html.render(filenames=filenames))
+weasy = weasyprint.HTML(cards_filename)
+weasy.write_pdf(cards_filename.replace('.html', '.pdf'))

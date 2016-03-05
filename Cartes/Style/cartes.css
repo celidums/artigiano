@@ -1,0 +1,22 @@
+@page {
+  margin: 0;
+}
+
+html {
+  margin: 0;
+  text-align: center;
+}
+
+iframe {
+  border: none;
+  margin: 0 -56.7cm -85.5cm 0;
+  height: 95cm;
+  width: 63cm;
+  transform: scale(0.1);
+  transform-origin: 0 0;
+}
+
+img {
+  margin: 0.05in 0;
+  width: 2.475in;
+}
