@@ -30,7 +30,7 @@ header {
   border-bottom: 1cm solid transparent;
   border-radius: 2cm 2cm 0 0;
   box-sizing: padding-box;
-  height: 14cm;
+  height: 16cm;
   line-height: 7cm;
   padding: 6.75cm 9cm 0 6.5cm;
   position: relative;
@@ -48,14 +48,17 @@ h1 {
 }
 
 #type {
-  background: rgba(255, 255, 255, 0.3);
   border-radius: 0 0 2cm 0;
-  color: rgba(0, 0, 0, 0.3);
+  color: black;
   display: inline-block;
   font-size: 0.8em;
   font-style: italic;
   margin: 0 auto;
-  padding: 0.5em 0.8em 0.5em 6cm;
+  opacity: 0.7;
+  padding: 0.5em 0.8em 0.5em 6.5cm;
+  position: absolute;
+  top: -2.5em;
+  left: 0;
 }
 
 #material, #ma-points, #mi-points, #sp-points {
@@ -69,15 +72,15 @@ h1 {
 }
 
 #symbol {
-  bottom: 6.5cm;
   color: black;
   font-family: Renaissance;
   font-size: 0.5em;
   line-height: 1em;
-  opacity: 0.9;
-  padding: 0.1em 0.3em;
+  opacity: 0.7;
+  padding: 0.5em 6.5cm 0.5em 0.8em;
   position: absolute;
-  right: 6.5cm;
+  top: -3.3em;
+  right: 0;
 }
 
 img {
@@ -99,7 +102,7 @@ main {
   bottom: 0;
   -weasy-hyphens: auto;
   left: 0;
-  padding: 2cm 6.5cm 7.5cm 6.5cm;
+  padding: 4cm 6.5cm 7.5cm 6.5cm;
   position: absolute;
   right: 0;
 }
@@ -210,14 +213,16 @@ main {
   }
 
   body {
-    /*border: solid black 6cm;*/
+    /* border: solid black 6cm; */
     height: 94cm;
     left: 50%;
     margin: -47cm -31cm;
     top: 50%;
     width: 62cm;
   }
-/*
+
+  /* Trait de coupe intérieur */
+  /*
   body:after {
     border: 0.1in dashed red;
     border-radius: 4cm;
@@ -227,11 +232,15 @@ main {
     height: 32.6in;
     left: 50%;
     margin: -16.4in -10.15in;
+    opacity: 0.2;
     position: absolute;
     top: 50%;
     width: 20.1in;
+    z-index: 5;
   }
-*/
+ */
+
+  /* Trait de coupe idéal */
   body:before {
     border: 0.1in dashed blue;
     border-radius: 4cm;
@@ -241,8 +250,10 @@ main {
     height: 35in;
     left: 50%;
     margin: -17.6in -11.35in;
+    opacity: 0.1;
     position: absolute;
     top: 50%;
     width: 22.5in;
+    z-index: 5;
   }
 }
