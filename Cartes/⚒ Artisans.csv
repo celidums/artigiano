@@ -1,46 +1,43 @@
-Type,Matériau,Valeur,Points matériaux,Points spéciaux,Points missions,Titre,Texte
-Action/Matériau,Fondation,1,,x,x,La révolte,Désignez un joueur qui passera son prochain tour.
-Action/Matériau,Fondation,2,,x,x,Le linteau,Posez 2 matériaux de même valeur.
-Action/Matériau,Fondation,3,,x,x,Les renforts,Posez 2 matériaux du même genre.
-Action/Matériau,Fondation,4,,x,x,Le glissement de terrain,Désignez un joueur qui perd une fondation de son choix. Les matériaux au-dessus de cette fondation sont également détruits.
-Action/Matériau,Pierre,1,,x,x,La poulie,Posez jusqu'à 3 matériaux au prochain tour.
-Action/Matériau,Pierre,2,,x,x,Le linteau,Posez 2 matériaux de même valeur.
-Action/Matériau,Pierre,3,,x,x,Les renforts,Posez 2 matériaux du même genre.
-Action/Matériau,Tuile,1,,x,x,La poulie,Posez jusqu'à 3 matériaux au prochain tour.
-Action/Matériau,Tuile,2,,x,x,Le plan de construction,Vous pouvez déplacer les matériaux posés sur votre château en respectant les règles de construction.
-Action/Matériau,Fondation/Pierre,1,,x,x,Le puits,Affichez les cartes de la pioche une par une jusqu'à obtenir un matériau. Placez ce matériau dans votre main. Remettez les autres cartes au-dessus de la pioche dans l'ordre de votre choix.
-Action/Matériau,Fondation/Pierre,3,,x,x,Le vestibule,"Regardez le stock d'un autre joueur. Vous pouvez y prendre un matériau pour le poser sur votre château. Si le matériau ne peut être posé, il reste dans son stock."
-Action/Matériau,Fondation/Pierre,4,,x,x,La bonne affaire,Échangez un matériau d'un château adverse avec un matériau de votre château.
-Action/Matériau,Pierre/Tuile,5,,x,x,Le pillage,Prenez un matériau superficiel posé sur le château d'un autre joueur et posez-le sur votre château.
-Action/Matériau,Fondation/Pierre/Tuile,1,,x,x,Le puits,Affichez les cartes de la pioche une par une jusqu'à obtenir un matériau. Placez ce matériau dans votre main. Remettez les autres cartes au-dessus de la pioche dans l'ordre de votre choix.
-Action/Matériau,Fondation/Pierre/Tuile,2,,x,x,Le vestibule,"Regardez le stock d'un autre joueur. Vous pouvez y prendre un matériau pour le poser sur votre château. Si le matériau ne peut être posé, il reste dans son stock."
-Action,x,x,x,x,x,Le cellier,Regardez les cartes du stock d'un autre joueur.
-Action,x,x,x,x,x,Les intempéries,Vous pouvez poser un matériau. Le joueur après vous passe son tour.
-Action,x,x,x,x,x,Les intempéries,Vous pouvez poser un matériau. Le joueur après vous passe son tour.
-Action,x,x,x,x,x,L'escalier à double révolution,Regardez la main du joueur de votre choix. Vous pouvez ensuite poser un matériau de votre main.
-Action,x,x,x,x,x,La fosse commune,Défaussez-vous du nombre de cartes que vous voulez.
-Matériau,Fondation,1,,x,x,Fondation,​
-Matériau,Fondation,2,,x,x,Fondation,​
-Matériau,Fondation,3,,x,x,Fondation,​
-Matériau,Fondation,4,,x,x,Fondation,​
-Matériau,Fondation,5,,x,x,Fondation,​
-Matériau,Pierre,1,,x,x,Pierre,​
-Matériau,Pierre,4,,x,x,Pierre,​
-Matériau,Pierre,5,,x,x,Pierre,​
-Matériau,Tuile,3,,x,x,Tuile,​
-Matériau,Tuile,4,,x,x,Tuile,​
-Spéciale,x,x,1,,x,Le couvreur,Posez un matériau sur votre château et posez cette carte sur le matériau. Vous pouvez changer le type de cette carte matériau par le type de votre choix.
-Spéciale,x,x,,3,x,Le rénovateur,Remplacez certains matériaux déjà posés par des matériaux de même type de votre main. Les matériaux remplacés sont défaussés.
-Spéciale,x,x,,2,x,Le magasinier,"Durant toute la partie, vous pouvez stocker une carte supplémentaire sur cette carte. Cette carte n'est pas sensible aux actions qui concernent le stock."
-Spéciale,x,x,2,,x,Le compagnon,Posez cette carte sur le matériau de votre choix.
-Spéciale,x,x,,,x,Le forgeron,Posez cette carte sur le matériau de votre choix. Ce matériau ne peut pas être la cible des actions et ne peut pas être détruit par une action.
-Mission royale,x,x,x,x,14,La projection de Mercator,N'avoir aucun matériau pur dans votre château.
-Mission royale,x,x,x,x,13,Le loch,Avoir au moins 6 matériaux purs dans votre château.
-Mission royale,x,x,x,x,12,Le télescope de Galilée,Avoir posé 3 cartes spéciales sur votre château ou dans votre zone spéciale.
-Mission royale,x,x,x,x,11,La Reine-Claude,Ne pas avoir de matériau 1 et 2 dans votre château.
-Mission royale,x,x,x,x,10,La Cité idéale de Léonard de Vinci,"N'avoir que des matériaux 1, 3 et 5 dans votre château."
-Mission princière,x,x,x,x,9,Les lanternes du Palais Strozzi de Nicolo Grosso,"Ayez au moins un matériau 1, un 2, un 3, un 4 et un 5 dans votre château."
-Mission princière,x,x,x,x,8,Le caquetoire,"Ayez rempli toutes vos cases fondations avec des fondations 1, 2 et / ou 3."
-Mission princière,x,x,x,x,7,Le studiolo,Soyez le premier à poser une tuile.
-Mission princière,x,x,x,x,6,La mappemonde d'Abraham Ortelius,Soyez le premier à avoir posé toutes vos pierres.
-Mission princière,x,x,x,x,5,Les toitures en ardoise,Soyez le premier à avoir posé toutes vos fondations.
+Titre,Texte,Genre,Valeur,"Points matériaux","Points spéciaux","Points missions"
+"Le dôme","Posez jusqu'à 3 matériaux au prochain tour.",Fondation,1,,x,x
+"Le plan de construction","Dévoilez les 3 premières cartes de la pioche fermée. Prenez jusqu’à 3 matériaux parmi les cartes visibles.",Fondation,2,,x,x
+"L'imprimerie","Posez 2 matériaux du même genre.",Fondation,3,,x,x
+"L'imprimerie","Posez 2 matériaux du même genre.",Fondation,2,,x,x
+"Le dôme","Posez jusqu'à 3 matériaux au prochain tour.",Pierre,1,,x,x
+"Le plan de construction","Dévoilez les 3 premières cartes de la pioche fermée. Prenez jusqu’à 3 matériaux parmi les cartes visibles.",Pierre,2,,x,x
+"Le dôme","Posez jusqu'à 3 matériaux au prochain tour.",Pierre,3,,x,x
+"Le linteau","Posez 2 matériaux de même valeur.",Tuile,2,,x,x
+"Le linteau","Posez 2 matériaux de même valeur.",Tuile,3,,x,x
+"Les colonnes","Désignez un joueur qui passera son prochain tour.","Fondation/Pierre",1,,x,x
+"La perspective","Désignez un joueur qui défausse un matériau superficiel de son choix de son château.","Fondation/Pierre",2,,x,x
+"La façade","Désignez un joueur qui perd une fondation de son choix. Les matériaux au-dessus de cette fondation sont également détruits.","Fondation/Pierre",3,,x,x
+"La façade","Désignez un joueur qui perd une fondation de son choix. Les matériaux au-dessus de cette fondation sont également détruits.","Pierre/Tuile",3,,x,x
+"Les colonnes","Désignez un joueur qui passera son prochain tour.","Fondation/Pierre/Tuile",1,,x,x
+"La perspective","Désignez un joueur qui défausse un matériau superficiel de son choix de son château.","Fondation/Pierre/Tuile",2,,x,x
+"La gravure","Vous pouvez prendre tout ou partie des matériaux de la pioche ouverte et les remplacer par des cartes de votre main. Rejouez.",,x,x,x,x
+"Les intempéries","Vous pouvez poser un matériau. Le joueur après vous passe son tour.",,x,x,x,x
+"Les intempéries","Vous pouvez poser un matériau. Le joueur après vous passe son tour.",,x,x,x,x
+"La gravure","Vous pouvez prendre tout ou partie des matériaux de la pioche ouverte et les remplacer par des cartes de votre main. Rejouez.",,x,x,x,x
+"La fosse commune","Défaussez-vous du nombre de cartes que vous voulez.",,x,x,x,x
+Fondation,,Fondation,1,,x,x
+Fondation,,Fondation,2,,x,x
+Fondation,,Fondation,3,,x,x
+Fondation,,Fondation,1,,x,x
+Fondation,,Fondation,2,,x,x
+Pierre,,Pierre,1,,x,x
+Pierre,,Pierre,2,,x,x
+Pierre,,Pierre,3,,x,x
+Tuile,,Tuile,1,,x,x
+Tuile,,Tuile,2,,x,x
+"L'architecte","Posez un matériau sur votre château et posez cette carte sur le matériau. Vous pouvez changer le genre de cette carte matériau par le genre de votre choix.",,x,1,,x
+"Le luthier","Remplacez certains matériaux déjà posés par des matériaux de même genre de votre main. Les matériaux remplacés sont défaussés.",,x,,3,x
+"Le magasinier","Durant toute la partie, vous pouvez stocker une carte supplémentaire sur cette carte. Cette carte n'est pas sensible aux actions qui concernent le stock.",,x,,2,x
+"Le peintre","Posez cette carte sur le matériau de votre choix.",,x,2,,x
+"L'écrivain","Posez cette carte sur le matériau de votre choix. Ce matériau ne peut pas être la cible des actions et ne peut pas être détruit par une action.",,x,,,x
+"La chapelle Sixtine","N'avoir aucun matériau pur dans votre château.",,x,x,x,7
+"Le télescope de Galilée","Avoir au moins 6 matériaux purs dans votre château.",,x,x,x,7
+"La Cité idéale","N'avoir que des matériaux 1 et 3 dans votre château.",,x,x,x,7
+"L'Orfeo de Monteverdi","Ayez au moins deux matériaux 1, deux matériaux 2 et deux matériaux 3 dans votre château.",,x,x,x,5
+"Le palais des Tuileries","Soyez le premier à poser une tuile.",,x,x,x,5
+"L'Alcázar de Tolède","Soyez le premier à avoir posé toutes vos pierres.",,x,x,x,5
+"Les toitures en ardoise","Soyez le premier à avoir posé toutes vos fondations.",,x,x,x,5

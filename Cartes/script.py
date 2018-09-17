@@ -16,16 +16,8 @@ with open('_carte.html') as fd:
     html = Template(fd.read())
 
 Card = namedtuple('Card', [
-    'type', 'material', 'value', 'ma_points', 'sp_points',
-    'mi_points', 'title', 'text'])
-
-
-for back_type in ('missions', 'autres'):
-    print('Rendu du dos %s' % back_type)
-    filename = '_dos_%s.html' % back_type
-    weasy = weasyprint.HTML(filename)
-    weasy.write_png(
-        os.path.join('Rendus', 'dos_%s.png' % back_type), resolution=30)
+    'title', 'text', 'material', 'value', 'ma_points', 'sp_points',
+    'mi_points', 'type'])
 
 
 filenames = []
@@ -38,6 +30,20 @@ for filename in os.listdir('.'):
             next(reader)
             for i, line in enumerate(reader):
                 code = '%s%02i' % (symbol, i + 1)
+                if line[-1] == '5':
+                    line.append('Mission princière')
+                elif line[-1] == '7':
+                    line.append('Mission royale')
+                else:
+                    if line[1] and line[2]:
+                        line.append('Action/Matériau')
+                    elif line[2]:
+                        line.append('Matériau')
+                        line[2] = line[0]
+                    elif line[-2] == 'x':
+                        line.append('Action')
+                    else:
+                        line.append('Spéciale')
                 card = Card(*line)
                 variables = dict(
                     (key, value if value != 'x' else '')
@@ -55,6 +61,14 @@ for filename in os.listdir('.'):
                     fd.write(html.render(**variables))
                 weasy = weasyprint.HTML(output_file + '.html')
                 weasy.write_png(output_file + '.png', resolution=30)
+
+
+for back_type in ('missions', 'autres'):
+    print('Rendu du dos %s' % back_type)
+    filename = '_dos_%s.html' % back_type
+    weasy = weasyprint.HTML(filename)
+    weasy.write_png(
+        os.path.join('Rendus', 'dos_%s.png' % back_type), resolution=30)
 
 
 cards_filename = os.path.join('Rendus', 'cartes.html')

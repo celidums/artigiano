@@ -18,68 +18,53 @@ html {
 body {
   background-color: white;
   background-size: cover;
-  background-position: 50% 50%;
-  height: 88cm;
-  margin: 1em;
+  background-position: 50% 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
   position: relative;
-  width: 56cm;
-}
-
-header {
-  background: rgba(255, 255, 255, 0.7);
-  border-bottom: 1cm solid transparent;
-  border-radius: 2cm 2cm 0 0;
-  box-sizing: padding-box;
-  height: 16cm;
-  line-height: 7cm;
-  padding: 6.75cm 9cm 0 6.5cm;
-  position: relative;
-  text-align: center;
-  vertical-align: middle;
-  width: 100%;
 }
 
 h1 {
-  display: inline-block;
+  color: white;
+  font-size: 0.7em;
+  font-style: italic;
   font-weight: normal;
-  line-height: 3.3cm;
-  text-align: left;
-  width: 100%;
+  padding: 2cm 6.5cm;
+  opacity: 0.8;
+  text-align: right;
 }
 
 #type {
-  border-radius: 0 0 2cm 0;
   color: black;
-  display: inline-block;
-  font-size: 0.8em;
+  font-size: 0.7em;
   font-style: italic;
-  margin: 0 auto;
-  opacity: 0.7;
-  padding: 0.5em 0.8em 0.5em 6.5cm;
+  margin: 1em auto;
+  opacity: 0.5;
   position: absolute;
-  top: -2.5em;
-  left: 0;
+  left: 6.5cm;
+  bottom: 3.5cm;
 }
 
 #material, #ma-points, #mi-points, #sp-points {
+  color: white;
+  flex: 1;
   font-size: 1.2em;
-  line-height: 8cm;
-  position: absolute;
-  right: 7cm;
+  opacity: 0.6;
+  order: -1;
   text-align: right;
-  top: 6cm;
-  width: 10em;
+  padding: 6cm;
+  width: 49cm;
 }
 
 #symbol {
-  color: black;
   font-family: Renaissance;
   font-size: 0.5em;
   line-height: 1em;
   opacity: 0.7;
-  padding: 0.5em 6.5cm 0.5em 0.8em;
+  padding: 3.5em;
   position: absolute;
-  top: -3.3em;
+  bottom: 0;
   right: 0;
 }
 
@@ -96,22 +81,19 @@ img {
 }
 
 main {
-  background: rgba(255, 255, 255, 0.7);
-  border-top: 1cm solid transparent;
+  background: rgba(255, 255, 255, 0.9);
+  border-top: 3mm solid transparent;
   border-radius: 0 0 2cm 2cm;
-  bottom: 0;
   -weasy-hyphens: auto;
-  left: 0;
-  padding: 4cm 6.5cm 7.5cm 6.5cm;
-  position: absolute;
-  right: 0;
+  padding: 2.5cm 6.5cm 10.5cm 6.5cm;
 }
 
 #ma-text {
   text-align: center;
 }
+
 .mat-symb {
-  border: 0.05em solid;
+  border: 0.05em solid black;
   background-color: white;
   border-radius: 0.1em;
   display: inline-block;
@@ -128,9 +110,6 @@ main {
 .type-ma main {
   border-color: rgba(110, 20, 10, 0.5);
 }
-.type-ma main {
-  font-size: 0;
-}
 .type-ma #ma-text {
   font-size: 6cm;
   line-height: 6cm;
@@ -145,7 +124,7 @@ main {
 }
 .type-am #ou {
   display: block;
-  font-size: 0.8em;
+  font-size: 0.7em;
   font-style: italic;
   line-height: 1.5em;
   opacity: 0.5;
@@ -169,37 +148,12 @@ main {
 .type-mp header,
 .type-mp main {
   border-color: rgba(170, 20, 20, 0.9);
-  padding-right: 2em;
-}
-.type-mp header h1 {
-  color: rgba(170, 20, 20, 0.9);
-}
-.type-mp #mi-points {
-  color: rgba(170, 20, 20, 0.9);
 }
 
 .type-mr header,
 .type-mr main {
   border-color: rgba(40, 60, 110, 0.9);
-  padding-right: 2em;
 }
-.type-mr header h1 {
-  color: rgba(40, 60, 110, 0.9);
-  max-width: 70%;
-}
-.type-mr header:before {
-  color: rgba(40, 60, 110, 0.9);
-  content: '⚜';
-  display: inline-block;
-  height: 2em;
-  line-height: 2em;
-  margin-left: -3em;
-  vertical-align: top;
-}
-.type-mr #mi-points {
-  color: rgba(40, 60, 110, 0.9);
-}
-
 
 @page {
   margin: 0;
@@ -223,7 +177,7 @@ main {
 
   /* Trait de coupe intérieur */
   /*
-  body:after {
+  html:after {
     border: 0.1in dashed red;
     border-radius: 4cm;
     box-sizing: padding-box;
@@ -238,11 +192,11 @@ main {
     width: 20.1in;
     z-index: 5;
   }
- */
+  */
 
   /* Trait de coupe idéal */
-  body:before {
-    border: 0.1in dashed blue;
+  html:before {
+    border: 0.1in dashed green;
     border-radius: 4cm;
     box-sizing: padding-box;
     content: '';
@@ -250,7 +204,7 @@ main {
     height: 35in;
     left: 50%;
     margin: -17.6in -11.35in;
-    opacity: 0.1;
+    opacity: 0.3;
     position: absolute;
     top: 50%;
     width: 22.5in;
