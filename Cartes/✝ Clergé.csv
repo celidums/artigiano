@@ -1,24 +1,24 @@
-Titre,Texte,Genre,Valeur,"Points matériaux","Points spéciaux","Points missions"
-"L'argent du tribut","Défaussez une carte spéciale qui a été jouée par vous-même ou par un autre joueur.",Fondation,1,,x,x
-"La confrérie","Les autres joueurs ne pourront poser d’action au prochain tour.",Fondation,2,,x,x
-"La confrérie","Les autres joueurs ne pourront poser d’action au prochain tour.",Fondation,3,,x,x
-"L'argent du tribut","Défaussez une carte spéciale qui a été jouée par vous-même ou par un autre joueur.",Fondation,2,,x,x
-"Le Pater Noster","Défaussez 2 cartes et rejouez sans piocher.",Pierre,1,,x,x
-"Le baptême","Les autres joueurs ne piochent pas lors de leur prochain tour.",Pierre,2,,x,x
-"Le Pater Noster","Défaussez 2 cartes et rejouez sans piocher.",Pierre,3,,x,x
-"La prière","Prenez toutes les cartes de la pioche ouverte. Rejouez une carte.",Tuile,2,,x,x
-"La confrérie","Les autres joueurs ne pourront poser d’action au prochain tour.",Tuile,3,,x,x
-"Le baptême","Les autres joueurs ne piochent pas lors de leur prochain tour.","Fondation/Pierre",1,,x,x
-"La chapelle","Les autres joueurs doivent jouer leur stock au prochain tour. Ils ne peuvent jouer de carte contre vous. Un joueur sans stock passe son tour.","Fondation/Pierre",2,,x,x
-"La chapelle","Les autres joueurs doivent jouer leur stock au prochain tour. Ils ne peuvent jouer de carte contre vous. Un joueur sans stock passe son tour.","Fondation/Pierre",3,,x,x
-"La prière","Prenez toutes les cartes de la pioche ouverte. Rejouez une carte.","Pierre/Tuile",3,,x,x
-"La révélation","Regardez le stock d'un autre joueur. Échangez le nombre de cartes de son stock que vous voulez avec le même nombre de cartes de votre stock.","Fondation/Pierre/Tuile",1,,x,x
-"La révélation","Regardez le stock d'un autre joueur. Échangez le nombre de cartes de son stock que vous voulez avec le même nombre de cartes de votre stock.","Fondation/Pierre/Tuile",2,,x,x
-"Le péché","À la fin de votre tour, piochez 2 cartes en plus.",,x,x,x,x
-"Le péché","À la fin de votre tour, piochez 2 cartes en plus.",,x,x,x,x
-"La fosse commune","Défaussez-vous du nombre de cartes que vous voulez.",,x,x,x,x
-"La trinité","Demandez à un joueur de vous dévoiler une de ses missions obligatoires.",,x,x,x,x
-"La trinité","Demandez à un joueur de vous dévoiler une de ses missions obligatoires.",,x,x,x,x
+Titre,Texte,Genre,Valeur,Points matériaux,Points spéciaux,Points missions
+L'argent du tribut,Défaussez une carte spéciale qui a été jouée par vous-même ou par un autre joueur.,Fondation,1,,x,x
+La confrérie,Les autres joueurs ne pourront poser d’action au prochain tour.,Fondation,2,,x,x
+La confrérie,Les autres joueurs ne pourront poser d’action au prochain tour.,Fondation,3,,x,x
+L'argent du tribut,Défaussez une carte spéciale qui a été jouée par vous-même ou par un autre joueur.,Fondation,2,,x,x
+La croix,Défaussez 2 cartes et rejouez sans piocher.,Pierre,1,,x,x
+Le baptême,Les autres joueurs ne piochent pas lors de leur prochain tour.,Pierre,2,,x,x
+La croix,Défaussez 2 cartes et rejouez sans piocher.,Pierre,3,,x,x
+La prière,Prenez toutes les cartes de la pioche ouverte. Rejouez une carte.,Tuile,2,,x,x
+La confrérie,Les autres joueurs ne pourront poser d’action au prochain tour.,Tuile,3,,x,x
+Le baptême,Les autres joueurs ne piochent pas lors de leur prochain tour.,Fondation/Pierre,1,,x,x
+La chapelle,Les autres joueurs doivent jouer leur stock au prochain tour. Ils ne peuvent jouer de carte contre vous. Un joueur sans stock passe son tour.,Fondation/Pierre,2,,x,x
+La chapelle,Les autres joueurs doivent jouer leur stock au prochain tour. Ils ne peuvent jouer de carte contre vous. Un joueur sans stock passe son tour.,Fondation/Pierre,3,,x,x
+La prière,Prenez toutes les cartes de la pioche ouverte. Rejouez une carte.,Pierre/Tuile,3,,x,x
+La révélation,Regardez le stock d'un autre joueur. Échangez le nombre de cartes de son stock que vous voulez avec le même nombre de cartes de votre stock.,Fondation/Pierre/Tuile,1,,x,x
+La révélation,Regardez le stock d'un autre joueur. Échangez le nombre de cartes de son stock que vous voulez avec le même nombre de cartes de votre stock.,Fondation/Pierre/Tuile,2,,x,x
+Le péché,"À la fin de votre tour, piochez 2 cartes en plus.",,x,x,x,x
+Le péché,"À la fin de votre tour, piochez 2 cartes en plus.",,x,x,x,x
+La fosse commune,Défaussez-vous du nombre de cartes que vous voulez.,,x,x,x,x
+La trinité,Demandez à un joueur de vous dévoiler une de ses missions obligatoires.,,x,x,x,x
+La trinité,Demandez à un joueur de vous dévoiler une de ses missions obligatoires.,,x,x,x,x
 Fondation,,Fondation,1,,x,x
 Fondation,,Fondation,2,,x,x
 Fondation,,Fondation,3,,x,x
@@ -29,15 +29,15 @@ Pierre,,Pierre,2,,x,x
 Pierre,,Pierre,3,,x,x
 Tuile,,Tuile,1,,x,x
 Tuile,,Tuile,2,,x,x
-"La mère de douleur","Placez cette carte dans votre stock. En cas d'attaque du stock, l'action est annulée et cette carte est placée dans la zone spéciale de l'attaquant.",,x,,-3,x
-"Le pape","Vous ne subissez plus les effets des cartes : « la fraude », « le baptême ».",,x,,2,x
-"Le cardinal","Vous ne subissez plus les effets des cartes : « la contrebande », « la confrérie ».",,x,,1,x
-"Le moine","Posez cette carte sur une mission non encore réalisée de votre choix. Marquez 2 points en plus en fin de partie si la mission est réalisée.",,x,,2,x
-"Le curé","Remplacez un matériau par cette carte. Le matériau remplacé est défaussé. La vierge et tous les matériaux adjacents sont insensibles aux attaques.",,x,,1,x
-"La bataille de Lépante","Ne pas avoir de matériau 1 dans votre château.",,x,x,x,7
-"Le siège d'Alger","Avoir 7 matériaux de même valeur.",,x,x,x,7
-"La bataille de Coutras","Ne pas avoir toutes les cases « pierre » remplies.",,x,x,x,7
-"Le massacre de la Saint-Barthélémy","Ayez posé toutes vos fondations avant d'avoir posé une pierre.",,x,x,x,5
-"L'édit de Nantes","Ayez stocké une carte spéciale et 2 actions pures.",,x,x,x,5
-"La bataille d'Arques","Posez 3 matériaux stockés au même tour.",,x,x,x,5
-"Le sac de Lyon","Ayez joué une carte spéciale avant d'avoir posé une pierre.",,x,x,x,5
+La mère de douleur,"Placez cette carte dans votre stock. En cas d'attaque du stock, l'action est annulée et cette carte est placée dans la zone spéciale de l'attaquant.",,x,,-3,x
+Le pape,"Vous ne subissez plus les effets des cartes : « la fraude », « le baptême ».",,x,,2,x
+Le cardinal,"Vous ne subissez plus les effets des cartes : « la contrebande », « la confrérie ».",,x,,1,x
+Le moine,Posez cette carte sur une mission non encore réalisée de votre choix. Marquez 2 points en plus en fin de partie si la mission est réalisée.,,x,,2,x
+Le curé,Remplacez un matériau par cette carte. Le matériau remplacé est défaussé. La vierge et tous les matériaux adjacents sont insensibles aux attaques.,,x,,1,x
+La bataille de Lépante,Ne pas avoir de matériau 1 dans votre château.,,x,x,x,7
+Le siège d'Alger,Avoir 7 matériaux de même valeur.,,x,x,x,7
+La bataille de Coutras,Ne pas avoir toutes les cases « pierre » remplies.,,x,x,x,7
+Le massacre de la Saint-Barthélémy,Ayez posé toutes vos fondations avant d'avoir posé une pierre.,,x,x,x,5
+L'édit de Nantes,Ayez stocké une carte spéciale et 2 actions pures.,,x,x,x,5
+La bataille d'Arques,Posez 3 matériaux stockés au même tour.,,x,x,x,5
+Le sac de Lyon,Ayez joué une carte spéciale avant d'avoir posé une pierre.,,x,x,x,5

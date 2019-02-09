@@ -1,24 +1,24 @@
-Titre,Texte,Genre,Valeur,"Points matériaux","Points spéciaux","Points missions"
-"Le cellier","Regardez les cartes du stock d'un autre joueur. Puis, jouez une carte.",Fondation,1,,x,x
-"La devanture","Tous les autres joueurs se défaussent de 2 cartes.",Fondation,2,,x,x
-"La bonne affaire","Échangez un matériau d'un château adverse avec un matériau de votre château.",Fondation,3,,x,x
-L'étal,"Posez autant de matériaux de votre main que vous voulez. Ces matériaux doivent être de même genre et de même valeur que des matériaux déjà posés sur votre château.",Fondation,2,,x,x
-"Le cellier","Regardez les cartes du stock d'un autre joueur. Puis, jouez une carte.",Pierre,1,,x,x
-"Le marché","Posez 2 matériaux de votre choix. Les joueurs qui ont des matériaux de même genre et de même valeur peuvent les poser aussi.",Pierre,2,,x,x
-L'étal,"Posez autant de matériaux de votre main que vous voulez. Ces matériaux doivent être de même genre et de même valeur que des matériaux déjà posés sur votre château.",Pierre,3,,x,x
-"Le négoce","Regardez la main d'un adversaire. Prenez une carte de votre choix et donnez-lui en une de votre main.",Tuile,2,,x,x
+Titre,Texte,Genre,Valeur,Points matériaux,Points spéciaux,Points missions
+Le cellier,"Regardez les cartes du stock d'un autre joueur. Puis, jouez une carte.",Fondation,1,,x,x
+La devanture,Tous les autres joueurs se défaussent de 2 cartes.,Fondation,2,,x,x
+La bonne affaire,Échangez un matériau d'un château adverse avec un matériau de votre château.,Fondation,3,,x,x
+L'étal,Posez autant de matériaux de votre main que vous voulez. Ces matériaux doivent être de même genre et de même valeur que des matériaux déjà posés sur votre château.,Fondation,2,,x,x
+Le cellier,"Regardez les cartes du stock d'un autre joueur. Puis, jouez une carte.",Pierre,1,,x,x
+Le marché,Posez 2 matériaux de votre choix. Les joueurs qui ont des matériaux de même genre et de même valeur peuvent les poser aussi.,Pierre,2,,x,x
+L'étal,Posez autant de matériaux de votre main que vous voulez. Ces matériaux doivent être de même genre et de même valeur que des matériaux déjà posés sur votre château.,Pierre,3,,x,x
+Le négoce,Regardez la main d'un adversaire. Prenez une carte de votre choix et donnez-lui en une de votre main.,Tuile,2,,x,x
 L'arrangement,"Vous pouvez poser un matériau. À la fin de votre tour, rejouez.",Tuile,3,,x,x
-"La devanture","Tous les autres joueurs se défaussent de 2 cartes.","Fondation/Pierre",1,,x,x
-"Le marché","Posez 2 matériaux de votre choix. Les joueurs qui ont des matériaux de même genre et de même valeur peuvent les poser aussi.","Fondation/Pierre",2,,x,x
-"La bonne affaire","Échangez un matériau d'un château adverse avec un matériau de votre château.","Fondation/Pierre",3,,x,x
-"Le négoce","Regardez la main d'un adversaire. Prenez une carte de votre choix et donnez-lui en une de votre main.","Pierre/Tuile",3,,x,x
-L'étal,"Posez autant de matériaux de votre main que vous voulez. Ces matériaux doivent être de même genre et de même valeur que des matériaux déjà posés sur votre château.","Fondation/Pierre/Tuile",1,,x,x
-L'arrangement,"Vous pouvez poser un matériau. À la fin de votre tour, rejouez.","Fondation/Pierre/Tuile",2,,x,x
-"La fosse commune","Défaussez-vous du nombre de cartes que vous voulez.",,x,x,x,x
-"L'alchimie","Échangez votre main avec celle du joueur de votre choix.",,x,x,x,x
-"L'alchimie","Échangez votre main avec celle du joueur de votre choix.",,x,x,x,x
-"La contrebande","Les autres joueurs vous donnent la carte de la plus forte valeur de leur main. À défaut, une spéciale ou une action.",,x,x,x,x
-"La contrebande","Les autres joueurs vous donnent la carte de la plus forte valeur de leur main. À défaut, une spéciale ou une action.",,x,x,x,x
+La devanture,Tous les autres joueurs se défaussent de 2 cartes.,Fondation/Pierre,1,,x,x
+Le marché,Posez 2 matériaux de votre choix. Les joueurs qui ont des matériaux de même genre et de même valeur peuvent les poser aussi.,Fondation/Pierre,2,,x,x
+La bonne affaire,Échangez un matériau d'un château adverse avec un matériau de votre château.,Fondation/Pierre,3,,x,x
+Le négoce,Regardez la main d'un adversaire. Prenez une carte de votre choix et donnez-lui en une de votre main.,Pierre/Tuile,3,,x,x
+L'étal,Posez autant de matériaux de votre main que vous voulez. Ces matériaux doivent être de même genre et de même valeur que des matériaux déjà posés sur votre château.,Fondation/Pierre/Tuile,1,,x,x
+L'arrangement,"Vous pouvez poser un matériau. À la fin de votre tour, rejouez.",Fondation/Pierre/Tuile,2,,x,x
+La fosse commune,Défaussez-vous du nombre de cartes que vous voulez.,,x,x,x,x
+L'alchimie,Échangez votre main avec celle du joueur de votre choix.,,x,x,x,x
+L'alchimie,Échangez votre main avec celle du joueur de votre choix.,,x,x,x,x
+La contrebande,"Les autres joueurs vous donnent la carte de la plus forte valeur de leur main. À défaut, une spéciale ou une action.",,x,x,x,x
+La contrebande,"Les autres joueurs vous donnent la carte de la plus forte valeur de leur main. À défaut, une spéciale ou une action.",,x,x,x,x
 Fondation,,Fondation,1,,x,x
 Fondation,,Fondation,2,,x,x
 Fondation,,Fondation,3,,x,x
@@ -29,15 +29,15 @@ Pierre,,Pierre,2,,x,x
 Pierre,,Pierre,3,,x,x
 Tuile,,Tuile,1,,x,x
 Tuile,,Tuile,2,,x,x
-"La quincaillière","À la fin de la partie, marquez 1 point de plus par mission princière réussie.",,x,,1,x
-"Le gantier","À la fin de la partie, dupliquez une carte spéciale d'un adversaire.",,x,,,x
-"Le prêteur sur gage","À la fin de la partie, choisissez le château d'un autre joueur et marquez 1 point par matériau 3 posé sur son château.",,x,,1,x
-"Le fourreur","Vous ne pouvez pas jouer cette carte. Vous pouvez seulement la garder en main, la stocker, l'échanger ou la défausser. Pour qu'elle soit placée dans votre zone spéciale, elle doit être dévoilée, vue ou prise par hasard par un autre joueur.",,x,,3,x
-"La pacotilleuse","Prenez une carte au hasard dans le stock d'un adversaire, défaussez-là et placez-y celle-ci à la place.",,x,,,x
-"La mappemonde d'Abraham Ortelius","Avoir 4 cartes de même genre et de même valeur qu'un joueur de votre choix.",,x,x,x,7
-"Le port de Calicut","Ne pas avoir plus de 2 actions dans votre main à la fin de la partie.",,x,x,x,7
-"La découverte du cap Horn","Avoir le stock rempli et sans carte action à la fin de la partie.",,x,x,x,7
-"Le Nouveau monde","Jouez une action pure lors de 2 tours successifs.",,x,x,x,5
-"La route des Indes","Ayez défaussé un matériau pur lors de 2 tours successifs.",,x,x,x,5
-"L'herbe à la reine","Jouez 2 actions qui ciblent la même personne dans le même tour.",,x,x,x,5
-"La projection de Mercator","Ayez défaussé une carte spéciale.",,x,x,x,5
+La quincaillière,"À la fin de la partie, marquez 1 point de plus par mission princière réussie.",,x,,1,x
+Le gantier,"À la fin de la partie, dupliquez une carte spéciale d'un adversaire.",,x,,,x
+Le prêteur sur gage,"À la fin de la partie, choisissez le château d'un autre joueur et marquez 1 point par matériau 3 posé sur son château.",,x,,1,x
+Le fourreur,"Vous ne pouvez pas jouer cette carte. Vous pouvez seulement la garder en main, la stocker, l'échanger ou la défausser. Pour qu'elle soit placée dans votre zone spéciale, elle doit être dévoilée, vue ou prise par hasard par un autre joueur.",,x,,3,x
+La pacotilleuse,"Prenez une carte au hasard dans le stock d'un adversaire, défaussez-là et placez-y celle-ci à la place.",,x,,,x
+La mappemonde d'Abraham Ortelius,Avoir 4 cartes de même genre et de même valeur qu'un joueur de votre choix.,,x,x,x,7
+Le port de Calicut,Ne pas avoir plus de 2 actions dans votre main à la fin de la partie.,,x,x,x,7
+La découverte du cap Horn,Avoir le stock rempli et sans carte action à la fin de la partie.,,x,x,x,7
+Le Nouveau monde,Jouez une action pure lors de 2 tours successifs.,,x,x,x,5
+La route des Indes,Ayez défaussé un matériau pur lors de 2 tours successifs.,,x,x,x,5
+L’Invincible Armada,Jouez 2 actions qui ciblent la même personne dans le même tour.,,x,x,x,5
+La projection de Mercator,Ayez défaussé une carte spéciale.,,x,x,x,5
